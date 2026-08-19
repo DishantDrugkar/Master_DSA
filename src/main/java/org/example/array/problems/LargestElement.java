@@ -1,4 +1,4 @@
-package org.example.array;
+package org.example.array.problems;
 
 public class LargestElement {
     public static void main(String[] args) {
