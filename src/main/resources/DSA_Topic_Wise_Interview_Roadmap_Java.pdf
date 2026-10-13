@@ -1,0 +1,3581 @@
+%PDF-1.4
+%“Œ‹ ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2+0 384 0 R /F3+0 388 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/Contents 392 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Contents 393 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 657.3729 262.3323 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 657.3729 466.6127 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-element/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 639.8729 181.8019 649.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-element/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 639.8729 466.6127 649.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/move-zeroes/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 622.3729 165.6161 631.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/move-zeroes/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 622.3729 471.5117 631.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/missing-number/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 604.8729 177.9744 614.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/missing-number/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 604.8729 471.5117 614.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 587.3729 277.706 596.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 587.3729 471.5117 596.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 515.7863 250.7409 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 515.7863 471.5117 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 498.2863 262.3323 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 498.2863 466.6127 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 480.7863 269.3217 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 480.7863 466.6127 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/move-zeroes/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 463.2863 165.6161 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/move-zeroes/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 463.2863 471.5117 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/container-with-most-water/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 445.7863 220.144 455.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/container-with-most-water/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 445.7863 466.6127 455.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/3sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 428.2863 138.0495 437.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/3sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 428.2863 466.6127 437.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sort-colors/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 410.7863 158.2281 420.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sort-colors/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 410.7863 466.6127 420.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/trapping-rain-water/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 393.2863 195.3897 402.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/trapping-rain-water/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 393.2863 466.6127 402.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 321.6997 191.2502 331.1997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 321.6997 466.6127 331.1997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-product-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 304.1997 223.2382 313.6997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-product-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 304.1997 471.5117 313.6997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 286.6997 238.8488 296.1997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 286.6997 471.5117 296.1997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-sum-circular-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 269.1997 243.2327 278.6997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-sum-circular-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 269.1997 471.5117 278.6997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/running-sum-of-1d-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 197.6131 213.9629 207.1131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/running-sum-of-1d-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 197.6131 476.4107 207.1131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-pivot-index/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 180.1131 177.5157 189.6131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-pivot-index/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 180.1131 471.5117 189.6131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/range-sum-query-immutable/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 162.6131 240.27 172.1131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/range-sum-query-immutable/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 162.6131 471.5117 172.1131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subarray-sum-equals-k/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 145.1131 206.026 154.6131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subarray-sum-equals-k/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 145.1131 471.5117 154.6131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/contiguous-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 127.6131 182.7004 137.1131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/contiguous-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 127.6131 471.5117 137.1131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/product-of-array-except-self/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 110.1131 224.2835 119.6131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/product-of-array-except-self/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 110.1131 471.5117 119.6131 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 
+  25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 
+  35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 
+  45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R ] /Contents 394 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/two-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 738.8729 151.3102 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/two-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 738.8729 461.7137 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/contains-duplicate/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 721.3729 188.7499 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/contains-duplicate/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 721.3729 471.5117 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-anagram/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 703.8729 172.6205 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-anagram/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 703.8729 471.5117 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/group-anagrams/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 686.3729 181.0913 695.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/group-anagrams/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 686.3729 466.6127 695.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/top-k-frequent-elements/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 668.8729 213.2034 678.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/top-k-frequent-elements/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 668.8729 471.5117 678.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-consecutive-sequence/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 651.3729 236.5779 660.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-consecutive-sequence/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 651.3729 471.5117 660.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subarray-sum-equals-k/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 633.8729 206.026 643.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subarray-sum-equals-k/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 633.8729 471.5117 643.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-string/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 522.7824 172.6055 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-string/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 522.7824 471.5117 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-palindrome/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 505.2824 181.0048 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-palindrome/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 505.2824 471.5117 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-words-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 487.7824 216.0759 497.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-words-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 487.7824 471.5117 497.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-prefix/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 470.2824 207.9473 479.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-prefix/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 470.2824 466.6127 479.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 452.7824 304.0845 462.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 452.7824 466.6127 462.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/string-compression/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 435.2824 191.4419 444.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/string-compression/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 435.2824 471.5117 444.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-average-subarray-i/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 363.6958 230.4871 373.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-average-subarray-i/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 363.6958 471.5117 373.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 346.1958 346.2615 355.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 346.1958 476.4107 355.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 328.6958 304.6146 338.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 328.6958 461.7137 338.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-repeating-character-replacement/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 311.1958 282.0748 320.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-repeating-character-replacement/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 311.1958 471.5117 320.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/permutation-in-string/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 293.6958 198.1907 303.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/permutation-in-string/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 293.6958 471.5117 303.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-window-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 276.1958 223.7496 285.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-window-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 276.1958 466.6127 285.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-palindromic-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 204.6092 233.2317 214.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-palindromic-substring/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 204.6092 461.7137 214.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindromic-substrings/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 187.1092 204.2589 196.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindromic-substrings/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 187.1092 471.5117 196.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 169.6092 237.7547 179.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 169.6092 476.4107 179.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/Annots [ 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 
+  62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 
+  72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 
+  82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 
+  92 0 R 93 0 R 94 0 R 95 0 R ] /Contents 395 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-search/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 709.8729 169.6954 719.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-search/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 709.8729 471.5117 719.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-insert-position/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 692.3729 199.7397 701.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-insert-position/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 692.3729 466.6127 701.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/first-bad-version/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 674.8729 181.3432 684.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/first-bad-version/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 674.8729 471.5117 684.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 657.3729 324.3947 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 657.3729 466.6127 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-in-rotated-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 639.8729 236.0402 649.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-in-rotated-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 639.8729 466.6127 649.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 622.3729 263.8851 631.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 622.3729 471.5117 631.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-peak-element/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 604.8729 187.5505 614.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-peak-element/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 604.8729 471.5117 614.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sqrtx/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 533.2863 142.407 542.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sqrtx/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 533.2863 466.6127 542.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/koko-eating-bananas/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 515.7863 197.4274 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/koko-eating-bananas/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 515.7863 471.5117 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 498.2863 274.9689 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 498.2863 476.4107 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/split-array-largest-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 480.7863 207.2705 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/split-array-largest-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 480.7863 471.5117 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/median-of-two-sorted-arrays/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 463.2863 227.107 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/median-of-two-sorted-arrays/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 463.2863 461.7137 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 352.1958 190.9268 361.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 352.1958 471.5117 361.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/middle-of-the-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 334.6958 210.0189 344.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/middle-of-the-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 334.6958 471.5117 344.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 317.1958 180.6739 326.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 317.1958 471.5117 326.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-two-sorted-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 299.6958 205.9884 309.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-two-sorted-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 299.6958 466.6127 309.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 282.1958 251.2372 291.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 282.1958 466.6127 291.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 264.6958 203.1536 274.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/palindrome-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 264.6958 471.5117 274.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/intersection-of-two-linked-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 247.1958 237.4765 256.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/intersection-of-two-linked-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 247.1958 471.5117 256.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 175.6092 180.6739 185.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 175.6092 471.5117 185.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 158.1092 187.6633 167.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/linked-list-cycle-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 158.1092 471.5117 167.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/middle-of-the-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 140.6092 210.0189 150.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/middle-of-the-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 140.6092 471.5117 150.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+141 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/happy-number/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 123.1092 174.1019 132.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+142 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/happy-number/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 123.1092 471.5117 132.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+143 0 obj
+<<
+/Annots [ 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 
+  107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 
+  117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 
+  127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 
+  137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R ] /Contents 396 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+144 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/add-two-numbers/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 738.8729 186.4752 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+145 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/add-two-numbers/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 738.8729 461.7137 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+146 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 721.3729 197.9162 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+147 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 721.3729 466.6127 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+148 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reorder-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 703.8729 162.5443 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+149 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reorder-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 703.8729 471.5117 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+150 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/copy-list-with-random-pointer/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 686.3729 234.3446 695.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+151 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/copy-list-with-random-pointer/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 686.3729 471.5117 695.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+152 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-k-sorted-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 668.8729 194.7355 678.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+153 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-k-sorted-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 668.8729 466.6127 678.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+154 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 557.7824 185.024 567.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+155 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/valid-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 557.7824 466.6127 567.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+156 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/min-stack/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 540.2824 153.3104 549.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+157 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/min-stack/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 540.2824 471.5117 549.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+158 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 522.7824 243.6387 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+159 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 522.7824 471.5117 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+160 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/daily-temperatures/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 505.2824 192.0773 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+161 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/daily-temperatures/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 505.2824 471.5117 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+162 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/next-greater-element-i/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 487.7824 204.9583 497.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+163 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/next-greater-element-i/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 487.7824 471.5117 497.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+164 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/largest-rectangle-in-histogram/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 470.2824 237.7209 479.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+165 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/largest-rectangle-in-histogram/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 470.2824 466.6127 479.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+166 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/next-greater-element-i/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 398.6958 204.9583 408.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+167 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/next-greater-element-i/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 398.6958 471.5117 408.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+168 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/daily-temperatures/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 381.1958 192.0773 390.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+169 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/daily-temperatures/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 381.1958 471.5117 390.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+170 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/next-greater-element-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 363.6958 207.2292 373.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+171 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/next-greater-element-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 363.6958 471.5117 373.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+172 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/largest-rectangle-in-histogram/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 346.1958 237.7209 355.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+173 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/largest-rectangle-in-histogram/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 346.1958 466.6127 355.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+174 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sum-of-subarray-minimums/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 328.6958 222.5916 338.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+175 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sum-of-subarray-minimums/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 328.6958 471.5117 338.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+176 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-queue-using-stacks/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 257.1092 237.0779 266.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+177 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-queue-using-stacks/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 257.1092 471.5117 266.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+178 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-stack-using-queues/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 239.6092 237.0779 249.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+179 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-stack-using-queues/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 239.6092 471.5117 249.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+180 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-recent-calls/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 222.1092 206.9209 231.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+181 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-recent-calls/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 222.1092 471.5117 231.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+182 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/rotting-oranges/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 204.6092 178.7978 214.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+183 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/rotting-oranges/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 204.6092 471.5117 214.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+184 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-maximum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 187.1092 215.2074 196.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+185 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-maximum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 187.1092 471.5117 196.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+186 0 obj
+<<
+/Annots [ 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 
+  154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 
+  164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 
+  174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 
+  184 0 R 185 0 R ] /Contents 397 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+187 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/fibonacci-number/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 709.8729 185.6331 719.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+188 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/fibonacci-number/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 709.8729 471.5117 719.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+189 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/pow-x-n/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 692.3729 151.8741 701.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+190 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/pow-x-n/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 692.3729 466.6127 701.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+191 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 674.8729 190.9268 684.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+192 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-linked-list/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 674.8729 471.5117 684.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+193 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/k-th-symbol-in-grammar/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 657.3729 211.3912 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+194 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/k-th-symbol-in-grammar/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 657.3729 471.5117 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+195 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subsets/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 585.7863 146.3172 595.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+196 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subsets/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 585.7863 466.6127 595.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+197 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/combinations/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 568.2863 168.857 577.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+198 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/combinations/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 568.2863 466.6127 577.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+199 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/permutations/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 550.7863 167.308 560.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+200 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/permutations/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 550.7863 466.6127 560.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+201 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/combination-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 533.2863 184.5615 542.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+202 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/combination-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 533.2863 466.6127 542.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+203 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 515.7863 270.9873 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+204 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 515.7863 466.6127 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+205 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/generate-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 498.2863 201.8339 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+206 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/generate-parentheses/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 498.2863 466.6127 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+207 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 480.7863 165.3303 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+208 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 480.7863 466.6127 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+209 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/n-queens/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 463.2863 153.7277 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+210 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/n-queens/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 463.2863 466.6127 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+211 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-preorder-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 352.1958 234.4423 361.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+212 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-preorder-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 352.1958 471.5117 361.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+213 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 334.6958 229.0471 344.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+214 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 334.6958 466.6127 344.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+215 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-postorder-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 317.1958 238.2811 326.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+216 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-postorder-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 317.1958 471.5117 326.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+217 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-level-order-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 299.6958 246.154 309.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+218 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-level-order-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 299.6958 471.5117 309.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+219 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 282.1958 236.5741 291.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+220 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 282.1958 471.5117 291.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+221 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/same-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 264.6958 157.5175 274.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+222 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/same-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 264.6958 471.5117 274.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+223 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/invert-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 247.1958 185.494 256.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+224 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/invert-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 247.1958 471.5117 256.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+225 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/diameter-of-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 175.6092 208.6804 185.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+226 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/diameter-of-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 175.6092 471.5117 185.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+227 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/balanced-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 158.1092 198.4614 167.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+228 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/balanced-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 158.1092 471.5117 167.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+229 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/path-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 140.6092 152.8592 150.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+230 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/path-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 140.6092 471.5117 150.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+231 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-right-side-view/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 123.1092 223.1292 132.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+232 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-right-side-view/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 123.1092 471.5117 132.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+233 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 105.6092 280.5671 115.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+234 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 105.6092 471.5117 115.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+235 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 88.10915 274.5515 97.60915 ] /Subtype /Link /Type /Annot
+>>
+endobj
+236 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 88.10915 471.5117 97.60915 ] /Subtype /Link /Type /Annot
+>>
+endobj
+237 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 70.60915 240.2286 80.10915 ] /Subtype /Link /Type /Annot
+>>
+endobj
+238 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 70.60915 471.5117 80.10915 ] /Subtype /Link /Type /Annot
+>>
+endobj
+239 0 obj
+<<
+/Annots [ 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 
+  197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 
+  207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 
+  217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 
+  227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 
+  237 0 R 238 0 R ] /Contents 398 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+240 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-in-a-binary-search-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 738.8729 235.1905 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+241 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-in-a-binary-search-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 738.8729 471.5117 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+242 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/validate-binary-search-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 721.3729 223.5616 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+243 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/validate-binary-search-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 721.3729 466.6127 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+244 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 703.8729 232.7128 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+245 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 703.8729 471.5117 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+246 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 686.3729 250.9064 695.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+247 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 686.3729 471.5117 695.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+248 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/delete-node-in-a-bst/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 668.8729 197.6794 678.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+249 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/delete-node-in-a-bst/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 668.8729 471.5117 678.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+250 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/kth-largest-element-in-an-array/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 557.7824 239.2699 567.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+251 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/kth-largest-element-in-an-array/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 557.7824 471.5117 567.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+252 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/top-k-frequent-elements/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 540.2824 213.2034 549.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+253 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/top-k-frequent-elements/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 540.2824 471.5117 549.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+254 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/k-closest-points-to-origin/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 522.7824 213.1357 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+255 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/k-closest-points-to-origin/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 522.7824 471.5117 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+256 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-median-from-data-stream/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 505.2824 234.5175 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+257 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-median-from-data-stream/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 505.2824 471.5117 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+258 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-k-sorted-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 487.7824 194.7355 497.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+259 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-k-sorted-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 487.7824 466.6127 497.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+260 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/task-scheduler/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 470.2824 174.7711 479.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+261 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/task-scheduler/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 470.2824 471.5117 479.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+262 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 359.1918 245.8382 368.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+263 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 359.1918 471.5117 368.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+264 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/jump-game/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 341.6918 160.7923 351.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+265 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/jump-game/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 341.6918 466.6127 351.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+266 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/jump-game-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 324.1918 167.7817 333.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+267 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/jump-game-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 324.1918 466.6127 333.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+268 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/gas-station/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 306.6918 160.4013 316.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+269 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/gas-station/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 306.6918 471.5117 316.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+270 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/non-overlapping-intervals/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 289.1918 215.6698 298.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+271 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/non-overlapping-intervals/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 289.1918 471.5117 298.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+272 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/partition-labels/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 271.6918 175.5494 281.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+273 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/partition-labels/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 271.6918 471.5117 281.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+274 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/candy/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 254.1918 140.3016 263.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+275 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/candy/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 254.1918 471.5117 263.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+276 0 obj
+<<
+/Annots [ 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 
+  250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 
+  260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 
+  270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R ] /Contents 399 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+277 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/climbing-stairs/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 709.8729 174.2222 719.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+278 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/climbing-stairs/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 709.8729 466.6127 719.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+279 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/min-cost-climbing-stairs/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 692.3729 209.8986 701.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+280 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/min-cost-climbing-stairs/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 692.3729 471.5117 701.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+281 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/house-robber/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 674.8729 170.1992 684.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+282 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/house-robber/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 674.8729 471.5117 684.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+283 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/house-robber-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 657.3729 177.1886 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+284 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/house-robber-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 657.3729 471.5117 666.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+285 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/decode-ways/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 639.8729 168.466 649.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+286 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/decode-ways/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 639.8729 466.6127 649.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+287 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-break/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 622.3729 161.0705 631.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+288 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-break/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 622.3729 471.5117 631.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+289 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-increasing-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 604.8729 242.9996 614.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+290 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-increasing-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 604.8729 471.5117 614.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+291 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/unique-paths/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 533.2863 166.7628 542.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+292 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/unique-paths/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 533.2863 466.6127 542.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+293 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-path-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 515.7863 190.9907 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+294 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-path-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 515.7863 466.6127 525.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+295 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 498.2863 237.7547 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+296 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-common-subsequence/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 498.2863 476.4107 507.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+297 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/edit-distance/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 480.7863 166.9094 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+298 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/edit-distance/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 480.7863 466.6127 490.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+299 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/coin-change/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 463.2863 164.9168 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+300 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/coin-change/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 463.2863 471.5117 472.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+301 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/partition-equal-subset-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 445.7863 220.8433 455.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+302 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/partition-equal-subset-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 445.7863 471.5117 455.2863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+303 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/target-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 428.2863 160.8299 437.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+304 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/target-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 428.2863 471.5117 437.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+305 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-if-path-exists-in-graph/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 317.1958 219.8093 326.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+306 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-if-path-exists-in-graph/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 317.1958 476.4107 326.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+307 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-islands/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 299.6958 186.0504 309.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+308 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-islands/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 299.6958 471.5117 309.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+309 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/flood-fill/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 282.1958 150.0544 291.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+310 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/flood-fill/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 282.1958 471.5117 291.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+311 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/clone-graph/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 264.6958 163.7926 274.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+312 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/clone-graph/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 264.6958 471.5117 274.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+313 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/rotting-oranges/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 247.1958 178.7978 256.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+314 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/rotting-oranges/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 247.1958 471.5117 256.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+315 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/course-schedule/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 229.6958 180.595 239.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+316 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/course-schedule/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 229.6958 471.5117 239.1958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+317 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/pacific-atlantic-water-flow/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 212.1958 218.2904 221.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+318 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/pacific-atlantic-water-flow/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 212.1958 471.5117 221.6958 ] /Subtype /Link /Type /Annot
+>>
+endobj
+319 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/course-schedule-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 140.6092 187.5844 150.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+320 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/course-schedule-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 140.6092 471.5117 150.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+321 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/network-delay-time/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 123.1092 194.0888 132.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+322 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/network-delay-time/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 123.1092 471.5117 132.6092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+323 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 105.6092 238.7849 115.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+324 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 105.6092 471.5117 115.1092 ] /Subtype /Link /Type /Annot
+>>
+endobj
+325 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/path-with-minimum-effort/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 88.10915 215.0044 97.60915 ] /Subtype /Link /Type /Annot
+>>
+endobj
+326 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/path-with-minimum-effort/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 88.10915 476.4107 97.60915 ] /Subtype /Link /Type /Annot
+>>
+endobj
+327 0 obj
+<<
+/Annots [ 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 
+  287 0 R 288 0 R 289 0 R 290 0 R 291 0 R 292 0 R 293 0 R 294 0 R 295 0 R 296 0 R 
+  297 0 R 298 0 R 299 0 R 300 0 R 301 0 R 302 0 R 303 0 R 304 0 R 305 0 R 306 0 R 
+  307 0 R 308 0 R 309 0 R 310 0 R 311 0 R 312 0 R 313 0 R 314 0 R 315 0 R 316 0 R 
+  317 0 R 318 0 R 319 0 R 320 0 R 321 0 R 322 0 R 323 0 R 324 0 R 325 0 R 326 0 R ] /Contents 400 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+328 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-provinces/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 738.8729 196.2093 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+329 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-provinces/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 738.8729 471.5117 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+330 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/redundant-connection/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 721.3729 204.1386 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+331 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/redundant-connection/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 721.3729 471.5117 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+332 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/accounts-merge/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 703.8729 177.7376 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+333 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/accounts-merge/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 703.8729 471.5117 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+334 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/single-number/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 592.7824 172.9326 602.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+335 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/single-number/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 592.7824 471.5117 602.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+336 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-1-bits/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 575.2824 180.9296 584.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+337 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-1-bits/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 575.2824 471.5117 584.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+338 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/counting-bits/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 557.7824 167.5561 567.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+339 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/counting-bits/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 557.7824 471.5117 567.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+340 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-bits/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 540.2824 164.0783 549.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+341 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/reverse-bits/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 540.2824 471.5117 549.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+342 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/missing-number/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 522.7824 177.9744 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+343 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/missing-number/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 522.7824 471.5117 532.2824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+344 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sum-of-two-integers/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 505.2824 195.337 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+345 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sum-of-two-integers/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 505.2824 471.5117 514.7824 ] /Subtype /Link /Type /Annot
+>>
+endobj
+346 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-intervals/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 394.1918 176.0005 403.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+347 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/merge-intervals/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 394.1918 466.6127 403.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+348 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/insert-interval/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 376.6918 169.9022 386.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+349 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/insert-interval/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 376.6918 466.6127 386.1918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+350 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/non-overlapping-intervals/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 359.1918 215.6698 368.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+351 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/non-overlapping-intervals/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 359.1918 471.5117 368.6918 ] /Subtype /Link /Type /Annot
+>>
+endobj
+352 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/set-matrix-zeroes/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 270.1052 184.3021 279.6052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+353 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/set-matrix-zeroes/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 270.1052 466.6127 279.6052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+354 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/spiral-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 252.6052 164.5107 262.1052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+355 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/spiral-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 252.6052 466.6127 262.1052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+356 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/rotate-image/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 235.1052 167.9998 244.6052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+357 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/rotate-image/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 235.1052 466.6127 244.6052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+358 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-a-2d-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 217.6052 189.6372 227.1052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+359 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/search-a-2d-matrix/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 217.6052 466.6127 227.1052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+360 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 200.1052 165.3303 209.6052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+361 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 200.1052 466.6127 209.6052 ] /Subtype /Link /Type /Annot
+>>
+endobj
+362 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-trie-prefix-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 89.01467 224.9489 98.51467 ] /Subtype /Link /Type /Annot
+>>
+endobj
+363 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/implement-trie-prefix-tree/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 89.01467 471.5117 98.51467 ] /Subtype /Link /Type /Annot
+>>
+endobj
+364 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 71.51467 172.3197 81.01467 ] /Subtype /Link /Type /Annot
+>>
+endobj
+365 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-search-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 71.51467 471.5117 81.01467 ] /Subtype /Link /Type /Annot
+>>
+endobj
+366 0 obj
+<<
+/Annots [ 328 0 R 329 0 R 330 0 R 331 0 R 332 0 R 333 0 R 334 0 R 335 0 R 336 0 R 337 0 R 
+  338 0 R 339 0 R 340 0 R 341 0 R 342 0 R 343 0 R 344 0 R 345 0 R 346 0 R 347 0 R 
+  348 0 R 349 0 R 350 0 R 351 0 R 352 0 R 353 0 R 354 0 R 355 0 R 356 0 R 357 0 R 
+  358 0 R 359 0 R 360 0 R 361 0 R 362 0 R 363 0 R 364 0 R 365 0 R ] /Contents 401 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+367 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-maximum/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 738.8729 215.2074 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+368 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-maximum/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 738.8729 471.5117 748.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+369 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lru-cache/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 721.3729 157.5514 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+370 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lru-cache/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 721.3729 471.5117 730.8729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+371 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lfu-cache/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 703.8729 156.6302 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+372 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/lfu-cache/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 703.8729 471.5117 713.3729 ] /Subtype /Link /Type /Annot
+>>
+endobj
+373 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-ladder/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 632.2863 165.3942 641.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+374 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/word-ladder/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 632.2863 471.5117 641.7863 ] /Subtype /Link /Type /Annot
+>>
+endobj
+375 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/regular-expression-matching/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 543.1997 228.0244 552.6997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+376 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/regular-expression-matching/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 543.1997 466.6127 552.6997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+377 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/burst-balloons/)
+>> /Border [ 0 0 0 ] /Rect [ 115.8819 525.6997 171.282 535.1997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+378 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/burst-balloons/)
+>> /Border [ 0 0 0 ] /Rect [ 444.7008 525.6997 471.5117 535.1997 ] /Subtype /Link /Type /Annot
+>>
+endobj
+379 0 obj
+<<
+/Annots [ 367 0 R 368 0 R 369 0 R 370 0 R 371 0 R 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R 
+  377 0 R 378 0 R ] /Contents 402 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+380 0 obj
+<<
+/Contents 403 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 391 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+381 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 681
+>>
+stream
+xœmÕMoÚ@…á½…—­º€ñıJ%„”&”E?ÔTİ;0¤TÅXù÷ÃAÉ¨­%¸/²G<‚ÅİÜßŞÛc;û:íWùØn¶ÃzÊ‡ıiZåö1?m‡&uíz»:^>ßW»~lfåğÃóá˜w÷Ãfß,íì[¹y8NÏí›ëóõî6ÿêœúáğ¶™}™ÖyÚOÿ¿ûpÇßy—‡c;o–Ëv7å+>õãç~—ÛÙ?G^øş<æ¶;NT®öë|ûUúá)7‹ù|Ù.ânÙäaı×½Ô]ñÌãfõ³Ÿ.ÏÎËµ,Jwó¤èîÜ]‡–ê­Úªöª£ê«ªßW}]õ‡ªoª¾­úcÕw¯*JUwUWşTùSåO•?UşTùSåO•?UşTùSåO•?UşşîÜô—QšşóïßÑ_Fiú;üGıe”¦¿ŒÒô—Qšş2JÓ_FiúË(M¥é/£4ıe”¦¿ŒÒô—Ñ,„~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?è¿lˆË&À®À{ÙA«Ó4•õt^†çÅƒ•³òË¾÷#NáõKŠ¬endstream
+endobj
+382 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 18699 /Length1 35584
+>>
+stream
+xœí½	|Eö8^ÕÕİÓÓsOfr‹IL¸“@€@ 1„@P4!	B&æ Y.I@Ğ€DˆˆˆÈb@TTYuwYp]EWDÖ/»"$ÍÿUõLD×U÷ø}>ÿî®®zõî÷êuM@!dBóAÙYc’ò{Lï-gàÈ+šVX©ß'ÏD÷„Ã·hz‚ÊCRâ2á^-­œ<íÓ§ ÄÃ=zjòÔ™¥O$¦Aş
+B®e%…Å1ù™Y¥o†ç½Ë Á´Q÷.ÜSøQeÓjîıÃ½ë
+·xñTwQá×üeBÃCÃÓ
+ï­äßïAhx6Ü+…ÓJÂÜ£€ûJ„n•*İÕ5×O£	-º—>¯¬*©ì¯û\.z!¡aŞŒ—#®“…µ0C¨v&@¥œ¨0ˆ„H<ÇñçQÅõß£ÖërTA,cviz1r!åúuÑ¡:ğ:İ4|¶ áë]GÚF˜HÄ2»šÇZ9ôóâWé„ôHF€nBfdAVdCväƒÈ‰|‘òG(¡`‚BQRP8Š@‘(
+E£.(uE±¨êâPP"º%¡dÔõB½QÔ¥ ~¨?€nEÑ  4¥¡ÁhJQCÃQF¢L4
+FY(İ†rĞ”‹Æ¢<4GùÀõÛÑh"ºİ…
+P!cJ/ÔŒÂç´­Ç[á®šï–&nZ„j¡å5|/áz@ÛVt	‡õè(ÙÁ#<0<
+ıO	ºŒsÑ^€‘‚8E'òˆÍïåsøfş<õá«ùc|_“É&!OØ
+G
+ydúp£„ªÑòI&ù!¼}D‘èS˜…øGQÚŒf.ìFs¹Ù\´¡uğqÃócx>ØÀÑIôá¹áh>	tEÿ@I.7Ä•Ì•şG Ö1¿UƒøN‚6¨\whìa®Iìwé!œdŸKh.Ìœ‹6‹Í¢C	³PmÅ¯áâJÔ„“;È=ä4^ÄGòÛøá¨Aã )@ {#–â™@;ıÌ¦Ğ¹|Ş¾àt“ öë”"˜s/—•¢ƒpÌ­@S¼ˆ,LéÓtL7‚O€ñ A7¨FÈMz¡)p5íB{P²5 $F¯ØGøŒ\Ï47à¹ cdhY)xŠ‰V#ô¼NxÂa§XwsÑÅ»]·WŞÌïwÃ­bÕ)»QönÓL¥ùúõìñ|¿[ŞM¢¥İ|täÇ?ôğãq#³Ç+»[Ó‡x ¦¶1ãá’ŞA3´§aÏè¤»…hø—Q°[)*S°>ÙïkI?pq*UWó¥Âf°;
+tùkH¼†%a.Ç£„Ã'.Ü‚¬'.œ¸èc·E‡ÛÂKyÔRM‚Z>UWëÌW¾©cÁŞ‹ñºõÜL€aù-·ñ%¼Ã&ú„;Ã‹u}¯¼ÉÍ\ÎŒ'ã÷É">ìÚş¼ş1Šw £Õ3O"îÙ;9É×é##ºàä§sßS;çÌÙÉ]½ï©§î›³s'àÖH'a.=êå²èĞB~>'éL@«ekËÈİ†Üñûº~¨oş€I))· „s-ï$â}È ²dbt²3Ò–l#‘÷:zô¨c“SU…“­÷¨âŠ#‡^';¸/Ø:”æ²ø~Í—xADÇKt{îÈİ>¹·ÃD¨å%à2Ì—ˆ]–D½KŸ­/ĞWê›ô/ëu±-¸iÃî\Ô˜ê$×l®‰~ÂK0W*pİd@õ:>D/˜¸z?‹ÓèLñ±Û¬f“Q/y,PökË;~”Æ'h@Nº””è²°3&h´;Â$<‡“p÷I& vDú°£W8;x?õÃ\=¤G•7MÆ}ÕÇsğ@õÑ²¦ÉêéÉ—©¯ã‚\õ%\^J©{H½Zˆ7ª…ëÔ=kÕIx=ÖâÑëğFêÅw¨Çùi¢|rWğ½/ºÆFp²AÁ]ºrƒ‚Cƒ¹„Ø„ .66!ÍÇfƒby?Qß-\àüê|Å:Áø€ï+êö€ Rò•Cu±v{„UO°®‹dÄD*=•·@Å0r·äbÍ½}än€\T.ûhñpùÜªŸ8w!é°õ¢õ¢ÍbK±ÙıàHIóÑYù¯tVóW6¿”¶ÿU~$ñ8¦W(ö³Åã^={÷é•ì„'4ÚB1¨«ØÌpöõ³„ç]¸½Å¸ü÷SJßwøÖŸŞ)¸kÌ˜gî8ûÁÙŠkfİóñÜù³Õã¸×£Ç^W*ÆoFí\ıÄAó—ŸóaAÏt‹çÕ±‘{×oÍB^gš2>¯à¤še«˜0¾Œê¦€î¹~VÔ 0¢\2Zâêe‰îİÅ“†6†>ÿ ÿÃQâÃÆ»Ø—uZÑ3&<(ZOLN³Şd	7u7™,·zjÌ£s;åürĞ_fúËÄøwåêá—/X/şã"ehšõ\ÒåçX‹õ¢Æ5á+z Ÿ"D`BrRoàAŒ×_Û£“q¤O‡gÂûãŠŠÆ-*»áÀ5x¡eM^Ñ¤qãŠŠÉ-M-šÂ6|aãÆı¸«î_ĞØ¸`aãÜ3/¼púôOs…î_µêşù«ç~÷¢éô/şéôÁg4ı¬ Ÿô(s­6a³±Îf·êdƒİnÓ×!½Ó×©Ã¢Tçëëä0Áu!¡!¨NBCC”0.<Ô&ûÈ`vÄßaó‘u'êm>>2‡9‚´Gœ¿8hkšİ '"’CIW§Yì#6úwoŒYµÂ™ÙG7˜õ(ŞîŒ1‡’x{L¸Ùf«³Yo±¶€6¸`}Cc.h#UHjÎoœûÇgÀ_ëTGıè¿6Všbv:un“¾§Å´¥­5?b%	ã‰®=:ƒ¡FÁ8Œó3tCİp{?ÔÓ>Äp'ÊÇä±ö	Âò'‡ÎF¢ux-·Fj4¬t6ú6F¬í¦7è’ÍcìêÏéÆ [°#Øé–ƒbp¬>ÒŞÍ§›£«3!©¿¾§=ÅgPÒ}¦c¤sh@VR Ï7µçûÜvWÒc¹­ ©Ï4Î²­D+ñ®QX¯[/m”Öé5¬3.OjJÚ”2MÄÌÔ@›úèñ@Ü'Yät82ÆŒ##µMf¡E¨yF2ÅÃßÜ>öDÓ][3ÔÙ¸¥šxÀX6ûµ4”[ø7õwuu‰In³eì¸CÊö'‘·=>şáW¹¸†Ö+ùG«îWÕß¨gWæÃ>˜÷qÑ 96½µ/á÷øäÉû V`7‹}\2¾Íçiào$Xˆ€ç2¹„l¡@¨–M‚ÈÂ„-.°üy·ú7[´CŞÛÇeAkÌ&"vùÈfë
+`ÊšÇ³°kêçÎ%]°ÑpJ•ˆEÎé°ûEvázõ´÷áf×-X¸¨iuãª5¢ı3uàùójÿO¿Äoüå#|øÌ·æs³ùÂ ¢Òùtì¼„`¾—Ûáú$ûÚNÙÛŞ«'·@6®nZ´p¡h¿ øè/j¿/?Å¯Ÿ?_etÜÊ ¯ÚĞhWœÕd@¼Q¯ã!„’µ‚Í¸VÆævÉ(½h#˜pÈaáz‡I´[O8—t?æ)ãN@p=|à>›°.Ø&ÄôÀ}æÑä5u-ÜOİ]¥îî‡'«kûáì*œÍôêk“ªõxæÑI¯½ZtÏTë2ÜN3=-ğàG#]6¤ÇëuDàœ<ò“E§d´ihJãÅ	8NÄ6–4Œ÷
+·‘]\ÖãÛZs=¾õøz±ryŒ6\·ã×
+^:Àe$ĞB‘ğ8 ù‹Àºïhì“ì„€{éøæù9êNõv±üé#n.·tÈ¶­ç â­g:fP\Pë§ÜÂÍïÓğkÌ}ŸG9
+”bÊ`G>~\Uéºìz·‡ée—bp\‘4n#¨(‡0I8Ì„
+ÙÙ‡ƒæ¤­W@!¿›¦ùÒúëgùoÌqùˆMvÔd\a_æ¯¶„’`g?`p™ê÷9*qg³Ú““ aáb’ÍŠÀ6á7·tıcÁ¿Ç»†õê·×®©ßb½­SßãLŒ{âä&µZ­SëÕjü ‰gá)İÃzzĞªîr¦‘&kæëP“^
+ƒ!yÂë	5`jkLIºLÓW HÛk!›Ø'Ü&ôŠN¦"UñĞ›’·ñˆ–Í;øêáÍÃ¯ÜÁô2y~ĞŒ6¸bƒˆ°ÔÅ&|šõqÛ*S“c+:d…˜ ûY‰BŞ	Fïë‰¥€aôÄ…C‡Xğdøt`¹ğŞle>»’ÆòyBn?K˜T ƒõ^ ‰pš.ÖVÕ/@u-Ş†¶ÙÀF½`=Ë2pxº^qrO³Á"ó•–L`drá¨'ëî:~ï¬ã?ÇôÛÔË;vì˜Wô›¶&cÆê´ÁïÜ’ôù«wl©Q¿dô¯™Wı]Q¥+9}ä:}XâÓä45éWŠÁMÊÊÈâ2ç±¾Á>ˆ8‚»(Ö`âÓ‹±”¾¹^è€àFü˜Ê]8©˜•…7-	Ÿ¨/-+TŠÃypğ4§âÃ#ºĞ”KËºã^ÚE'É O¨ï©ŸßydJî›Ó^:²Ë®}xdÌKUÕoå†‘è°ÃË?ü&:úµ[’V7Üß¸uFeõì¨.{åı=÷=Eu»ä¼ôŠï7ß‚MÄ„1¥!bĞ5Áªb¾e,J¼‘ù^C®792RÂN §Ä"ö9ê¡ÚòÈ·@¼oQ¡v3 nh8ÊGåhz é|qwÔw'½ñhœeÌ2åáR\‹g‘EØÂÔC†l£êkˆ¨rXí¥<ùVëBtËYr¬%y›Ú„^c2Ú 2*ÜCĞ®H>Pg«³†6éMÖ%&®	Í7-ÓmõÆ2	†¥‘jmÁ%cíA¬Ôf@HÖÃ©S;©‡5ùP'd£\GNÈè;
+†ÊãCĞÚ7>î*RO¨_ßùZÙ„Cw?ıöÛOßöx®pr‡ú°Å¢^üëßÔ¿+ÊÑ[÷­_¿/ªó+€ÿjæW¢ĞxW”ˆLuFÔä+6ûn±6—D¬^mŒĞ„ú“ğ° hp4 Hç˜«9×r®]…\£è(>Æ#Çø£ÂQ(ßÊM„5O‡ä³œ€#^R"ê–Â“|¹Í‹7n\Ög>šùæqKÿ=wŒõÒ'j«zgã ÌGIÿ›á…Ç7àf6GuQ¿Q¿7QıúËÏÔ¿2G5	o	ÕªbÛ@§Ê@."*rù6pÄÆƒß@&D ¼¨ƒ…ÛaW¾ç‚©Æ¿‹OtHr²õé›ï²ç°H…a¸0™ìF»EèGâğmäPë'Ç±Úš,œÌ»:_è®UÓ–—2GÂ:l°+Ú8#6…öh²¯]óD¢¿1ª[°3*Ø¢OîÜë*Èú_`ÌõÚ,»Kcí˜ÍÓl+J[³ë˜ÙFFDAşåãí úÁ-]¾eËòå[·¨[¬@×ÿü‘ºbşÃO¨ß~û­úíæá+.X¹rÁÂÜëëêë×=ZW¿.OÙ3ï¹÷Ş{nŞ%â†SŸ~ªá\X³`AŞÜ¯šü™ŞDêÂp
+h’·ğMh‰oX“u…ï²h]pp¸O(Šˆ61µ¼ê3õï^­ñ=ğjà¡ CÁ‡B^=¦Ûa?hÿÂN@oú0·ûxK”¬éJDì%¸ğqæú‘ -ıöLı‹z[?u„M}Vı4s=èÑ¨0ĞÈWìyw`Ë—Ÿa_Ü6ª·‡rk¼úDiºŠóÉjÁ.³¸ß
+á•5ü%+ä"I4z\Ö‚<õ—§¡Tµ:Í=Øx=Švù@6¡ÛÀ/D[aé"à  "3 ,9×B£´ˆe#Çi> ZOys’SèNá4à ¢Q®nÜzÂ¼a8,ˆZ/
+iÏa$mâ“:Ì¡(>´úB’–VxV,üWí«º–ÖsNÜ§¯]á¥«ªÀ‘Kê
+uå>üşVü>¥ã.N“M>˜ ×ó@")'µU¤À'ÑÏ)£p®ªdÓ¶K;<¹÷,Wwq=‚4Œëw´ò q½ rNH9~~R'rQ _G9Ô	yÖÚ!ö>½0EŸÍÉ‹äÒ>5a«š°Oc2X	·ô’€^–¸ºG…êE^ñá‘£Îg±µÑoH4$Ğ¤x9›‚ù`/êèM#‹‘úa-!]¼À,®şXŞpñêå‹ÖcĞDÓß}3õ³äYŠVËò‰ƒ„;ÇjX)é`±„ë}ıå¾&¤$/œšõ\á¯Lnşhø„ñ	1’(ª*^±®dA^~¯;oÉ¯:ø`JßW7f.ÉËKèàĞSËÿÔõº{„MàC2Q£+ÉßHôÛœAd{¦¥g²egâö>ÎQÛû•Ü34uµ‹şÆ®İC»fØ»wëšwë(ë™ ràJ¼Áì2ùÄaÚôÕ‰7¬¯_L‚°¤%"­ Áj¬ŒããÍ¤^D£®Ñ‚Kó†zËè°Ñ	£æÁÉwğ7˜ZlÏ"°W²V’‰éEy£-‹|yºzô©³ŠÑ–H½Á‰ñ~àÁ¬°|»úĞ}³\>kf>àÑÉ;ÿğÇ§&¯ïßğğ–A®2õäîÙŸ<ölõ´rìxlşweæ¨§Ù¯6Ï›W·ø7óqÎ‹'ğİ³Gf©¯ªŸsOl~hÙ–ÍêğQß½ùæÕ‘™[ß½û`öÂ¥©®Rõ·¯lTÿ:¥lÚ¸ÛÜ…“Î™ƒ3^Ü‡GÌ™[¿«iÒg³ÕïÔ÷DÊ+}Ãr½êJE6X €éÑ\Ûd"#9‹¬ƒU¤z‘%ú ²]#ÍaZ5dEC½ C¦|X«;qÁŞ±°Ğv’¾ò†#Mï÷(FZ0H³`gÑY$¦£J´éuXâD¢ç}q —‡ÇsÙÆÉ¸Œ»Oçî#Uüİ½R=^ÌÍ3>Â­%«y?-É¡«N"¹ƒêE.Zı)—òûÅ­w->)˜[È®«İñ\u>‹_oA,½ ´K°ŠT ~E FYßhŸå§Ãl‰ó	9ØW×£`;N5!šo²¤›U°R÷X"€
+XËiªÒvŞ1€…ã•xÈ=ö„zw_µbÅ*ÕÀñç¯Î»¯q‹zéZëçÜ[­Ö/]¶ˆ+Uº«î©ÜzèÙ%›ÊÑGŞü(hõõ³Bø€ ÔÛhzÜ¼Kn´áÇÑ.Ìß¶,P`B‰k EÑ´êZâ^KPXèÑÅ“—ôîã4·İø
+1¥ç\Gê%lÅhÁùÒ)_İ¯>­ÎÂuxLİWÂ¤“wİ©Qÿ¨RÜy×ñáÃñF’À‡1>
+»=|Œw9Q£8h•8«Œ„ S
+Öóv¶Š;Ô˜±fOc˜'öE‡³s,Æ+/ƒS?Vªi0Ï¼Z-S³ÕB!áÚìãqöÛª®Qç©¿QW3ŸLå¸æ7ĞÙÅFkDó¥FşiYÀzä§¼‘²äÄáÃmòJÜf‚ÙYîé9Ş"»[¹#­)Ü•–4µº£õì6ø‘ _b]v|şi¸¬×È¢ -† #ß"Z+¹ìÖİoS¨Ãw´öAYÒÜ)¥¸$áFÔ(Ù·ír6šWHËB9lëÉ'û¬\_h9×r¸M¦ê	æÒ¢YÍ \GŠ¼_Gùò¯©û8{­úY“ºI­ÅKñc»²e©zQı
+û`ûİÛNâ[[ç‹×âi¸¯>ôw¨¿SßW¯ş.ÚK»ĞŸñ6Îå¹§y4_p¡¯{YÛÂ2ˆçà"qO6ã,,mÉÚË‰·ŞæşüöÛ­@ëz®øjwÊel¼’ÕâŸGÏp+nYÙ[¶Òfµì2%
+Za«AØ(ˆ:@xW!Å×W«¥¥¹|Ò5
+»Ñ|£ ‰);Á<Çb$*”‡¶ÉeÊ6˜LM¶Uô¬	ßzûØÙQƒê*`¢•ê7—w¬~µ'SX½àkWWÉ‹Î&BÈ·y=gšÉAÏèEH.D‰"aĞ´„-çĞZSûK¯3¤)Ì‰Pgø°ƒÃ<§—|¹®BW©×[è)ã†
+ƒ¥±Üdn:7CXÈ-¤UÜ£ÒyÎ	>RĞ‹A$@'€gÖù“®Bw±›®7ß[è-öÒ%S‰‹O\¢Kç2N"°‚˜¬›!T—’¥ÂCbƒ®Á¸<&>¦ÛG~«{¼®ûù@÷9ù‚ÿ\ø«ø-¹"|'ÆM¼M¼˜ƒÃ©eRİ€ùÖ ¨ş£5™Êv	7£uxËYîİÖ[P›İP>	5™Ñà`Òñ´f¥½/ItéuÙºydÏkJ†ø6÷‡–»€å'wh0Ä0€aD/»z›NÒq6ÌIôD8½¬‡ %ëÓdG$`¸d€h¡HÅ`~ |7QÛ¡Şšò®§;T»Û’Gº2ÚSi¦œÏ#4é9ÙÉ9t>r®‹NÑu‘¹§®—\ÎİÇÍÖÍ”çqtäåœ/Ä‘HGb¤®úx É“òõ%Òıti&øÁI#~”8ØZ
+Gë±‘”{¸ƒçâ¯«sªs'[$råjw!¬ñèêÇmz–ÌüÎLW¨ÎFël6È3Ò€X U±æ{ë<>¨E+¥&°7“íÚÅ´*Œº$Wbo®¯n87LWÎ•êæq:ëE'‡âq/–àrq¦¸? 6âuâFƒ•a.ÚÆ­ÜêÃê¥Ö)€íµ0şã«İù¯…ÿ§¾ìT‡^£5j5¼ K2	pZızjxÔE%³ê]Œæ®ØosFmÅäÌŒÕëgp?|¯ºX}C}ÖX…LµYıTıLmÆÃq ÂÃ7«·«èjo†õ1¬½±ˆÅ"ÔÏåqˆ†#»U–8F£A6š×ÒÔ‚Uñ\‹3Ì9Èy—ó§ÀâR[üæ!rwà•êƒëÖ=¨öÅo^£^SßZß}¸¾îá­gOøIë6ÊõŠ‡!(ÇÕÍfå,Øh2š±ÉdL³„sü9¦PS²İ€ Æ¢P¯©‡°fŒJé@ÁÁ*yXç£½šhg ×‰ƒ°|ùÃğH«Æ?ÜŸòóıï³ñê»ê‡_Ãše.¤LdLmQòÆõ\à¥
+FÏºzAGdÑF<6Xğ¤‰<rŞÙ¨w4šæxA$6È‘|Í‚ÀÛ9ä`#Â}˜rÚ¦Åş”İöûÄiï\¡,œåƒ$`’?ïDNìà|‰¢q4×…Äˆ]t]¤.z%´7îÍÅC¹2¡–¯fø,ëÑ…Md¥>?úvµ;{I®Ğ4¬M¬äÁÔÙzyÄÒ{Ï¼ßÄ¨eaëõáÆÆ‡¹ƒ¾Ë£–á¹«'µ.N~ğÇpY­ë.\Dm’Ö«7|cĞo\LFÎlàBÃB%=§“¹°°Ğ4ÙÆ;1r>îXåßhãÑªhHÎº†Ê†° Š
+0÷Ğ8"ºZÏŸ£+-]ö¼ø|£ÍEu|ÏF_¬Ar4q_XlBlV,Ñr9V(»IQ3{«'üğêwîÚòÜŒ­³>ùƒú¡z~Ê×óf_¨zú`ıºÙŸ¼ış^ş'aóë}zÏ›^TĞıÔ¾SILx/}èâßTÜæßãĞSoœëBcìU°+ºoA‡F¸Ì¢æÌ]ş¸Ézâ\Ë9fGI‰xän™Ö—$V_’ä­/ù }²‚	ÓYõ.}¥~£^?‘xŞ|ˆü×­¶^„éêIZ]Âhø”X˜Ï†\._‰³Ğh^¦GóíR°Ü"jª½=¬³W`šƒIòd™°óiğÙèChXÑ–pàÈ4KÙst×k¯î:ª~†ğ©ú8ßÚKÇ_"K[îPÏ¨àn8Šâà]‰èyWOã<±qD‹ô„îE³aŒÒŸAt„È½ëpÂ?g²%ªã“éF†ñÃ„	dYHt"ÒqOı±ƒä…n¨îÂÅò±B´¨H}Q2Næğ„>âp”Ó¹>C&æ£<±”+çË…Yh:,‹fò3…ZqôZ#Æ‚ÀbHë!nDëÇñ)ü§ß·ßíÇ‰FCÒm¥±Ïve¢ ñ””õ$P6È\ ¦»)DrÁŞOÈ5BoBÆ4RâA2d½¤í1èÉzÂ³käBRÒÍƒmÛ¹m	ˆXìıFäD“!¯’írW!
+¢î@n ĞSN”3¹QBšì’ó¹)ÜİÂd¹@ÍÍåîæ
+óäÕ\£¢Cz2 ^è?¬ãA÷tz¤çeÙˆÌÄÉ;¥ £Õ¬ğá‚"*:EŠÔGÉÑÅ¬˜pıH/>YH”zëSƒŒ‰æ¡h(Á±œIHƒ€›&¹$—~ˆ<Êè2»Ìã9ˆñÆls)7™ò“„±@W ë‹åbÃÃlî^2ƒ¯fŠ3u3¤Jé^ã\ã\sWOóK„Eúæ5üFó3æÛi„¥"¢RŠÔãÈ!ï€›N9KS—¨à»_UAbvş"= ?°^½¤½ÿlËËK]¢‰‘lÕ;kœ½óĞ\™›–É2P*‡Ä‘»Ó²Ç»,MÕÛ@º,WA‚Yé¬Úş¹ğH‡$=¯C‚1'[à'ßƒ&EÏ?…«qí)UáĞ)õ5ÿOœÓ³õ(¹å
+7»u	¡>£|Æy‹W¹ºz²cÌ	ôD8U$)&3"§ã]xyû›’©º8×‹KäArC9ç\ÒmÜmÂmR	w?·’³úâ@&wÁ±¤îK\2¬YÉ½¤RŞ(Ó"„qü
+oÀj½t¨XÇ•¶|«À#Z{ğ9Œå`Ë]A,ÿ”hÑ=MHP9œÆ#Q¦U6Z_’ÙëQ{5wÎÖ¶Üí\…w¹@ÏuşºXH/µ”l¸¤ˆAB_(Y	†^$EdFFHY†±$_*%å’Û0ƒÜ+Í5l4øzŠóô¯æ[²É‘k·’İ-“…“ë®¹w¬ãW´½ï/:Ào÷wYøíân;z–®d0’Ú*ƒl]ÔqSó¨-ï$±÷Ê—YA”ÖsÃwãm—.© ¯á»–¿Ó»`ğĞH€?øŸ¼†äï`/ƒé»`q%…u„í ¸&º¬d;Ş#P\Ñ`^ôl³h[°è®¶ûŠmcbX
+Ã¢°çVÇıµè¸òç‘o õZ²M8Í|¸¿KWæë?óÃêĞ1R“ƒ\Ø[êpuø[¼õ8^ªÖr=¨_PCx‡º“íADÛÁïóVZK ›
+ı¼ãÚÕš¾ìà/qKÄRè{‹K÷¢çx2óÖ3*¤™•yVväá£•)Ø×ªÄRõ<ÈœùF~6øÄhtĞfğÓ›Ñv?q¿Ù¦Ô…ŞÙl[ægD~Äß¤—aDr¤w¦¼sü¯¦M¶\¦;hİ×F/WEbHbhbX¢’1(Æâ
+u…¹W¸+";$;4;,[ÉÏÈ©ŒYRZV¯Ô‡/ŠXÓs)&Ô;Ô;È;  ´ ¬@)¯­«T*Ãç…Î›§Ì÷ïø®ìVÜÕVHïTZæ^úhç|÷ÚıÍÍƒ.Şy´õæ\S°/·ä¥	ÿw‰K.=©úÔŞØÌÖù;J_Ùôâ!ûÜ¥ññ;bbZh¾z xµôÇ ùj_W Ùo´è÷û;—YšƒÖ »}˜¿Q”‡²œ4é2«-œ£o¢Ş¸˜¸¯ t^hS(<½ï_ UÌ^æAb¸ÆP Ÿ>ùğÃOÒ£õ¡~ÏÎ~]¿şÎìgûíßÏ%=ş(\Nq¡zP½Ÿƒ…ÅÛ L÷Õ‘ó Ã 4È„êğbŞ\gZ,ï·ñûıšiáÎnBÃéÖ–sŞÂ•–äÿ~‘.K‚¬Aó‚–5	¸CÒ—ì)àEx
+xäüèÇ²Ÿ{ãç²=jËÄVÈbz`qì&¾×ÎîİÏ;v¶{÷QQ@Ûq¿H¶V¼ø	€¡UãWà~dvì¤eæf¼Òm$qÃlvCz3±¤¤6~îÄ/ZæaâäØÊÄ·c½œljnî÷ì}G¯£ëGï{¶õpnÛ6àÙÇİùİ…mÅ…x–à3¤PuzèÁk.ğË‚P¥+
+ò}´XpnÇÂ~#~Á¿½Ù¸,8ÈÉIN	äì–ô`†âaÏ&ÂË´—·—µ÷p±ƒB*CšBŞ¹"Bƒğ nsP§Kôq²¹±›s;İAú‰÷P‡³$º½<
+* cl×ñs[ö=?åÈ¤¢÷îV/«GplË'X×ÌmY¼n¿™»sÂKGzöÜÕ-÷Å2öÁƒÕ¯Ù»kõ	Àğ+Àk”ï
+¬Ø(mq=ZcÊœéô‚d²2ÔÏÉÔ)4§lf×lËñá–‡ÛµmÇIô=[’%º.g¶³ÉI—€dÖ’êÈ^ÉÔ¼¸+»‹Fáõıı»wïzQt¬Í.+jhI ï7Œ~á)Êk5Ÿ ¼6 ®ÙGCôö:ßı²¿KdsÌAı~Ë‹!]d&ÚíJz,{«©ÃásšB¨'Ù›ĞŠnóº5u»ÁŠü¬\ûÚäVìQ»ö
+…lÚÒ¸jË–U[šUõjáÎÛnÛóÛ½){îû]KËïîÛ“ÒÌİúæ™3o9sæKõõ‹Ğçâº½øòíE“ E¢o»ûM*ÚAù{ rbÆß`ùzDÌX¬7Ûškd¹Æhê‡²e?3üô4İÿ•¸§ÀÉêĞ‘6eİÀÍ|_Ü|ß};÷ïO{®ö•7¸Í­wp6nxisk½èhİPRü5µ¡W`ò™0/}§ØVF/ñÏ¢ƒœ€%m{·z®…¬m{·Vëb¯Z_i†¾àZ“èøà]?­æ1xdAC\ÁN‡Ì/uõÂ‹è ñY«dÄ,–Œh¨•A?—bo‡Î„ Ù\¶l[­Ò¦MäğÖ3µ	ŸøíĞ[Ê3Ù¬Ë>8´¾p­Øõäåáz˜[†HûÃuÍƒh·°)¡¡›ç~°°ieoyîâ9Yòåb¸X¡»”ÇA-Us3„Üá!i%·ZX#=ÁÙi5“3Y×•Äğ´–Ù]ç2–‘ã²2èÅİ:²F·ƒ<)ìÓ½®û@÷-¹D¾å/ñ´JI‹”4S™ØÏEÙº‹»ûRë‘ı¢£¥Ÿm½Üº“‹lıèm—]ÄóhG©iÛïæ2Yï^ÊK‚¨	„%:¾»àá•.ì&MpuízCtNc}ˆBšƒXuÈf‘$1Û&Y²ƒı!ìD²RHKËí­ë€ç.³‚$UB—ObTvTeÔò¨&ø¼õQÔõ(=h¥öºµ£n¶+©SSÒØôCyiUmÃÖıU3Üºÿ İ3g=E–Ü7ıïŸP•}|=UYnÃ¦G_~¢µ/Ø5yÒ}¨MŞÅ@ƒêİÙfŞÜfÎymfoó]'w£Õ8ÿ‰ÕÀÔÔh4ÿ^Ë|øq¿í76Óz¡İr±;ÓoØóçŠ0ÍçêæJsõså¹†ÙÆ¹¦¹æ¹–¹Ö¹¶Ùö¦€K¶Î»q:m¬^µó©Æ•;w®¼„íêÅKS¿Æ6òÑù·Ş:ÿù›G¾X¯¾©^P¿g>Ûû²Øx üâfÀ‘ÆÆ® oll6/Ã/’ƒ!‡±Ù!›°;ç.½ÿÊã‰ÑmÌñ¤RŒêıûÛ3	®¯7¿ØÖºK”wtÈ%ğ—Ş ©Åî6¿Íğóæ:Í–eA/a™Î0Èy:Do/~oÜ€ß÷^p{9}Á‰¼1›«näıš›Û2Ö]ÂxñïşáÕ-2ğ³A.ï`RonÖÔÉ",ı†Úia¾âö‰wh Ş›í³Ñ‡j•–ã´«”–·şIàÔE>ñÁd¯İvô¥Ö= P¥E‚ÀæsCuæ‹Aç=u¹1²Ü˜ö²ä^KxGs‰?Í½¢›Ûër9A’Y'9"Ò»R¼NtªËA|û;MÆìërŞ²Š¡mZ°l6ÆCBgˆ3ö×÷—ûú
+Rp×Uîjèæ“àHpvóíÚ5,V‰Š©“ëuÆ:“RÀq¢,ˆ‘˜ˆ™Xˆ•@D‚ù}LBì Ø»bçÆÎ‹]Û{)ÖV÷ÜX ¤_z¸± H÷)¥£·MX²dÒªA‡·|ûÇ	¯M-}£pÁ²’§\O=ò—ß•îåíêÚ57×•nî¶vÉú}‘‘/õê•ÛÈìhKTã‚;=ûÎú€Ò}#l _™¢Y,d;²áƒR½l .ƒ%Xífê+X’’äYöj!Æ>£ÅXš™8|ûÓ<¥K/š¡Øğ<[]4²úÅOnª¯6¨¯6´6-½nãï¹‚<PÓõ]à/Æ3?å€Ulp»§Z&ãƒf#ø)‡a4x¬¡Nªì)š^KjsWnç!ê®|l*%ŞEİÕÓÍÍƒŸ­}åMü.>Àmm-Ü¸ñ¥ÍÜìkM;K‹.‘mzä¤°¼æŠ¹±–!"‘Ö2DZËx™–	9,ğHGwËÖ×\º‡·m}ıO
+…ØõĞpn
+Gë\uÜ<n·™“èDz¢g5ñ@ÈwA´¸Ë+R/Ô÷#ıøD‰Ö®2H?T.º¤<”‡óI>Ÿ-•¢R\NÊùÉB™X Õ¢<›Ìæk…Yâ"´/!K ²Ö‰«Ñj¼†[GáÖˆÛ„'ÅİÒ!é#éº4Ğ[«Â‘·¾†ïÄw¾¦Şq•/hÉ%;¯51Éôñ—®a¬VO+ëÉXZOû“ê‰/ß¤H¹8r·î×±·íÜ1hŒ¤œÅÚ—³L­=^şşËeHìº.p¾œ¯!÷’3¸a¨ì’oçnÆÊÙrW!”Ê3A3…¹B=·–{DX%ä
+¿ãw…Ó‘7²dĞÃÉèäˆ/(IAz‡Ái¤o/"¹ÎGb„.ZŠÑGÉá†Hc
+éÍ÷–Rhİ‘N†ò.>M{W+Ñ‘‡hÍ‘Ê1ËæorÄ]¶4FŸ+5¡b\ÂM!%üaŠ8EW¡/4L6ºÍµ¨Ïäæ{ù9 ß¹â,İ\İ½ÒLı\ılyºa±¾=6¯Akğ*n%YÏ?*Ğ·&k%WÂjãFóV´oæ6“§ø§„íâvİSÒfã3æßrÏ’ù„fıËæÃÜkäşma&Ó‰ LÿáHÌkşìÓSŸ}Ú¬>õ·oNv¬&Sèq­‰¬n™:Òìh&èˆvèëLŞFx=	<æ0±q vô”mzÓ“A•ÑÛ@aÒdy	lŒó\I½
+biÛÚeÓŠp^«k/È¶ùİğşF•ø¾>"ó¼È;å.ò­ü-òX~œn¼\*OÇ³øéºùA~¼–ßÈ¯Ñ=,/—·âíü3üİr“,^ 0§àÔbI!ZßÍ ˜úáÒGè©£õæDS*¤ëG\¦|j­\>'ä‰ùº<)OŸoÈ6¹M÷â¹¦Gñ*İSx³n·é]ÓG¦ë¦ºİ‰‹dÕ+0K¾X½ï8¥PœÂÏ©U§p,åZ?j}7«Ã¹œ¯zn`¾rêË,x©k°Nâô6d¡lFÈb¶YÅd3š=™M`¸F˜mšÉ ·"ƒPO^4ÒïŠÊz°VÉÂ[V¯ $ÆvC¶´úŒëw3¶N/şn°Fá+¿$ÊóK"$QOL¾²ŸÉjŠ4õ2eÈYòhÓıyŠ\ošgZi²Ë K3˜?ìä¬¼Uğ“‡1Ğh‰AQy^b¥®úh9ÊeŒ1u3w³(¶>à-{q‰|¢ĞWîmèmìkJ1§Xm©È…]œ‹¸x—ÇÓôéò0S†9Ãâ²å¢ÛğmÜX’Ígƒ|Æ‚|ÆéÇ5æ›ó-Ù¶R\Ê•ÉåærKm¶t¯ù^Ëô€~‘a‘q‰i‰y‰e­¾ÑĞh\g^gÙlØl|Êü”e·í]ÛG¶ë¶¥`ÆÚ2mfï¸•£Wİ·rjfnr¸Ú_s¸eoÎZ7¼.—İ²ŠLÕâòxÈ³Nƒ,õè1W ¤ísI“¶£ƒd» Œx¬•§ÚöG¯5x¾ëÅ¬äpÒá,U§QŸØ…Æeèƒd1ø“ ©»¤z“)Ñ@ù•Îø5XGò¥»¸€+%|0Išk˜gxÆÔ©X}™ÒšÉím™Ãím-á¶µœ^¹DÓïo#uïë±(4ÃÕ3Àâ4ˆÑú@«3Ä (á¶ëÑv|HïÜîól´Q/Q¾(D|8RË!š*"+hk_Îõ¤"ÚF×ÏŞĞ–‡é¢ò{JÛ.Ø”D¼BéDf&·bï—BàªwOU…íá¡¹2ï7ğ»íSºõÖ†»·7pÈƒy·W¸'ä=øÒòU~½¦¦¡ºñÒ‡+Æ?xå±‡‚ZåÁñ”6^Á»ÄXkÚŸÇèYöM>í»éôät[È®bÈ$!í»ìí¼¨wõ‹ò5Z¤ ƒ3ÀÂ
+AÛƒĞöÈCA–í¶g£ƒ)X 3ÒÎ£À0ç`0U>º-ıà5q³J¯q&	XãaÊMy£}cTã—7†ô‰Çmò¥içPwÀ{è²±Üî	c—ôİ“S8ğ¡©O~7è¥¼†+ë
+
+xè±+kXùá¥Æê†š5_¸Ší©ÆÇ…Óä‚"]Vl2"~}Ïzc(²„ZéÖ:ë‰–¬‡4I±²gLúi+ûùÒ`(œ.®°âaƒ ³<zçø“èİJYÌŞ™·Ü²'kH#ÂÀQcöd¥`—™ì=âîl~}¿uş]–GašşrõıïùÛZ2Íùzú`©í¯À8İ45!³úíWo3ç{şjIûÏ$ş*hÅ|3˜ôR°Vğ<dz]Ü‹6~h‡nºG¼Íç’Ñë$í†c3Ğ­ğüôßÀEÅp>ÍíAú×Ãñ1«áXG1NÛàX
+Ç|è{	†÷à¡•€G½0Y…9è-a5ªcálFoñëĞ[b2Üóè-îz\_-‚öZh?}Zàœ‰ªùãÚYh€6ªçÏ^¿*œF{(Lİhˆ0İ
+m-p¾ƒÒBq†ó6?º~èÚÁŸG³aì¾İç{øèî}”@¯;:À¥ W¸”ë§ùMÚµî(:@ÛùOYÿ´÷İ‘›D¢>ğløµåÁ¹?½æ“ÑxÁ#næé™Î²ˆ@}Á_G C8ÿ‘›JšÈÛ<ÇÇó÷ñ[ùWù?ò»+,â<ñÏºººKÒé°tNoÔ×OÑo•íòïÙ†m†ËÆÆbãCÆO <õ4M5#s„¹É|ÙÒÏ2Ëòëëg¶P[í=û.ä3ÉçUŸoş4G±c–c“³¯ó~ç{¾Á¾u¾¿÷ëíWå·ÎïşÙşşïîØ öü,(*¨4èJˆòNè0ÿ°º°ŠCÉÓtM"¹¨;*CF¶ƒ{-õ¼“ó…3ıû+°pòêá#8És!ç:ë¹æ (|ç¹Ï
+#µk®ûy®dä
+<×"’¹…k	Ù@®Úµ…ä¹6Ùë:ÁsmF=ûOò\ƒ/êÿŒçÚ†øş¯ÃŒ˜×Ã°D6;½ÆÈõ\sHÂ_{®	´«kùrkùsC=×"rpÓ<×Šàò\P?î°çÚİ„z®Í¨¬ßÏµùö_ã¹¶!©ÿh0r£J4U¡r48\ƒÔ¡X8'¡Dø$ÃÕ$è¡ 4èSƒªá¨B%¨MCqĞš* <\¥¢©ğQPN¬jvWç3~COù'ÌÚ»mÖ\˜i:ÌEÿ’Lô¦xÂ˜mÆ!p5Æå¡ZèQ}´6¢Q¤ ”
+ø]	}&Ürè§Àx7Ì^ÈAÊ8Ø]9³ª|rYÒµ(VIJLLV&ÍTÒÊkªkªJ
+§Å)EñJêÔ©JíU­ä”T—TM/)—¿7´7š[8}ÚwÅd%­°ì)™R˜W«•VL.©V
+«J”ò
+¥²vÒÔò"¥Ø=­°¼0ëLâF`54kƒÇVÀMãFwÃ…Û}÷OòSúä1nWÜŒƒIÀódZCÉ+©ª.wW(IñÉ}:ƒºĞÍæ*eĞ4™Öx4Î;o©»XTGLî5 µ~(>ÅÓF<ŒuÃ¹
+$YÂàU1™ÇÜƒÊjj*û%$ĞéµñÕîÚª¢’RwÕä’øŠ’úgÄÚ1ğêˆWO¿oôÕ»¦»% An4úRMıuôBOfBŸ26²U2ºj˜®S®U±Ô:(Ôé7pòF:Úí«¶“}ı5t¿ÒÍh×t ®:ríû–.£¿à#ÿ$ïñëû¬›Ë»ærx"³«ÖBµpãõİĞæ	ü3\(eÙŞ4­İšÊNeìY‰‡®Él–
+Ôã<r×¤¥Í¦é˜¦ïq/7“~_é±Xm7@­ñèX¹G
+Ó²fÃâF}*bı¨jĞ½howM—K˜ÁkºÑAK"˜äèØbv®fxÁ˜B}2³‚"ĞĞiJ{âåO)\MõXR×6Ûg ^‹â_ú«i?±'´¥’YM1ÌPÄF{±)fÔ0]›OkØSmùGfˆóXs`VË h<™Át Œy¥g¦±¶yi¨ê¤•¶µŒ‡q¤C¯§1yj²–;xj÷tÄµÑ™À<ˆÂ kö Á.÷pµ³ôœj/ç4l+Û4º†áÕ®uíÍ`ü˜ö“fğZC)óê
+K:ÌXÌ~Ó9âØ™rb
+ô(bğ´>^ùQ=êñl^	±¹‹ÆåLû1ëÌõ`WİÌ3´Ë £/jçÀ÷=Aô¯ñXCu§¾^[içXGĞqœÂh.d˜ËÌ7wÖ5Z,)üyºYT<²ŸÆÎíşã§È¢†E"Y=ÅwâÔ¥<™é‰-Úì”ç¥Çb&MezZÕÖ¢aJyZÜAæµÎAYD,g>c*»“Û(*f˜RyUtàÆäNqU›ÉëC™öhºëãFşTÿSš¼XÊ
+Ú5¬Éè§cĞyùq3Üâ<òÊÆ•ÿ€7—Û¤SÅül!ó+íp½-Õméµ—£G‰ÇÏ•0*¼3Í`T³ñ7‰‡mtß8B†gŞhÑAË4›É¼!¾Lböîî€k­Ç¼z2–ß„c%è^Æç
+%WÂG‹^…Ì£–´è(wgo‹|SK)c^açj%L“~HO¼¾îf¾»˜E‚
+&÷üºWåœë(ÃŸk«ÕÌkzcu»µy-‰fSÛr*ÏˆÎ+™Fß¿'{$¦ÅCªUr›Wıwzª¦j’ÇFj<ñ°´SÃQ:›'†;:OÜå¢qGæ°gĞ¦@—OòàşÜ!L.©ì	}Á¬q\SˆYh,ƒ¥ÁÈßv>´PØ
+»§w#¡ÿh€EÇ¦£ñlt€60Ë‚k
+{´fÂ9İÓ-cá^C4Õæ£‡7—ÙGqÑ0Í…ööY;c•Áfôb6
+îr şpÏSú73<ŠËèõhçrtÊ#
+™Âe²;Ú:ÎÙĞoãg*£YÃv4£a(<×hIgh’Ğ0Ìş¶p>ëAÿêp.ã)×Ó3É‘Ò3„§³d½4Ì²<R¦×íPâ=¼Ôğ üÏk›y£?>
+£?—ı]c*›T€ï…ëÕaÅ[fÜËèKe|Èb3¤±~”‹”Ÿ™m—ÓA*ƒ¿¨Ü(æCØL©Œ#cnJ‰ZGéÜL;ä¶†1úÒ§2Yï1ÀÇtèŸÑÖ¢éc£u°‡×LMï5ÈìÀİÁŒF*ÙÛ`ÖtN¥2Şu¦‚ÊiÃ¿
+M©ßƒ;ğ¬]ú£=Òõâ“ËfÎ½	WÆ1[Lg½R™¬Ç´ÙÈPf¿£<˜mÓ°v0Ö£ŸYm˜uæ¯×¼ı~ŠïĞ`yçî,Á!LŸ2=iã†ÖCş¸šïJ‡¸VÄÖ95m~»säî˜5¶g£óÎ¸¾¶c& yáa¬ï´úµ·j«%-fµ¯u:æn7[a{WÇZ.ïÍzÛ³Íwkk¢Yo1ËÏµ°º-+q³<Ğİ–™Ì`OÛcz¥§vâî´Î£3²Ø×6—7µÃÒòÊB–-ĞÙªoÂÍPò÷V†•,Şk³Ì`×5Ì„ÒWëéKÛgİ°öÖ¾/å¦2ğÒr³Ì¡#ÿ«˜¼+=k©rÆašOÆ{àV!ïº¬'”ZİmÚRo×>
+­º±ª@y0¹æÅŒ×2ÒjxtN™ù+oë¿_uúµkÖÿKõ ¹S=èÆÌëßW’oZRşÃõ ù'Õƒ:gòEpj¯ux{ş´
+êÍ*,ò­®¤|¯®$ÿÿu¥u¥ö
+Ãÿ›u%¹S„ıïÕ•ä›¬ÖşêJòMëJíıgêJòÔş3u%ı«u¥ö·N¿f]©İŞ:×•~(úşpuI[Ÿk™ÄÿZuIF«K7¯nügªKòpWéÀÁÿí*“ÌtìûÙÌ¾Ê$ÿW™äªLíkİÿd•Iş§U&å?Ve’ÿ…*“òo«2ÉŒy uÃVãv*<ÿÏÕä›Êü¿U;’¿W;Rşkµ#ùkGí5 íHşjG?÷ß[;òzÖ(ß¯øÈ?£âÓ±JókV|ä_TñùşšíçU|äŸ«;üššïÁw¡öJƒÌæ¡wñe´èV5ºÙ­mœÒµº¤D™T2Õ=#6^ù	Ûâ•aSgV–U+åÓ*İU5%ÅJi•{š’ZU2İ³	Ì;ÛHW«m¤ë8,·ÏWRU¨h¨µíÆ“{üèüı}{?yËŸrÃÌåÕr¡RSUX\2­°ênÅ]z#YÎ.©šV^Í6Í•W+e%U%0×äªÂ
+ =h²`p¬jrIœRãV
++f*•%UÕ0À=©8V,(TŠ izÖ”•xùTTäV	İi‡š2€\.©¨îE0–DÄ°b¥°ºÚ]T^óÉÅî¢Úi%5…5ŸÒò© ¤®" Œq—ÖÌ öGÄ2LªJ*«ÜÅµE%Lq9V>©¶¦„â wb.šZ[L1™Q^Sæ®­d¦•{&¢3Ti¬°µÕĞŸ’§L+¡TËLAªËâ:ÌGçLpW)Õ% è]¨zÈ¿ajŠ€­¤Œ®‘5Ö±‰f”b}o CimULXÂ»•jwœR];iJIQm¡ô•º§‚²Q‚ŠÜÅå”ê~²œà
+'¹§—0
+4-b´)A…»ÄP­µR©T¶k€öL©.+œ:UTâá VRØ‰NwèE•2Í]UrS²•š™•%¥…0Q¼†Tç§Ó
+g‚µÀğâòÒrªh…Sk@õà€3Ê5ÖQ-¬¼j§VÉt¢â’êòÉÉš­Â ª¡…E ¤šğâS}ãL¤0†N½9 Ï/íĞ ½Š©3•òj.SrªJèíÊúÒ‹jÊH*¯y”€Î•T±A3ÜUÅÕJD›FĞ¹½äj¶Œe ™L½L*K¢PkA”'Óİåmˆ•Ü[£VV‚yNšZBh´dz!·¥¬°F)+¬ˆ%xBµ®]»‹•ÚŠbÂí¨Ê9Â“jµ{*µj&6*¤Be*õ`+Ş•…EwNÂÀ+Ü2UÕM©:MP,™ZJ‘®Í«ŒÉš;.5']É£dçdåeI¢D¤ûˆ8e\Fîğ¬±¹
+ôÈI›¯dURGç+#3F‰SÒÇgç¤#gå(£²33Ò¡-côàÌ±C2FSÒ`Üè¬\%3cTF. ÍÍbC= 2ÒÇP`£Òs‡ÛÔ´ŒÌŒÜü8yhFîh€	Èå(©JvjNnÆà±™©9JöØœì¬1é c€1zhÌ’>*ˆ @ƒ³²ós2†ÏƒA¹Ğ'çæ¤I•š32N`Y@rÂºÄ– CIÏ£ƒÇOÍÌTÒ2rÇäæ¤§¢})w†Î•.Í;zHjnFÖh%-HIMËL×pRg¦fŒŠS†¤JFÉñNB»iä´³C¦†¥NÏIÍŒSÆd§Î ÀÇŒœôÁ¹¬'ğ8‘ÉĞœ5zLúmc¡úy§ˆ“ÇOgS ©ğo0ÃŒ‘?È¥pr³rrÛP—1&=NIÍÉC%24'Ğ¥òÌÊ4`,ğ“
+o´_*#Úö}í€^t´‡À!é©™ pEäN}A»Òï-*©¬¡ºí1nÍ527ªùÎ8¦µš V†«µ±KK`Y,êhŞ­=`Óp§¹^æ>@»!i®·xz	xÀjêJÜU²›:“åÕÌÒ!Nsk1O©.œ
+“Á(jE¬øÊÂ©0¬ºÍN%{ƒaeU9™QU^ÎD)¬…ÖªòY0\å	SŒ¥:K»sĞğ¯*©®„(U>½dêÌxè[EcÃ¤¼¢Ô]5ÍC:c_QM?oªP£LfÀ‹İ5²»jr¼"Ë,ãúÅ©ÓOıÊÃ¯“ÉZ¤üœ<HnÏƒ”Ÿ™ÉßÏƒ<N¾ˆAªöÆŒ›$¨í	‹üKr%Å›+Éÿ¹’¬Éáß–+ÉšÁş¢\Işs%¹=WR~f®$wÊ~F®$ÿP®¤üô\Iî+u4ßNéÄsp¿Vº${Ò%å¥Kr'tÙºñ×N™ä
+·ò‹S&ùWM™dOÊ¤üü”I¾1eR~NÊ$ß4eRş•”IÎMÍ5"‹¢:ügeGr;å¿$;’½Ù‘òK²#¹cv¤ü¬ìH¾iv¤ü’ìˆ*k'CiK|äL|”!ñ‘<ñQ~Bâ#³Ä§sîğÏšoKäx8Åÿ’ï&°ºİİp$°ÚY1{«ÏŞ¯VB[ç·…?şÃ„åw—'”ƒ³º7¾²¬2Áã1Öw9‰öèëDĞM~š¹y®ë×TrÕA¾‹&W’È·«É?Ìäï*¹¬’ÿ‹&ß˜ÉßV“KÑäëR…¯Urq5ùj5¹p•|y•üU%_ô#Ÿ§‘ó*ù,‰|znŒğéjr:CÎ~’ œ½J>I «ä/*ù(‰üÙA>\MÎ¨ä´üi9õù£J>€îÌ!'ONÎ!'†‘ã¿«ä÷Aä}•¼§’wUò;•[MŞ9*¼£’£¡äí$ò–JŞXdŞ&¯û’Ã*yM%¯ªä•RÉË*yI%/ªä J^PÉÙ_-ìWIóó/Í*y~ßDáùÈóóø}¿öMt]'û\üo£É^•<·šìQÉ³*Ù­’gT²«˜<m&;ŸŠv“§vØ…§¢É;ÙHo¿J¶©äI•lUÉ;Ù¬’'6™…'’È&3y¼˜4A—¦Õd£J6<f6¨ä1#Yÿh€°¾˜<ºÎ*<@ÖYÉZ™<¢’5«MÂ•¬6‘FÔ¸š¬ZiVu%+Íäá«dÅò„*YŞ0QXşY>ox(Zh˜H\üCÑäA•,[/,SÉÒxò ù@*Y²Ø ,qÅRõÅ¤8UMÙÈı*Y¸À&,TÉ™¯’y*™«×õßÌ™#üF%sæûŠÉì\§0;šÌRÉL•Ük&3ŒdºLjURs•T_%UWÉ=WI¥JÜ*©PÉÔpr·J¦ØÒ„)cH¹JÊæÉpSª’•«¤H%“TRØ\%wÉD•Ü®’	*É/ùWÉx™ŒóÆ%‘<•Œ…™Ç¦‘\'ƒ­Â’ã ·ğnSI¶d©dô(«0Z%£¬$S%#áÉH•ŒÈ°
+#|HFˆIÈ°’á&2L%CW“ôÕdˆJs=„ÁWIÚ$u$q©dJŞj:È­,Â­v2 ¿Iàºn!ıM¤ŸJRTÒ·Cè{•ôémú8Hï^¡·•ô2¡$ÙD’n1I*¹Å@B¢‰$H|½o%=ô$.‰tï-t/&İbíB·hk']c¢…®©$&št‰6],$Ú@¢T©’	:ÃíD)&aWI(ZLBL$8¬’ «$0ÀM€Jü‹‰pÊO%¾0È7€8UâP‰JìĞÁ®ĞjK#Ö9ÄRLÌ*1}“JŒĞÛèK*‘­D¯	ºI*Ñ9ˆXLxxÈƒ8	´•ppÏõ ØJJp3.^ô îşÿÂúo#ğ£?!ÿö{}µendstream
+endobj
+383 0 obj
+<<
+/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 4 /FontBBox [ -1020.508 -462.8906 1793.457 1232.422 ] /FontFile2 382 0 R 
+  /FontName /AAAAAA+DejaVuSans /ItalicAngle 0 /MissingWidth 600.0977 /StemV 87 /Type /FontDescriptor
+>>
+endobj
+384 0 obj
+<<
+/BaseFont /AAAAAA+DejaVuSans /FirstChar 0 /FontDescriptor 383 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 381 0 R /Type /Font /Widths [ 600.0977 1000 589.8438 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+  600.0977 600.0977 317.8711 400.8789 459.9609 837.8906 636.2305 950.1953 779.7852 274.9023 
+  390.1367 390.1367 500 837.8906 317.8711 360.8398 317.8711 336.9141 636.2305 636.2305 
+  636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 336.9141 336.9141 
+  837.8906 837.8906 837.8906 530.7617 1000 684.082 686.0352 698.2422 770.0195 631.8359 
+  575.1953 774.9023 751.9531 294.9219 294.9219 655.7617 557.1289 862.793 748.0469 787.1094 
+  603.0273 787.1094 694.8242 634.7656 610.8398 731.9336 684.082 988.7695 685.0586 610.8398 
+  685.0586 390.1367 336.9141 390.1367 837.8906 500 500 612.793 634.7656 549.8047 
+  634.7656 615.2344 352.0508 634.7656 633.7891 277.832 277.832 579.1016 277.832 974.1211 
+  633.7891 611.8164 634.7656 634.7656 411.1328 520.9961 392.0898 633.7891 591.7969 817.8711 
+  591.7969 591.7969 524.9023 636.2305 336.9141 636.2305 837.8906 600.0977 ]
+>>
+endobj
+385 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 685
+>>
+stream
+xœ}ÕK‹A†á}ÿŠ^&„ Õç6æ’YäBÙ;m91Œ­´º˜ŸúüdR„=oÓÕø€‹3¹}¸{6ÇvòuÜõ‹|l×›a5æÃî4ö¹}ÌO›¡I]»ÚôÇËİù»ß.÷Í¤¼¼x9óöaXïšÙ¬|+Çñ¥}s}¾Şİå_Ë§År8¼¿Ù=¯Ş6“/ã*›áé?G§ış9oópl§Í|Ş®òºüØ§åşór›ÛÉ¿ßûsêûË>·İù>İïVù°_öy\O¹™M§óv÷ó&«¿¥îŠï<®ûŸËñrvZ®yéTº›&EwlAKuF«¶ª½ê¨úªêU_W}SõmÕwU¬úşO§ÊŸRÕ]Õ•?UşTùSåO•?UşTùSåO•?UşTùSåO•¿£¿;7ıe”¦¿ŒÒôwø/:ú;üGıe”¦¿ŒÒô—Qšş2JÓ_FiúË(M¥é/£4ıe”¦¿ŒÒô—ÑÌ„~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?è¿lˆË&À®ÀÚ{]DıiË:ïÆóâÁÊÙùu}îw{¼…Ïorá£¶endstream
+endobj
+386 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 18229 /Length1 35236
+>>
+stream
+xœíı\eú ¿ï¼3sfæÜ®xDQ4¼äAE	ñšnAC\4SS·ûÅ¬LS³¼äš™k¤®™©YQÛE·Ú´ÖÌÌoºµEÖö³2‚ñ÷¼ïœÃÅ¬m«½üÿŸãÌ¼3ó¾ÏûÜŸç}f@„Bf´”?~Brê´Ék€;ïÃ>©´º¸VŞ«,@€=¸t^ƒzõ3ı$„¸\ØËkgW_ËÍı!~#ôß1»jAù„^2B<zw…§¸¬×œÜ¡eü¬€–'o#4Â×=*ª®Rx#(üÛ«¼¥Å;7o¬@häxşruñõµâcb_„2o†kµ¦¸ÚSûĞ'p½¡aiµŞú†K'Ñ4„–Q|ÕÚ:Oí¢âÍÃuB†ÇæWq øôÖÂQú™¼‹Ê¹  À("òÇŒj.ıµ_Rz%ğH5å—g•!©—.‰AZ^g¨Æ!|éÒ%¤ÿ`„ÙÙ„D¬°ÖRv—C¿ü‡ p‘IHF
+2t3² +²!;
+@(9P0
+A¡È‰ÂP8Š@‘(
+E¦1(Å¡È…z¢xÔ% Ş¨JD}QJF)¨JEıÑ ”†¢Aè*”£!h(†®FÃ‘e h$ÊDY(B£QƒÆ¢\4å¡ñ(]ƒ
+ĞTˆ&¢Ih2š‚¦×¯EÓÑ4ÍBE¨˜1¥÷Çåè ú;´‡¡Í¨•DG8Twéy.D-ğ¼z.ãoÁ…p®æ· /á÷G%è:h¹ø-ø ÚÎÁèex¹0Z˜F{3NQXß/â/…t.Má«ùaü.~¿z4òåü2ÔÇtî-~=¿ƒ_ˆ¦PÌp.İ)hƒãĞ:nÎÄNœÉEÏ3ü‡ãuxˆğºğ::ã|è¹Íçü'üNÆSğ.õúGÃU—†Ïãã5è-2EPĞ:´ÀÕtğ>‡¾Bõ<@E+„ã\á8zAïÂ}„æ`ª)‘¤¯p¶/Ñ648ssÂq1ÈÃ—sQ¾‰ÛÊ]Äq˜ƒ- G7g’£|ÿ'şx
+ÜÁéO¢É8N§=„ãx`qF,Ç İÂ<-Ü‹Ü> ñ:tÁìÜtn!·Â;ñ~À¡[ğN¾ÈPÂ‡£uâ:~
+:OyƒŞâ?ò?îBw‰ıĞ7¼ˆ¾$¹¸ˆßF9†\Âó`
+1†1b ZÇnJ„‚®"ô*FÂóú½$1­æãÉ#€;Ç-öó/@G¹tR‚Ö³m%Ş‡V¢}¨Òóiƒ(ğ„Ã(Qµ5q®œ²&÷5SÔW¦ÆôM¼ìRµÔ&”ßd^ î»t)
+.Lm"šˆKjâ]qg~ìá™¾‰có§¨ûp¯¬LØ¬¢L¸9a
+4éÜ†ûY™ìµIpÁ¿œ¢&µ´B½ÓvgÜà;mÁ}©¦k«ùraØ²E@<î	lqÏ½Xîàx”Ü|¬¥²k9Ö’h±»bì1å<j«'ámç´ÕËÅ¯êÄİÃÔà&ÃıÜ.€ø†cÚÎc”|Æ_€Ñ0²ÆĞãâûÜ.Mó÷'Wèÿr—ş¤G›¿?‡£áph¥ Ş&Úm%w‹w¡åO˜‘b;6´%5=½J>ÛÖ’‚cì$† Â1 úı5­?®ĞÖÇÛ_ÔfâÍíG´õº]¾H¶“
+€Iér[|0Ïñ¼H$[[Ûû”ü :ÛãØF*>ıs€&BwÎ]Àµáø¸h4ÖİÏ)àû#BVãıQ™ vstTdDxXhHp`€İfµ˜MŠ,éš&©¶cGB(îCÏ¦
+³ù)˜Äö'1¶Ç²=-†ín’EX*>UŒÚŞ,¡5*Ò..ÒşGgkçpAÎ×.fƒ8iKğ2mÉqíü»Ú2¼„îïâ€ãxYûví<õæµ·Q¿Üüo½{x„"ºÂCí!A=Œ‘}øPQNŒã„ÕâªÄÕ¡«ÂW%®„˜ÔG&#Á"öêa—	6ô	$(YQSmÇšÛ…mz¬­Ùÿ€Âæ¸}¡Åöõy{:l!éú£€ôôG’p¼=
+‡Øã“pÚ€Ãq\9èİ(ìÄnsp ıjèĞ“„oÆ‹?õÖ¶ æ‹W¿şo.{ÅÿTíè…o7š˜÷åäÉùÚÛ¸¯”€Å!Ãy<Hì½çñİ¯Ê$Å†k½“íŒØëÙ§÷½d!#°Àg¥©=¥}ŠGŒÈ	š6âÒG†Áß!Š…C¤êJİiáÆ°0§ÓîB›’]Ûëá0ñaÓÚĞ€5aë8ûõ	—‰äeÉÚOŠ–ûHV× ÛûÍ-@öùo(İ”¶³©†ewlçSÀz6ásºOÅ±"Ø?u PŸdÇÅöv€kíÓå:¤K?±ÿ¨¼q£Gçµÿwöï÷İv×)òû¾_¾ÿøñıt—7zô¸<®ba]ıÂ…õu·ıõàÁ“'8Ñö¶h>qğà{ï<xbÛ¢ºúÅ‹ëëéz½ğÒGâ ¿'JÁİSMØl´Ê’b•d)±oR2ß'ÅŠ1ê…â­`Ñ®”x	ó¼±¯„ø¨û"ûn²Älˆ|$l½e/Ç÷F=p$è¼1¥GdPïæÈrHo³İÔÏÖÖÒ|ìX‹íåóLt…°§3yùì7Ù€qLWBÒunY>‡fÇ	x'ĞÖÔØ]R<F3Ü7‹ÈJ¬¼,[‹Q7¦#ˆH¼ST").”¬$]=‡+ÃnÃXe¬qlòØ”ix7Ñ0M™fœØkzÒô”)©³RËP%7ÛPd¨T*e=—¦&ÊF%Şi‹ïmL7¦E¤D¦D¥E»¹1Æœøœ^“ñdnºñÚøÙ0¤Êè˜gÈøj<(Fä8&Ş‚ãT‚Ä´»jpˆ=	Ç1)¦Ö ËA$¯M$àAVo)viSJ*?ùööìŠÍ½{io_ûÒÜ™ÛòÇMì÷`ÆˆíóG6¤’ÓÚÕÙ;köjgçj‡ª³3±ãäıgæ¤Íühsd¤öiJÒ±“µ·“çªßœ RŸ‡›˜Ïs¸|ZÎƒ¿#<ˆ@÷¼ÔÑá&Ÿ‹ƒşMÚW„‡xi¦^m1<j1`^BF;o³€‡lN n×Æ¼nO.m@ ¥Ö@xíİµ÷¯\ƒ–.]¢}õ-mÃÏı¹6äÔ)m°3¶h_qì·mµ˜Š]DÄŞ#µÅ8p`@Ú .>&8ÀÄ¶,…œ°fåıkµ¯Îã—OÂ/}şµ6üäImä·:Ü.Aoí(ÛİËf6*²W«˜$"üŞn²¬L
+‘E;Á„CVŞ(›Å !Í©ïÃÂüåFs*ü£‡ÍØàÆñ}ñ ÁŞßîâEm/“«íŞ®íÊÅyì°ãŸÿÃÎåû´mxÊ¾å;ÿ°|/¢mÛËp:yıI_ë¶!yLÆ[‰Gœ"šèÜmC›Aİ/…3>ÌŞNŞâ”öoÎ·Ã)ß~¡¥ıgjáLfµvŠKÇ7§rºMäq´M$<¤j"píØó B\à[¸âÛãeø&íí.ÜHÇzñî#î4èAÀÓÜ,øòÀõÎğëåÚïæNk§t¾ÎEıi´£ÓèJ“¬w‹†X˜`1]k\Áµ0|šã&ÉÍLœ¤@rÇY>hÿÇ)áøwÕÔÏ”\úHHöùÙ8w ¼ÃJv8Ö[×„¢`Sˆ
+31=Kh
+¶õ³±Û¨Á`ŠQ‘ÉÎÊE‹æÌY´pÄºÃÚ{Ú	í0vãxÜ»¹zîœö‰vî“Op¨¶\«Æ+q=nÀ+µjJ¬ÃpVP/·ƒìä¹ÂrÚ)K¡bA¡6wZšuŠS/°”(Æ.°œÈó%.ÔÅ×â\ø}VÈK£±8úû4íÆ»Í°æ<ô…¢»Ü	(’ø)¼KE–{­Æëyô$êE
+vàpqÚŞÛd.œò"—_5¢iuéóÃU7WÈb‡»'Ò;¸w!È"„†„„„Æ¢ØØĞ4”’:²C²C­3ĞL1Ç,7Rû«<²\wß÷/r19ÙË§½sÃï´°	'Üø‡”"ŸqcfåÒq¹xtŸ¾-oßğöSŒÆ;.}ÄŸ{¡\wäØ(¯V2ïÕÕÑOEìlŠ[/®It!›3¸§-˜DE«rT‚­í,0õX‹îù™ˆÏÒAû|>Xû|LlOšè±®NÓİ°&û|XÛ¡í¯ÿøºªã³×>úØ£ë6ßwÏ7Î84³îÃ*ˆ1wWüó«>øØåÂ	Í)-¯¼xíŒI3{'à0U}îğM±˜7­¿CËŒFºUc&fCˆÙ…ˆÑ°SÀd¹ŒM
+ämo
+¦Û’ÊÄr–&¡>¡ğ¾h.ÓD<FU;÷•6ouãÇk´Ïá×´¯ ;Û
+´¿k_b||lÖU°Væå‘«Âvl«í«‚vv™¹'Ñróš(‹pH°lQX@ğ´÷ÙÆß(Û´³€µIer¡nü£l;A¶ÏKœ
+§hÔŞ[òİÂNß½iÓİT	Çµs›ÌÚ¾ÒÎ÷KÅÉÙÙw4Î»½O_ÊŸ%€_œplµäD;‚Å¦ÕæU¶±ë#Ö¸Lr˜“¸Ãœ!Ñ=\ÔnÏÚÎ73ô¨XÏ¿C…Ú%sÁz4 ª©Uİ˜Sƒ¹sø)÷xğ¼YÛòw¶Xwí9ìÔ^Ö.j§´çq#Îšıwæ&ßwTkéÛç¹ıúiN|©ÆwàJ\‡S©n‚ıŠ(Ë"89ÂñNB8— ì$†Œ¶÷õ¼_·ll—`<Ãm40¡'I#ÙD˜ãÀ18æŞÓ¾_»ƒ‹oï'?ñ=Ïï·øÀ|YJF£Ü½BMñ;¸#
+5õ+Z“êM¤G˜µw˜£§OÂ¬=cz¤€!€£,
+ğ§ˆZÎÒÌ'½;Ç\4}è£ÛªnjH(ı€Ü«UUsëê´E·ß‰Ã@ÌVv×ík—ø°ïİ‡¾*>­¤dÚôRnı¼ššÆÆoã’„íK¾üÒ¡%Ûz¼÷ƒ>úàŞƒxâÔ¢¢©SgQÙÏÚ, ûP]öçÖÑ«ø ‹;lëƒ×¸"\†°Àff²onk;«Òì7èAº‚d(’!¿¼c{b?î@èÑéÛ
+v¶g®›vNû§cîİÚÚşÊÃx‰§”¢¼<õy§¦bã{ÿÀ±Ú<mv65š;ÓM¿»ùæßİt³çspÈã‹Ø/Âmá¶¡İü6QÀ°¼„%X,u¨¾˜G·s¸R{î|‘¶XÛ
+ÁY±–Â¡ëO—;P‚XKîn…ğl	¨0`,‚Â¢”y} /Bô¥p}˜·èpi^0L8Éÿ	t3Úmhš"?Š{ &â4bQ³’™sà4,œlJš[5#Gµ=ÚŞVüF~CÇñN’“>ZÍè1n¯ø/	˜GKoØb%¶8
+©U#'?{ÿóâ#
+	üñƒ3P ø¦aŠƒA^"G[µ~-Z¿Vğb—å`sÑ`‘(vÇG†	/:­èî(Û}ÖU¦MË£îREAÆaN$sÁÖhÄEáX¶?F£/€h¨Ûø‚ÍÃbØ²°[ÌJ¥v`Å@Àjî%íÁsÜéiE“®9P¾à•0Ê›éÎì­Ë_ìW°¤dğ€éIÙãGÀƒ{÷úÓs%MM¿zlßçiU€C·ië^a#Øï8Tål²’)¹ãú[Cr8ÙgíŸ"ïs:RöYŸÔcŸãé‘+òúÈCM½ÃPï€¨„°^9½z'–GÓˆk 	6mèË,rãØ­æó6ğÙ©vßr‡SpóÅÔ:zú	iıõÕn|Ï”f–]‡óÔˆBD>.¶G¼wì¼ ëd0§82¼rÚÔ9s§M©Äë¢n™ºãİ¿>1õ–¨·İ3xÈ,í£­Ç¦=ğû¹2LVŞØ6uîbíÄšg´}K—Şzû7âñ{>Ä5ÇÓökïÆsáïYqÃ‚åËµi£Æ÷Ê+­ù£njøêÃeOæÜpó°!%Ú«\¥}_V2{fşæâÙ7-^ŒsBj¼xÑíOl*9w£öíå«‚>Ø -ÍíF‘¢`ˆEA‰”ô€¶¹H`Ø¥HÂ%RVx¸í”øå"§È’ˆ,HÆvE<£ÙW7¡£ûmésßjĞ {ğ.whz´4TIV&)åÊ´/‘–ÈÊÊå9ØŞ€í´b"äh“Kê-«¦>[%–§©ü$a²XA*ùra¶Xdj@ñ|£°Pjïàon•î×ò«…UÒ:y¯ôŒü:z	¿Ä½nxA:*Ÿ@ïàw¸†ãÒ{r2K¼Hfá³Û·ÎÒs	øu.A[Ü¾¯=‚mÚ—ÂñÖ>œ‹+Ğ+í '¹x'ÁŠFEùnW zÆzH|&l¹üL¨‹‰€(“Uç$8Êì°‚$üo*-İÙıEİœ`KOqË(Ö››ËãØ—VÙı=ëJ€eˆ[\;sæµÇÿ¯¡±¡ñÿ¸Ñ‹n×Ş×Şi_ÆÀƒpH9Y™Ÿ7î­¹½¾¤´¸X[À9{¼°ü¯Ç„ãŞ¨^Ë|J9Äéàœhˆ;Ìd“Q01C¸“ØvÊëÉš°À¾&$ö	³ÁjÒŸäkÍ¶—t¬Sö$‡Ï
+çğ[?ëÉ¾r¦–@Í@˜>ço‹µ»´\¼7.şÛœ¹oÖÿ¹¥åÏõoÎ-tŞ„=¸oºjözN¦vñ“µ‹™9ÌG_ÅtÆ×”äv Ãòr|8Xâ‚$ôµ%¡`™è+ğ>~î¥ìÊwBB€í>cÅÀ¢}e*Ç¸aw¶|wñóö¯ñj\ˆÇÍ¯,/¯¼^k‚m¿«íºOOğ	+nğh{\ûÖÓPLùxğg #Jqñ‡ÅCÜa´\:¬`A‰"bb¢lnöË/e¯Íœo®5ƒø£İğÖö:nvûZnË÷'!‰;¥}
+ûvº‚ÓçxæQ·½c³	}–ş0ğÆ|c­±øàÚ?èöÛ|²me~~¬Ûåö‹7ì™ˆGD…;û™ú£äÀ¾bŸ(˜R|'›Ùr6Ÿ¨©´wÍŠöºÀ±ùdÍw—5M¤…Ö{µ×~Ï~ ÿn¶/Xüí¢¿}÷å©¡³>ã¦x³³™Ğ+ñ#Tè£²µK_|®iV¥/2/„o¿¯vr‡¥C<Z®ˆÀ	Gìf‰ÁĞCn­%Y«h5X¥|sğ~ƒY¹Œûxw­±¶¿BYÔş'.lx0	ùæä†±5qâÓèyÎëç±MÖÂ±M¶Âka™‡ûª©ú‚ïµ	n!_ l†*õ çÒr­œÁ1¢w ‘C†ÃÂh¹ID,2Ü ³¹Å·²bŠL›İ ?8L•é$oiGó†^¿¦: +’wëïü¸‹×±µñ2È| ó èyr(^”(F]{ØÂ7Äi÷¤`!X´™†’!†\2Öp-™"Ì0xÉlê;Å
+C‘i	¹Ş°ÄPkº…¿UÜn‰çR¹!Òn¬TÈM¦H³¤"®\¨–j¹ëÁÅ.‘î–KOH3Ëq,ª°Îñ>ø¹ö~Ä©Eµïd\?ÍÅ´k;Ïå¶ïéà;³-…¸TçyLÁÙP^Ÿõ'~3›ïóÀ`Ø8õ&ôgw2Ğ ¸˜“è‰p²"ãŠ"»Gì0
+²D8,(b?^é‡À Út×«ó¤¹£néH’}aeë‹r™³JV9šs¢¥hÙ¡ôá†s£¹ñ\®!W™ÌM5LU*8¯Á«¬âî•î•çšMJyXçc'±YzcŒÓÈxì&£¤IÒT9ßRg4G.²Ü"İ)?(…Bô	¤Ü£+ÿ8ÆÂOÁMMÂ×Ğ¶]Ğ¶i+…ãmgHtk>³í$q} «½Èh‘;Ò0¾á‰ˆ‹ÿ¼$ˆØÀõãıt?Â
+:Õé]ÖÂ<£Õ@k³âUx#NÂSÅ|ãl\!÷ã½¢ÅÉ…®æúr€x·a"7ÍPÎUŒLô˜½Ó¡hïä¢qµVĞ~†aŒx£6ßûVğIb¹¯”êw ¦õkBå¾ÖA¤¯£Ïeõ$·9CmÎdçp§ ¾İçlhÕ‘økKp$åM/¼ĞôÔ/<…+ğ­kµÙx-BkkùLkÃüg-˜Ç!Z™¶J[­•áõx‹×ûc‹á
+
+DıÜÁ¦ãN´\4°dëË%0¤ İñø£+2íBLI§˜[éˆ<¸%8÷ƒÅG}»s¼ö†jÁ>ı¬½½•?¤Íª.+«Òù¡gü°¢pTâ3ïD¶†õh%Â¢`s ³¯2(°/ß'ÂìX®ª{g0æDÉ„"&[d<Jœdš`.7™ç›æƒ4LSSÍSƒ¦„Î1Vš¯7I '!®ƒiA´ğÍøìãçŠ(m…V×âÙÀšUï¾†ûj÷i5½ph06¯ÁU”eÀÜûÚ´¦kM"Ìıò’Î[_ÌF,fG ÛÜ©áa\„328$842$$ØåVÑNYÜiZ¢†[„SD¼|{ˆM6I¤î¬€ÊtŸyR>³7P]şú»„Ğj›Ñá¡áÎ°°ğğ°ˆÁY¬àIIÁùQ‡'¸(ÊÚ‘@9¹{Çº<$0†@àâN/¨¬\°Y[Âåâx¸âŞñ‹İoiå{]7“Ÿ6»|Š¶Lû¦"óËï<p¨oÀ’eÚ\_[À|×Jˆ­}Anñè1woäâƒBíŠ1*šwàyÇ‹¡;íüN×zûš^QŠ1:Ü€Â– ƒ3¶—íı–æc-ô¥[º¯¢ùÔ9Û¹D0Å]X›€Ó#Ó£Ò£ÓÕ1Qc¢Ç¨S”‘Ó£fFÏT§ÅÌ‰ğFz£¼ÑªW­‰i06˜Ì‹¢©‹bV4=µ.z½º.f«q«i«y{äö¨íÑÛÕí1½fĞ´ÈÿF#Ú_¹ëog‹àP2ÖK©<ÿúÂO+î¼yjã–ïş¢ÔŞ¾Gû¿+°qÑ·^{ûªßÀ*¶,Ä¼°UktUnşĞ‘¡1©G|ûi8+w\a^vnTLÊ_vşÒÅøka[[ôw[DİÉ_yÍU,{Ç6)-,
+,Ä²îúRw—[îâŠP¤Ùµ%šæ7ßçñ»ôø2x`Ûvˆİ(Á2X8lY#£åR°’Nã_@‡7I½@]~Ê^w`mà†@=Ò—uöŸE@œYpÇ Ú¾ ë«gµÀ}-{fÃ†gÈ’¶eÚ‹Úkx ¦ÓÄÖK"ºÉOhÍ˜‹Äœ@Oˆ‘ˆ#¡ƒ‹:`®Ò±À–ç{V XHû–Eà€¯s°;q6Nåš8Ü	Á¡$”¢%U…FáÑd4Ÿ%Œ'ã)d…d÷£à›ğİø.|Sû»Z„Ê]|^k=ÎCHZIã%®v#!^
+€4ÄKe Qìå€»q G8e ¬Âq‘„3Aw ÃäR ©i•LFXçé_QÈLå'R^;¶ÉH¦ÎÄæˆ?¼¦^9º^‰ò#Dq íA‚M°).E…m0„ÚÁÂp¡¿’››m3¹™B±²{Ji‚-Làğ²,ES0JBx§à‚ä0c˜)ëEâù^,MÉ–¤ò©BŠ˜bH‘Rå@ÿpKÉæGYò#]ÿMã¦‘‰üD¡@,0HÓä‰Æ&/òb/WC*ø
+ƒGªç*5ÆJ“×4ŸÌ—®—ç¯7İn¸EºÃô4·Ÿìå÷	OI‡Lcı’aÂÃ0|g„ëaçp¶QË„õ÷-dõ"?Œî'½ßß§Ë,Tˆc¹ä—î,>’*R$È.ÊÈ(GJ2¢'E†`/E"è!¡ßEbä‚U8âÃó<f-ƒ“ßÜ¬TRöN›k~¿¹#òÉªËÒ¼›È:E5E"V"ÊH&69™ô”Uy(é/Ï"ùò
+²T~4Év™!••p.ˆ’Â•>ÖÍ|Ñ%õ¹¦ñiÒ`%ßìAsD¯ùîü¥ıJ°Mgšş´q¢æÕÕ¶jÕĞ²àû!3ÉÆp­í"Ö4kåNjÑøåÙ¥ğ5§YüYåîÕİ.	'!‰ê³ÄìRäü`!6È~-6S¶X[>Wğó,Õê•Â¹¹|®¬V*D0âÂ½ILR”ñŠW¡ÊE|É±=ÿR»B¼µıO,3ná‚Ú6¶ßÅ5ê²§ï9®c9d„Ú«²ç\xOrX€œÂ­¨€K‰­"¸`Ç¸û÷
+îh%	“\$AHÒ¥áÆl2ZoœDf½F«^0·Ç¤á˜zşã¶ÓäªÖÏHL¤”o¤ú;yUÇ‰¾kƒè×Hnß,nášÑ£°F%vd£ŸãIeï4}Lú´‰«Ö>ÆÎö•bĞ™Ög.{÷ˆ0}÷Hpç»G÷Çœ¥ı«Sœõ¸ò»j}Ş»Ø{è ı+ ˜sÌı¨„ì03#¬(Á¦Åô…,ìÜÅö•Ø©}³uF(¢ó¾A¶	ç˜¿u+„Çh¹`\ò}j°Œãà&Ç9Û?´rmöW„šö·!z›ëKñ@Z$4Z¿µì¡ìç’é*ùØ‘ìˆI£é­vòĞ!è7“?Ï­Ë¡_ŞÓøeôa-yÌ÷©ÒU¼ƒˆ¿túó°¹¯²ºj*¦¯pOF¸=¼ ‡5k+Ärív|½OO¹ôÿ¿b’=ìî-‹ÈmD	yCÜ`yÓ®‰~=bCÜkö5&BBÍ²Ù8,š˜ƒ†ô¤¯  Ğ¦Úõ„Vô·óßœO÷å!¹ÉñÃÔa1ÃãÇ©ãbf¨3bj á¸Q½1¦6şnõî˜‡Õ‡cş ş!æ z0Æ‘•=2Ê=!*?º4ª(ú–¨¥Ñ+£îŞµ1zWTS´æş÷$Ã°å+£öˆéßíu!·¹öºk¯ñÜI+Â£÷,Ûy[qìÛ·ŞSÿòÄúOp26ã‹¹c2ÇİWp[û²­å3^ßüÒ¾ˆ‰ã“’°="òÆ“Ì1Bz•;\ÜdzÓŠ69ÖX_4ôM'à5Éæ0K8!1`‹Möî|ÊñQEQ´¤ÕåaoÀ K ”ã©vT¿`A}ıÂ…Çìi|+Ú7o4î£­ÃåoÛ¸qÛã6<Î/™¡=­µÃöôŒ’Íb®ÏT^i /'äCGğ1ŞrÄ|LÙdç7…€˜Â#Ì(hH÷zÛ…ó¶¯±YáKh­­3c5—.•7>-gåøÕ=¶ºğAwá&koiÛaı˜<å	~˜ö~jÊ“?üdj?ídt4„°ŠÖuh:}wÚt~…lBoZì›„7¥5–×ğ£$ˆGfÎ6Â8„ò‹êu5g/œm±íä[ÿ1©Rlú§“®ÜJ?A³«ñí¬¼Ñ°{3å_İ‚ä 7å»–Í¥Óq&°åÌh{•rî~ı~Fºcã¯X>"6˜ğ»¡^3­‰wp’ÃŒ29³uHÃ°¹ËK:Ê½ó´R9<’¢éˆÑ_ru2NE‚®‚Òö¬yıİ×}¾x	äšojOâ±8Kx˜vïü¢ŠßÙ¸şå7Ş82SkIé‡ÓpÀƒµV–/n¬éˆÙd9ğ1]ã°	Ø$mñô¨EÜ­pd³9ËjÒ?ğg¾Fn†¶´mnÖÁgSéKªTöá[XjX*q€7`‰õ|8ÎŞŸ¾€ Ë_ÎŠSµ?këví:òôÙ Ì¼K¨m#)Âà~d²Õ²¿ $Ûu÷Œ°ä8|Ì¹! ÌB~Í¼;nSÀ{èMÒÓ„Ì·C!IğûŠËY]ÒÚ×çé¢Äİ»¨·¯âË^²× 1ú{Bÿ‹lÒå•(Ù
+b?ª]À¦£»Æ€<¡¨l.¹çÚ¦--ŞE×××.Zt¨d:Ùú=Î˜^ºµÍ®}¥}¤Æàië¶qËêu¶¬Z½ø»âb ğ7¥¹CÍ<ÂÊÉ€7¯Ùµ`ÎŒFÙÍf«–t‹ÚxSï–²§È¹Ô©«hš}@Ïxİ~'©aÚ³Í1:©v)5áköÖ¼ğ*·½}’¯]Yÿ‡µí'Ä öm%3Îëşú./V5§ĞnşQNÀ€’­Û{K·œ/ÉµòR™ï\ËìÀåtm_ôıF1H£¿qÀ]: e3˜FdEÃÜNZ=Ü X ²ğéQ› ‰fl6!›×c&óXôÛ;:½È^k_j×ç	}bøæûëÑ§®.ÏõÍ¹çÌçŸM¿MDtb§`^İíbõÃİèQÑŒlİˆgi±ÈIœc;Å!†’c˜FfˆS³X	q	™ÇÏn'·ğ·	w6UÂjñ!Ã3$,˜K™Ü(aŒ4‰›!Í†lÉ#Ìçj¹yÂ"é6îvá.é~îAá!ÉÑ½”øãõxcû).OËÓÆjëÄ ¶§ğCàX7ã·µ¾:>yD=å(Úß?k„"¡VX*øDÀØ/}×¢Ûìv„{À¿¸P¥;!Ü ó¤Š†PëIõÍ8òZÔî0Ü  “dG™FG‡›#m=õJ.Øn$µİ¶¡4ñ}F;tèYúõh*ûˆ–¾u[£ãSâóãkã—Æßÿd¼afZç`êç~1vİWÚ}ß†€7ßŸùlíó¯ik0ÎÎ+÷rÚwÁìZ¸¬ñÄì†]dkEõùÚ'q£ÍaóçnÛĞş7zÿÜÇn?Ám™UT«ÓÇlè»Üfv_ÙfÎşs›qü›yè>¿Í ºÉøüx<àAë~}İâ¦ ´Éô­û°æ’!—Õıö
+îE×é]¿¯èZòãŸ¿xñüÆE‹AM²`¹~Zû@{"ŸØ´é	ºc¤½¢µÀö
+¾
+Áv•Ëm’0p¡ñnˆ;²3Ş½fYƒ? »#!Ö¹YÔë’!ØÎ½<ä¹:ØáË» ÊP¾tI¶Ğ{!ìmnß#*[º$dÍXÄ£şzó×F7_î
+"sîÿÀº&’e.nÈaºDc?n]Ò—®\ì•©¯áöCè­\t„dİ7¯!óıÑ·½OGPnù»o:ô‰´ ïì¿Û-°üDä°ñËkònƒ"š‘d ÆHCbÇ1oH¿kö½L¿\•BHKòŒä;WQ~eí^Ğ»Iv<õûö6¾h_‡tŞ97•À¼ñè}·Ûlâ,ÆQÑQ‚hdWFGG¹ôúË©‚8…n°ó\¯uÖà&„X‚ù±ãz±š[Îv¯Â}M³¬€+}ÃL¿\6ÒjãLY–Ùh4Í²Uˆ3…™Ã,¡ÖD)INR’ŒI¦$s‚š.‘‡(CŒƒMƒÍcå1ÊãÓhV“İ/í—÷+ûûMûÍ.‹h1X$‹lQÌÆAæá	³dZèR¤ãƒ/ÿ¼N/ÒÑ/øúwf•—-iµVïç‹çi¨œ“S=ü‹ÃÚJßƒœïË””şi}’ŒrÜÆ'vï‰‹Ã¶§§$›¥¨Í¿ßµ#Šò5ä¹Exr–jw˜E¬d“ï–6!E2ÊœF`°uyuÅŠc›Xîba¹KsgîÒÜB'ƒ½Ër‡GÃé¯X«ÍjÏçòI¾£ˆ+":¡4¬hJcçúãë´WOß§=öÔ®]Â#Ú—æÊt	=uŸÄ_Ítp#ø‘/bï¬Ã!¡Á¦“Ao†¬±áİ"‡­fû(ğm¶0İ>t·|6µÓ³…/¥yt è_­~‡èìíÈ_{nÄœÅ<
+|×ü±ú…×ñnGíµÚçI·Íë¹c-—ğıÆÍÌ»ai´à|Dôöåõ@Ò­xº[=pÃÏ«.¢¿¥fc•Ze˜Ä•sK¹{¹\“o;Û›°}È¶/as
+¢ QÀq	ã{¢¸Ià¢8¤ó)R6ÊÆ½ù"ézñ6|;¹M¸]\Vãµd-¿JX'n#{ñ3¤Gg}1ÂpÆ³µQÚ|¾¨­•ˆßoÔ}Âhˆ¡‘@¿	ÿî²úâ ½¾8€ÖĞúâ€­/¾b}‘¬~‹ÒâßŠª¤qiBŠ2Šg)UÊ…1P€M&
+o)o*ÀBá%$˜‚uO€`m &@R‚=q® ö–úÈ=Œ.S²%¥áÜa°8Ø0HºÊ4Ü2ŠÓË‰£¤Ñ¦©d?IºV.4N5Í²”sE|‰P$Š¤2¥ÈØÈÕòõB­Xk¨•”Z#A¼YºC¾Õx—i…åé!Ó½–­Üãd+ÿ¸ğ{éqy«q»	D"î•1½Œ›Ékü«âqîy—O8'ı]ş›ñSÓµL\á˜şÃ1F3O?p÷}ºvB[pğ€¶ D×Føvkû~#áÚ4Ÿş* ?#^àÎş±úb×dg­Ñ_läñiÅÀZX0`c÷bc =u®ušı âø3Dø¸ÙF¢e•$ËıÉPy$É•Èt¹„TÉõäyYJ–Ë+äÑ½ä^ò ¸^Ş o$OÊM„nÏÉt;L“7ä7ä7É›ä´|Zş|H¾¿¿E_’oÅKr*(&o’ˆÈEğR m¡ó}¤
+š"PRÌ™ÜX~¬”©xÍ·¢¥Ü
+şq…´Ty­âÖñkÅuÒjå1±‰{N¢zõÿ†tXy½Éæÿ*–ŞT>Fr_ğŸˆ_H*ß¡oÄÁzÑ3œe¼ 5ü'­
+/<÷	^çmÚ-mßi·pÃ¸8mÎm?İş<.Ñ¡vç„µ] ÈÍŠºGZ#‘¬Ìd&úõúånÈ
+½ÀÜ¬.‹ÂÙ¤lŞ#h·Íj1ÊõIàém~¡u‘—ş‘BHºÿ
+ûåŸ“L‰‰jK§Ë¢eQ×Àİ
+Nëæ¶ötq[Ç|n+”Ç2Ğ0ƒ c‡à†B±‡ÚØUd 8ĞnI·f¡,<†Œá³„,q6çoånno7ßny[Kµæµ–mÜv²Üò¸õø ÙÇ7ÉMÊsÆgÌÏX^á^7¿nyÕúwKïpm¬¯–†c'ø¸¾fÊµ„Qz£öÚ	!`íwñûÏ®úlğØh}–Ï¾Ëèw+Í²"­¢æn²‰ÖgyÜ­>{$õGë³™S¹I†J®Ü°€›g¸Ù°Ò šK6Ü#°ŠlÆ$AJ6ÒÂíi–ñéé)rP5–@…¥H‹äd¤øË¸ä­ö]\^[0—×ş:_ÔÚ¾îjåÊØª¶‹ßë¤h¦»ŸÓê0Š.9Ìæˆ4
+jAr³ñjÆ:šuE:M²"ôä‚ê´+VÁe;6ôÄùTš3ÑÌ)@ÿ úU}{™®ÊŠ‚¢è0ìÿ} hâ+`°÷¯‘ôƒJ~×‰÷^©ºgØ°{ª^yïDÖò‰Ój¼S'.¯>ÓôüáÕ§V}şÉ3“ïÙúğ=Îğ{Öo]1™òóZ$şXŒ¤¿ë²—UI9Ş¦ÿ&ìı÷£>şHŒ¼ˆ$ÔŞ"wj´+<Ød•Â§•T‚Â›@oÜ‡Öfû£®g˜ä°â¸ …E; U6òŒàÔ¶¡Gô4‘ØbıóPFuŠà#sPî ;˜’ÙIw@(ûî‰Ó¼ŞiïÎîJ{õä[×ßî¼çá­÷L>óäóGW7œn\}øù&úÍ/Ş%œ$°ĞŒsƒV„›P ÿX¸é±À(dÒ)èXËû-¶ÃŒñØA˜øt£ËÊ4š`‡ÓNÎÙ]4w…E2Xš9eGÉÜ]pe5Ğ«I“‚ùYƒEBÄaã&t4Ç²Ú7âfî»jâšé³¬C¿FÑû”ãÃÖ·ÒıçoëÚvZÊ³¡¯Ôñ—`œ¡ZŸc‹ù¶î»TëQß_:èü)á¢r€VÃÃÎ½
+™èVÍ÷A/Š{Ğ]Â}h£Ä£b+ZÈÕ£É6Ôû>%ÀóDAÕÀ/œßâè›ŸûP	ìÃ¾ö;`Ÿû#°/ñ]/†}éÎÁ¾ŒÂğïüú»Åè6±RD': œFåâ8Ï×wñ>¸Ş…p­t¿´\ì÷¡Ÿáx÷E C8¥ŸÅxö"Z)4¬%p`Jo£ab/¼~©E8Š¦SZ(Îp¾æèUF3…r4EØvğ‡ØyºP¦Xó°ö.´ƒ;D÷K„½-MBÛé}a‰>ö#_ÁøÎ·Q8<Û(BÑ†24ZH@ÑĞvòÛ(,Ş-˜§gJ?Lß]&Á¶mÁ"¾|w+	 nREöBˆÔø`>‘Ïäoå÷=…;…×Ä0±AÜn5ÔV^0|")R’t§<P>¦P–*ÍÊ7ÆXã"ã^ã{¦ Sés¹Ê¼×|Á2Íò¦µÌz¿õÏ¶vd_g×FÌ	¸9`kÀ+ï>Ø40èæ ÷=w:şì¸< xuğ!!;CÚBsCowpŞã|'lRøÀˆ€ˆ?Gö¼;rs•­ë*!y¨º™@mÈM]ğ9gÊæ0XCøõpNõµ1ä>ùÚxïï|m‚ †ùÚ ¹	¾¶€LÜ¾¶ˆ¬Ü¾¶„ìÜi_ÛHÿ*ƒ¯mx¸×m¾¶²Â×?3ä}_Ûø!_!únR/œÂf§mŒ‚ñë¾6‡$ü…¯MŠ5_›G*×Ï×P(Wæk‹(Š»Ë×–P,÷¬¯mDƒ¹øÚf×`2Ö×¶ Š!._Û†‚‡4ûÚv$ùD^T‹ :T‰f£
+Ô€TÔ•¢8§¢ØúC«z¨hôi@õ°×!*FÕ(îæ èŸ­T›Š
+:`Õ³+œ=0fË §ò3fØ1k!Ì4æšcj 7Å£Æük3fBkŒ›„¡G)ô-fĞ<lD1£H(5p¬…>% ·ú©0Ş³³g
+B#½µê*gW4¨½JÔTX«%Ô•õuâêD5§¦4IÍ¨ªRh¯zµÀSï©›ç)KR~0t ZX<¯z·f¶:¢¸âGfzæOjTK+Škf{êÕâ:ZY£Ö6–TU–ªeŞêâÊÀ¬;‰õp[<¡¸.F 1U@á­*û±!jg·.ƒÕ_<d“E=pĞËø›
+éÁO]}¥·FMMê?¨;d?Ü¾—Ã¥`û^	“r\W€Ÿzúq)÷Ö ?@<ˆ)Iˆx0J†­ÌcÀH‚±^8×Ø=^S$€ë1¨¢¡¡vprr ×˜Tïm¬+õ”{ëf{’j<ğ8»~…ò+õM‡>£JêaŠî½h>ô¥jıÛ(+…4
+,€>ld%<«et50Ã \«c#¨)Q¨ó.ãäåttcc7cü1jØ®D»®ÅĞêÊµº4à—oÊÏr5¿½ƒ»²¼;i®„'
+k5°;T«¯çÂ=/HàŸáB)Ëgğª´Nãªd8U°g]³Ù,5>©'úä®KKŸM×1]ß^^&ı6¾ÖgÀú^€ÚàÓ±JŸ3:§Ì†ÅåúTÊúQ=Ô¡û!ĞŞ:îº.{˜ıëºÛEKb™äèØ2v®gx•Â˜b}
+³‚RĞĞj¥=ñó§ZU>KêÕcçÔ§Qü@uí§3vò„Ş©eVS3”²Ñ~lÊL×Jài{ªÏ¡üÄ‰>k.Ì'ó™T0¯ÔàãL5»×•"?uİ´RÇ¶‘ñ0±‹th»šÉS—µÒÅƒÔÃèÄ¡#±ƒÎdæATY·v¥«İ¥ÿÓTû9§c[Û¡Ñ¯N­ë¤h>ãGõÏšÁoåÌ«×ø(ôt™±Œé‰ìL91z”2xz¿üÊY$Ò=›_B¥lî2†q¥ÓÁÌ:}ØD/ó2èê‹:9ğCOPı|ÖPß­¯ßV:9ÖÕt§2š‹æ
+óÍİuMç†KŠB^UŸì«Ù¹ÓüY4°HD#k±¢¤nœú©±”'|±EŸò¼œáXæÓ¤*¦§uwtL)OËºÈ¼«Öù#h1‹ˆ•ÌgT±+¥ƒ¢2†)•WMnÌîWõ™ü>´˜i®»ş9.çOı?¥É¥â£ SÃŠ™Œ~>İç¹œWÂ-Ñ'ï*6®òG¼¹Ò!:æg‹™_é„ë¿Sß¡‘~{¹<zx|~ÎÃ¨ğÏ4ŸQUÆÆÇ^!ÆvĞ}ùù£ml-Óm&÷²øRÂìİÛ×FŸøõd<­¼Ç<°$mğÅÚ»6=z3êéÑUî:Îş;Ê-¥‚yx•ë}8z˜&ı˜ø}İ•|w‹5Lî]ùu%®*]8×U†¿ÔVë}ù»ê£Äom~K¢™CUGîQçÑb-Óè¹pœí“˜©V)^õßé©~œªŸ4øâay§F£,6Ïx”WtñpUˆ&CYÀåÀ=ò¸x2	®èŸØÌdrÉ`OèóXf“¡M!G,F)ì©p‡ÂVÙ5½ıó ›…¦°9² ÚÀl<´)ìqp7ÎY¾~tÄH¸3®i{¢Y¨>ıCŸ…Ìvè8Š‹i!Üïœµ;V9lF?fãàª àö=¥T4‡Á£ø'²üˆ¶ó|xêœ+`Ğ)(d
+s$`”Ë®èİ‰pÎ‡~?3Í:¶yŒ†lx®Ó’Å0Ğ%¡c4’ıñÒ©¬ı³¦…Œt¦B_ÏD&GJO&OgËzé˜÷I™¶;¡$ùx©ãAù?©cæ	Œş\ØTF!ûÃ©T6 ß×¯;£Š·Â¸1‘Ñ—Áø0Í0‚õ£\¤üÌíĞ¸‚.RÉøEåF1Ïd3e0L¸"%~h]¥s%íP:fÅèËbœÊe½' ³ NÇ]s­#}¼Öaêz¯ëDnîd4RÉ^³fùt*ƒñ®;TN“şTèÈğGváY§ôó|ÒõãSÈf.¼W&3[Ìb½2˜¬'tØH6³ßq>Ì'vhX§˜èÓÏñ˜uç¯ßüı~ïĞaùçî.ÁL¦O¹>'tpCï¡ü\İweA\+eëœ†¿İ=rwÍ;³Ñ®ygb_Û5Ğ½ğ(Ö·ú²~wõÕ’³:×:]s·+­°ı«c=—÷g½Ù‡î»õ5Q×¬·ŒåçzXß‘•xYèíÈLæ³§1½ÖW;ñv[çÑ™‹YìOì˜Ë‹:aéye1ËèlõWàæG(å+ÃZïõYæ³vƒ/3¡ô5úúÒû7\¶ö×~(õŠ2ğÓr¥Ì¡+ÿë˜¼k}k©JÆašO&ùàÖ!ÿº¬“'”zİ­ú2©wj…6]^U <˜İó2Æké5<:§Âü•¿Æõß¯:ıÖîÿ¥zÒ­tyæõï«)W¬©ÿázò³êAİ3ùÒ.8uÖ:ü=^õJå¿VWRPWRş¿ºR—ºRg…áÿ7ëJJ·ûß«+)WX­ı/Ô•”+Ö•:)úÏÔ•”Ÿ¨ügêJ
+úWëJo~ËºR§½u¯+ıXôıñê’¾>×3‰ÿµê’‚ºW—®\İøÏT—”Ÿà®Ú…ƒÿÛU&…éØ³™ÿ|•Iù®2)—U™:×ºÿÉ*“òO«Lê¬Ê¤üU&õßVeR&Ô1[Ûğü?W;R®(óÿVíHùAíHı¯Õ”­uÖ€şıµ#å_¨ıÜoíÈïY<¢ü°â£ü‚ŠO×*ÍoYñQ~UÅç‡k¶_VñQºT|~ªîğ[Th~ ß:+
+›‡^%!”Í>Ğ¢ßµÑ/ã:>¦S{Õ{<j‰§Ê;?!Iı_Á%©£ªÔVÔ«•ÕµŞºO™Z^ç­V3ê<ó|ùç`_İ5ê_İuFQ:gŸä©+VuÔ:>İSúşäòÃü~ö÷êe3WÖ+ÅjC]q™§º¸n®ê-¿Š¢ä{êª+ëÙ7t•õj…§ÎsÍ®+®Òv †Çêf{Õ¯Z\³@­õÔÕÃ oIp¬XP¬–Ò
+ôl¨ğøùTZê­®…î´CC@.{jê{±Œ%±	 ¬L-®¯÷–VÃ|J™·´±ÚSÓPÜ@ñ)¯¬!õ¢Ù u‚·¼a>°?6aRç©­ó–5–z˜²J ¬²¤±ÁCqPºH1—V5–QLæW6Tx ™êJßDt†:• ¶±úSrÕj¥Za
+R_‘ØeD:g²·N­÷€ w% ê#ÿ²©)r ¶–2ºAÑYÇ&š_ŠõƒTåu50¡‡,óªõŞDµ¾±d§´Ş¡ô•{«@Ù(A¥Şš²JJGı`E)pÅ%ŞyF®E%¨ñ6€êõ»T*µ ?Së+Š«ª”k€XIq7:½5 ujµ·ÎsE²Õ†µòb˜(IGªûÓêâ`-0¼¬²¼’*ZqU¨4 hqY£\g5Ğâ:À«±ª¸N¡•yê+g×04fë¶
+ƒ¨†—z:ÂOıå3Q
+LÀV\ue ¾1~<:¡z5UÔÊ.j®Prê<ôÿd}i£2’ÊÅoĞ9O4ß[WV¯ÆvØa,Ûÿ@‰¥fËX’ÉõÙK‰,‰BmPÌóVv æ¹¾,F-®­ó*.©òĞ:í ™6”N¡T7¨Åõ ÑSÓ'Të:µ»Lm¬)ó!Ü‰ªÂÓ)ü)©Ö{«¨U3±Q!«UÔ{€­ø;Ö—Î-„ÖxªªÿšRu›
+ è©*§HÎR³ÇçªÆgNÎ(ÈRs&¨ùã'ådfeª±à:6QœS8züÄBzdäNUÇg«ySÕ±9y™‰jÖ”ü‚¬	”ñjÎ¸üÜœ,¸—“72wbfNŞ(uŒË_¨ææŒË) …ãÙP¨œ¬	Ø¸¬‚‘£á2cDNnNáÔD%;§0`rj†šŸQP˜3rbnFš?± ü„,€‘	`órò²`–¬qY@ 9>jAÎ¨Ñ…‰0¨n&*…™Yã2
+Æ&ª l<\ ².I€%ÀP³&ÑÁFgäæª#r
+'deŒ£})wFå—¥dŸ˜—™Q˜3>O‘¤dŒÈÍÒqRFæfäŒKT33ÆeŒ¢äø'¡İtr:Ù¡Ğ£²ò²
+2rÕ	ùY#shø˜S5²õŞ'rº#ÇçMÈºf"Ü€~ş)•É£³Ø@@üÉ0cäç¹Náø‚ÂT&çLÈJT3
+r&P‰dŒt©<Çg3˜ü¤ÂËóáKeDïıP; í#03+# N hÀ¥[_Ğ®¬ëK=µT·}Æ­»FæFuß™È´Vw Â£jÀpõ{¬	a	,‹Eİ»ulu×ËÜh7D"İõ–Íó€¬§®Ä[§x©3™_YÏ,B`µWyj}qL£¨±^à+‹«`X}šİJñÃÚºJ2¿®²œ‰ZÜwë*oğ…á:_˜b¨ĞY:ƒ§¾¢Tå<OÕ‚$è[GcÃ¤²¦Ü[Wí#±¯´a°?UhPg3àeŞÅ[7;IU–qıêÔéçş~Äo“)z¤ş’<HéÌƒÔ_˜)?Ìƒ|N¾”Aª÷ÇŒ+$¨	‹òkr%ÕŸ+)ÿ¹’¢Ëáß–+)ºÁşª\Iùs%¥3WRa®¤tË~A®¤üX®¤şü\Ié’+u5ßnéÄsp¿Uº¤øÒ%õW¥KJ7tÙºñ·N™”¯ú«S&å7M™_Ê¤şò”I¹<eRIÊ¤\1eRÿ•”I)Ì˜4nÌxŠvÆè_”)”ÿšìHñgGê¯É”®Ù‘ú‹²#åŠÙ‘úk²#ª¬İ¥#ñQ~4ñQÿ…ÄGùéÄGı‰ÂŸî¹Ã?Ohüıİ,iP’à”ôk~g0™ÕíæÂÌjgeì­^{¿Z÷º¿-üéß0L_9·2¹œÕõIµµÉ>ù‹~ñ“ı&2û¹ôW4]á'ãfn)î‰4D°ÙáØÇ ÜµÂU
+†c¬ï^,ëGÛ«ìy4zQ0#Á‘ìirÂ1EÁ1Œİq²c(;†°c0;:p² T»¢m‚Y;€­Ø‚Ãs+»¢m‚ÍØ„î†{fvÏŒ#›°M…{ô	ãR¸gÄ
+ê	÷èG7Ü£w–ÙH‰ÈÄt„¸ëÁ$!#‹Œ.yÖ‹0Š8v³#r_ZL.]M4´}Ÿ(´iäûDÒª‘ï.¾[L."ß¶’o4òµF.häÿy–|¥‘häK|EÎkäóEø\#-
+iqóŸ}ªŸ¥’Oò÷VòÉ}ÁÂ'ù¸•ü­•œƒ‹s9«‘4ò9£‘5rZ#´’Sï‡
+§ÊÈû¡ääÆ(ádyï„Kx¯•œp‘¿¾åşÚJŞ}'Hx7˜¼sÜ&¼DÛÈ±·Â1•¼m$i%oü·\äÍLÂ›qä?	oô$> ü9ˆ Gàñ‘HòzyíÕg…×4òê+3„WŸ%¯.å_q_ú“KxeyÅÍÿÉE^ÖÈKe¤ù^›Ğ¬‘#Èy^#‡Ÿ,n%Ïı!\xn09t0L8”J°ÃÈg­Â;yv¿IxÖJö›È30Ù3Ù§‘§do ù£Föhd·Fv…§œ¤)˜<	pl%;á´³•üúÿ!œì€ÓÅä	lïI×È6<¦‘­ù½B¶häÑÍáQl¶Ín~0jS+ÙC6F‘pÚĞJâ‰ kdıCÏ
+ë5òĞºÂCÏ’‡–òëV¸„u3È:7¿V#k@;ÖhäÁ$²®r_"«`è*•<`"+áÖÊ±ä~8İ¯‘û€÷“{md…‹Ü£‘å¹[#wiäNÜ¡‘Ûos	·kä6¹U#·häæTrÓjò;,ÓÈR'Y¢5²X#‹4²°•ÜĞJhdş¼­Â|ÌÛJÂ…ÆVÒNê[IİbrFj½‰‚7‘Ô´’êVRÕJæjdF*5RQj*RÉl”§O™"x4R¦27_Z¢¥&R¢â"‡P¼ša»Pä ³2S#342®§käÚiáÂµ™WÓÂÉTLi%“52	®İ—&id¢F
+£È„ RpS(h%×Àƒkœ$¼SÈo%ãóìÂx'É³“qQ$wlë cÇØ…±AdLEc'92º•ŒÊF9HvÉj%™#-B¦•Œ´.aD+É ˜.ânÜ~µEn%W[È°¡faX0j&CÊÈ`¤‘«42(LºHÚ€ !-Œ¤æ(fa@°”ïŸjú‘şn>ÕDú¥lúi$à§l%É&’Hú&ú¶’D‡KHLú”‘Şe$A#½$>Ä.ÄG‘*qE‘qÀ€>=¢HœÄ"³ÛJb¬$ÆÍ«A$Z!QQ$2Â)DºH„5Pˆp’ˆ}à3îãÃÍ$Ì9V[Lœ0©s,	ÕHˆÃlÁ­Ä÷.TFí$@#v¸¶kÄVF¬›`$ÖÃ¼ÅF,Ky3<1·S*1iÆ`b\Ê+f¢¸yY#’FE5"(Dpó|+!e„ƒQœŞË,`;Af‚÷á²[–ã>ÿÿñƒşÛü"Ñÿ½ŠêWendstream
+endobj
+387 0 obj
+<<
+/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 262148 /FontBBox [ -1069.336 -415.0391 1975.098 1175.293 ] /FontFile2 386 0 R 
+  /FontName /AAAAAA+DejaVuSans-Bold /ItalicAngle 0 /MissingWidth 600.0977 /StemV 165 /Type /FontDescriptor
+>>
+endobj
+388 0 obj
+<<
+/BaseFont /AAAAAA+DejaVuSans-Bold /FirstChar 0 /FontDescriptor 387 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 385 0 R /Type /Font /Widths [ 600.0977 1000 500 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+  600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+  600.0977 600.0977 348.1445 456.0547 520.9961 837.8906 695.8008 1001.953 872.0703 306.1523 
+  457.0312 457.0312 522.9492 837.8906 379.8828 415.0391 379.8828 365.2344 695.8008 695.8008 
+  695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 399.9023 399.9023 
+  837.8906 837.8906 837.8906 580.0781 1000 773.9258 762.207 733.8867 830.0781 683.1055 
+  683.1055 820.8008 836.9141 372.0703 372.0703 774.9023 637.207 995.1172 836.9141 850.0977 
+  732.9102 850.0977 770.0195 720.2148 682.1289 812.0117 773.9258 1103.027 770.9961 724.1211 
+  725.0977 457.0312 365.2344 457.0312 837.8906 500 500 674.8047 715.8203 592.7734 
+  715.8203 678.2227 435.0586 715.8203 711.9141 342.7734 342.7734 665.0391 342.7734 1041.992 
+  711.9141 687.0117 715.8203 715.8203 493.1641 595.2148 478.0273 711.9141 651.8555 923.8281 
+  645.0195 651.8555 582.0312 711.9141 365.2344 711.9141 837.8906 600.0977 ]
+>>
+endobj
+389 0 obj
+<<
+/PageMode /UseNone /Pages 391 0 R /Type /Catalog
+>>
+endobj
+390 0 obj
+<<
+/Author (OpenAI) /CreationDate (D:20261012164849+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261012164849+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Topic-wise DSA patterns and interview practice problems for Java) /Title (DSA Topic-Wise Interview Roadmap \204 Java) /Trapped /False
+>>
+endobj
+391 0 obj
+<<
+/Count 12 /Kids [ 3 0 R 4 0 R 51 0 R 96 0 R 143 0 R 186 0 R 239 0 R 276 0 R 327 0 R 366 0 R 
+  379 0 R 380 0 R ] /Type /Pages
+>>
+endobj
+392 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1446
+>>
+stream
+GatU29lo&I&A@sBlnOJGQls3uHZH@NHBM#YUIOPDdL/`8,&3:6!Dp)ulan8gb$RatoiP^\_IE'/]sh*@nF2K^s0E'jC&qs+'W;P#,u@&J/AAshMj&o0'#YB?.1d8j5)k)G*_djdH?Fh/k`@0f`:JW&#<s@4Mc^+?$8_OV*[E@L8g9Vl_tEp?(93MMoMuk2?Y_1a>)Ede:ctq+"+PY=Kg5@$rs"C2@.DWqG]lhMP15PAFj>rL"OJMVrkq^S,`L(q8J?o4J0`>LOb*Z9*ZG3C$87863!=g9G]<d1nC#6b0<"B5"%=Y1WTQ'b?K;AH5_smI0`($2<:%CrT4dG(GnY!.qbP')+eh>_60sA_R5rX9/$,G^)C(Z7-IE=(UQa-O$9aqT&1<GJ1N!e;D>L0VXl`[Fn4a2c=lf]sRV,Z5U0mmCf$[)h_lVql=O6TfISp\L8/.o:6$4ANB,?(%Vpm^A8BOgmS"s.F93o@k9G@.-4X;G8,="H"JE=g(m5$g$P]Vl2^t!j8n3PDRH9"BCR'jM&7\%@r/'AokeZ)qAUX`X!Wi8kW>2o.ZX`Ig*g@E\-;JF3Om_5#L!uTs=%Sb&$iPKcNI;$!$3:`&^&m,jr!5:F'K*Djg0Q%?fG^]&7W)a\#="WjVe,jI&/cHDs2XuSYNB>@/`($%=n>6e&,G$9EaKnon;iNJ&#`V/o:p)K]@fXY?)+DB'dkFCg!"BinR,XAsK3jY2Ds@jdpU:!o2II9,`YF8>bcYlE^r`;u0YD<!eY2kU-10"L]CS'^hl*i&k8",fJfA,<;bH4>?U1d0Z#96ciGsf#f5#quK*qZ*:j"+FiKO6Z-OkP4<.j+3Yrhh&d!7qslg3`kj!WSaC]^c?X2`#IDQRl\besWpNb`[G72Ih0gJ=>BKe(g3#a<Xp\_^)(Mp!_qQPQ[(`0k>d`42^[9(==sp5$"Wo$4OR=t2,+r)^OE22S.Cpo[F,'SkjeN^DegG-I6t=<_Q]$Q6,QnJk8T)i4r4gd^!a[JRZhYYC-l&/HS\1>[8FR]I'G>N/(]YWBl$Foo'r[/Ho<]br4q"PjFu5PaFYS>#[0S:?ru[o1fOH[a?R[_ucDl;](oEF]V#,0$Vij+br)X^cWiV1PHLHp;$([^nQ'MSLGcraIm4*AMISnF2aYqO2U#^JXCVZn:.>fIH(R*=IF6"eW#MSFbOlb0.+XY);J4Q`V*?]R[1cUGR.g`G"V!$>!La/\=1.!\S]br&!-OWchC8&!u,N1MrW/O[lVf,V`_!iZD\U@)3]Ls(CT$^Q<VKp8oc)Dc\HZ93?PmZ%1?ViZ)ii\Au:L>!"C0_IB9JVRd(fI!)JRI,UrAZh+rM!O7lM0Q4"MOhiXuJ@X2Ij)W@:fo=im=m'NUA79F'CQ;Ki*2d1F&@ds)2lHDZVqZiB@q%TCk+o>bBnXR`F]`j-qn\er/*op6i8d*'T+d=~>endstream
+endobj
+393 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1569
+>>
+stream
+GatU4hfIL2&:Vr4YtoR\DlW#f-(25Q\Fcq@k")/oQb7"I!@M8r[L(3.Ik)BUP7,B_LC$BGah-84IB0am;#E$I4^A(n:Z1eu!TPkZ"=AtYa`mN$Eq/T%&R%cNJ4L8mVLSf6Ko//S^VGWW:/AY2j[*tFL'XcSK#n?WninN>V_TO?C&BY)?bn!na4&@!j#hq.P9S.Uib/_oWL^0X)BL;<nC>8*O"bj2aX=QR"$;C-OK2<'7WogRDs4\u=)'%E0OmEO>(n45J]&*Z:T72r#=-X#WXTM*6UTrS:FXB5VEgVE4/8<kRs1?HqM[&OU0e.[S#2Gn>).Y/.4Ls;dnDNo0t8E(7L9L3VL^JIFFqgFc:@q5Bqh"&i%q9m7I^'Ye[eO6MnYSomUd("Ns$)1*lnnB%E2jYcZ.2?SmrV%p[iO9m.Y+_dP"!IrCifZT7sS7I\r1M3i,%H]'1$r4T2df]BBdu)9GmUK4\hX/`9TC_tTHbrFR]sj/WO[<JB$^V.Kht=m*E[5eWloZLL*24MdR@a7"`,USBAM>SBp&F4L.#PojWnQ60D4D>LhFbD=gf-B(`'RY(LdJXp+0f=G/`&M&frULr-YY&,4Ui@<%;.nh_q&nSUZ\dF@,H2s.G$DTG$'f[k#@K><PbU1a+3F"0!BbhMC<=-bJN3_Y%rWV?,:)"*d(I%b.o0o1ni=apq[s$RC\\Riq*:FHLo51E,N/Pn?F)-ta]ij&5:6X+9NS$"X3Ug[ObgL>W2AdCF6p[-A,)jA+q;J8($Gr=SmE%>D%WU]B-*0#OFe%+N'ulB\VMil67L*kM(o+,WhaUb<dk'kKZL$LiA`Gr(4)L8Y,K-RLo0#j?UDa'l`Qi=rc&K]iDn$B5rJ1#RaIfNdMbU)JU&*H.Lp/T"]+'A@1$N8'8]M*pSPA?Z0S%n78W,FA#W2WncJ9i$3!NXFN6;d@Pu)(+5L3=7cd0):OR;eiFHbfDs-[jgA,9G@pk9E#F&(,sM:EX%lXPVl_'`A"rU4Em48BGo=QZoRZaZHKZeAk2=hb60%M:\X#'X]f\qY.kfSWkY/EZiu?G;(5I-G-pA+BAHq3\k(q138Hf<rs8DObWuA$'0,(qq>?L"0b!V=Vp6<phdr[icG.Nq`lYp*GW0m:WNZI?VZ3FD4pKh4eoNEb<o2:U3Vh\C+1?[q<3FkOB733DQot2&6StNUZ]\fj].:F"Bo#3.GrR&^mt8*sn76\hSQI([`@U+'X=2Lu(G_d#dq*_HeB!(L))jnBX/<HpcJ.YR&q2TamXDq)/AAfCIY5/uu]*/*j=VY-I*F^g5+T9iQoAl2:8biQ>jM7m!&*ZV@CpJtXctCQCF'@Y:kA_^LT/]<bMY7e>\4;$ElfSl&:.QhOkWn*,GfOL%1S0nK]W-Sa^_b5IY7+p-CT/lYmKQe,,c9_0rT6M*N:&#M63*E?-Hb;<Y]KZi,:#$_LM3"Q<;%Vs/CX#**qW*q"`5TEg$H"58&90j$Q6Vo]aIi$N9]qC+63WO/%6iNCH$$nl@LUr?$Vui2t!][1[Iqd;\r4$o64RbMh!Ubd:qqU;6*piK@k<EqU++O0q$3~>endstream
+endobj
+394 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1959
+>>
+stream
+Gb"/)>Ar7S'RnB335C'HlVNl`;53WI>;s%5O<t/=%!uD'`DLDBXtFGZmn69]/9d4MbI"SYM3/o9WH/P6P"4^4-j!M!8GRHD!?;U.m5kB&_XJJ"K,b`"_T?ccgE'gqlZ`Po_gG']5TCHp-'4/]e4jIcLD,=iF"'q:R,^4[$mT>Grdd@KP<O#p`E1*H#;AiKiTSOa0FM8"k<XD5#2eA`O]R[8_S6p$GV=!smkFY@_q-r*,sO!p5'9s&3LAb+=Mr-K23cgNK8:)Q!71<MBA?>qW9/gR%$!5>M)L*mE2gkYWGuED!+ORsfMMo&cV/U2Sp"C^IW^)ae\F^5OFoBTpDNl9J'%%(N5nQl4WKX&)^-Ba&E5.c)0^eXe0K:+$h4o*(`;6I&7mh#?`@b06]im\@j(Yf.'mkl"U2eCh?I[@-`^b:JssXmlhe0lL\ll?2+qkDqEBGqf?1&kbkjB0fuI%]<kXU`C9.I3ZUO$bLCpGuO6WE%GiuA\gsTtlIGl'3p\I>)c%9U,@OJ:_j)R>a,u\]%>cnQ?Dt/.je\oZY\W1?;RF/tt.sIJkUfUY:->Ak)\#q!C+P3MTl"rZ\4:.`_o?>72'=H?dR6Nid?f3N+L@Nmh]qFk8'r%Pt-D1b4"GoQ&nrQqL,@7r@/$^.T'*EbCna\;kYM`BWj$7lO;2>Bq%UiUZGQ[RrnU73&R']YO_@QOu8$B[g'"c=pPl)=a"6B=U?&>%HG-L<kEH6.7N4qW'4aX=?1:U$+4LeQ(gI>LNiT<.K9b3tt)M%1Ap_pWP'81d>'rbi>IPe'&_::d,>&H!F.(KfF\<p%.Oj&FdY1"YbJSD]ND$Hg,,'>sYjr:+S2)&@HZ&#^Uf!amM6gAeZb'N652#s1/Yq_n-%H]l@RKV;Y/8[H!8.*oK-/B]S**h=BGgqkmC+L0-XIpGCR:6KlG7f65da`m%oj7'1d/dtMN,"BN`Um.od17Rf)4DE_LRFZ-".?02Wi@7W>Su/=WK-Q]`p_IHQTZT2VnN7(<2LD^'j,=BMa%peL[R+:MADJk^7;uMfn>h(Gj0#!kh,+I@Rq0>As9PT<cP?UA,/RLN0bLRU8_[)NOJD(hWQOOoG7H$:[WJV)d@&dNA,hP72EU:7^(C3p/kZQ7aD4@VHp[_(\@?]XX)T[85655CZXLbSCASG14-SC_s[o%-_Zi)g(SHH$5:9-PSZ[d6Khb^]d6!`j8#DCq.1/S?r./gK6US\lSC3;;(9;;gJuknPl1Q"aI(M6<jAnMlNB9N=Y98gF9G6%$iHNJKs`n/D#p>oUHM0Pi@'P()9+rLT>LL1c4[O/5,m(J^t5ZG$%tDg0nH;OgWie%_Om6PT[P8.-'P-W$#EC'n@IP*=ouPpQ.)^u@kQ8S2r3JZ[0$1K'g+^[J-ggp951G+^pmHiYU^HmIJ=qgA/tN5_80Z`=l)ln.EXaql8iMXQ'8[\06k3agY4@<mV1O>DYLGS`jRfToo/-lh>6D1hM%*Og6]ckBh%m!f6=m.HL>.t)$=XHW+ZC5>)cV&-sm'WlP8;E:K8>[T/!KlbH=52ZGJ;S!lu$7/FGfimkRSd6RY`"mCRCc<?Ru@`+0Yeg*V<Po0<FK@6,kb10nD_g8tX/ZJ"K)=K2X\@6l<QlbS=Da"GY*GAS[-P\*lp?I\"QCM?6UX#nrcc('3I)M@AF%_?=m*Jc23blXjoEOP]PkN.Z!k8DHJk2"T+92GG^B.Ua?RoOl4;3W]m=He3)m1VA4@oKem\dD0%/a:X%aP%>\bL\Jo_qQGl6$sF&m9GPBW:R[sab>\o6+K`T(.!723tR@F,+!'-56>%tGWU$/OlY_OM-!#knu\";$pO$JX`1a"$#IIZepu:'6-pu-iODF9bVZe4-RbL&7AkSSJhgugao!1GPIj[Gbr#[;hDINkCr<a:<2I1%(c+P$]'e2p=Z6aP=lHn46]:FrCN!cC^6njtZ5_Hn!<EB4X8~>endstream
+endobj
+395 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1879
+>>
+stream
+Gb"/i>>s9G'Z],,'PF:!SMZmRp8XC&UEQF)TI&5(?MYj^!D74Na:]cU^1San$Y*>F=[S_\L5WF>F3ac-G'/8b18+Eeo&$2k^`PpgHc1GS(g[9-7)JF1h@K?up5%(Ue-q-I*bPro7@E<m8?V[U,'Ilp0g`Ei3,k2iksu&6;maVqVr/JW*c[.X=,2D1(rin$o]A9+#OjH?KB+p!mbfYia&@Hls%pkrPCMou#/b@5Hu4IKpi2,UEMq"+WIGY5XP*B#6Re!c_Hb]66#0&V:_G'.,A!#mN?].[E?0TTel93JK99%C6ks#3H=bkOTk4\I.?5eX[1@c`oBS*AK"(Q*-iU1Zc-ghVmLe/#T#b.a.Cthf,FkGMD]#ncE;:EsRdWZucC;L(*Z"^1LM"($in`L#c]s+(nk.VV?,OCW2`.^P&*muZi'j9j=_m@\^GEigcfYJVmkHJ.7="4gUk>#q2lnjm8/GSY9:hltQH>@:N0>sod@(d[,EBf-p';3!`?^hZ3Y3>Z&Atm.eA:Z:p]].D3/miRcY`%8't3G&<jilcX#[8</nVB2*Lp[3'Fs.E&hSJBlC$`?kDGZg$A`3+oNGRVG;0N35.]G>MINk+.XGoNMmb$Dji#/phSi@WLX@(OZe6TDq.\2-WSIhV;pP"B<OLVnV@+1u`q.`QKOZutr2[d)Oe4O;)_!(?+f03;:XG0O=e)::P]k5Q\Zmlh%nW;9(4siD't*?J23m#*8]A[Wk8JpZRk&,6K?nM$"?0HpV=5Ou55;UBXu:nt<J=[8l1lQidPZ^>G*fKo\dEDu_*rJfN3Y:Q%:G:`4R02Q>)ib.<SUlRnA_No_>)U%!KF_A[CERQZ3rlgr#b'p&+=ElIklf*h4!&'>a7[C\GV"EhtDjV'_`ja[kNdEjAML'B-35\i3#NOe#Joi:/#&W2q*'dD4IJ_Y-h$,`X8TA2s2R2B%h's<DuX#[C6!XdAS!:FVUa!i(hh9M+3]-L%2qpX*ik]?=]2g=<>rs.9om.A^dD:W-Wi*7lWt#M3Nb:Z+L/P6qZ^OG#0eE45;Z68=BtHbiB2+#(J>_0__Mh&J?N>L#JX-R-#8eFFJ@Ym3?K>K!#>mJm:?l?X\KHKL+,Z0H.uUh0c5e>78\&00B(*@DRdBKsPUTVdUQf7jJ9*(K$=(U77M(W4)jggGucP^5[G#XLE7i_g39pG*0KR%UQrt[O?AfqgB?,,P1j>GR)ph/@Z-%>V_1.q$c%*V#8oUm1b%?j!:5i.+g)G)rk[+kgis6]BHWCcgs+6cQS7_n"$K0)31[r+5H3&`)WTfS]283-Ga9grQ,Y3Xd]5N8T70Zq'!F000R=kGDIpDK;1+dXoBH%Z6V.U[pC[kkIU%gh&;a:jLV(Y`&sV;_0itsT%jt.8LY\cF]bk+0MD$@]!>fRcIE?j/?P1IBOS=Gp/Y(T>TbE(U(tV"kER(SdZ30k)nianrIT:qSJTXu!M04-rU8]%S&,3WP@i-+q-i4%B7M%9l18@STkC(c?eP&q85-_g280GFMeYDeQl"(]D"nRu"q_g[d8bMkoP>e<o5haqU4TR*4qH-.3(r3]Qj%r-=%1_iifESCoGhe_<b;*Po$S.fc+/Zqb27e63C-79dim4TOA)u;s(L&d,0r_Mb$"CdEQ9ct,`M;:\u8#t7H:@U8M=;%?WcQB_+NLF":7K*Z4`M2lsQ0Fh#5q3Vc\Q-;uPZh2`!1I>5&?'\4<?A2rtP97o\7"Nju?HSq+,?rI0F*H$.NHQJ4lG;9j]2[*A_i\Y<4!%cK/86uQck<tibFm84?t0.39TgQf3CI5[_Xc'JZ)f%um\/7T]IjG0r8_1ilaHU!MXg.p*NogCZfmb6Hj4860;V2=64efoW9&-$.@kQ#u0!FM;P8H~>endstream
+endobj
+396 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1881
+>>
+stream
+Gb"/)gJZcs&:N^l\n\:SP&+\b2iU;>6%E7HO<W>bH/W=D/"g9CN\"T6qe\o,Qc,%u0d\Uo>YrKtlL$[]dltf("r(Dqq`C5Jljr("&Hg$]p_fGE&r%cQ38F>@6\MM9bCE.BEMe7GP^/-PI(=kgYm3?#,ErSTJSQI*OpZqB[)i9?TMq$q;5qMN#D5/V7^HLpqI;5RiAaO/pbqX1i&idTWL:R+V$u4K>OrJ^?XWXY%AMuT&aaSGb0QKdoYINZpjc!dN(Cgmp,';%,E?^g6BJ@7C;jH`#d06")Mk&XVXg4A;NSFbJNfKk3oqpeH"Cqd,%&39&=WA8#/5pa=1(#R7j=L=,YTuU,1aV.=p`.(V2j-a73[OdM1qj/\9eSd'#Z[2D\r,l4;b1>OeS)e/eNg%I?L=Gl$.k;gmlt)7st+0$I,HO`@T=#ZWt/ek7LLdhuiKjZH^ir0Nm1&)t'c[f5=CU0(!'&ko7;!&j'lfSRssIDgcduBsu3t32+=BiL:0mb;QFU?:u,AVFu);;Hmk<`'G(BaaIZ"-q9HA4n]-ldAMgcD0-m_9H]((e(;FX>PJZa^e#)D2s3(op2\nf:eTQ%kd$ei`6BfiP;tV9R3uqbFb"/aK2=3QQ$??XUP!\XV*FBO?Fq63&j;_u&Q4t<(,S1_fW#Ct=ZWgmVAr/)gmS%Z!b]nC8:i6p%BSA6&6[u!!:.de_s0j@b;fo=oX\t\n;e[;45jo&4eg&(h#aLLqWI,5F;DiP$'Wo$Q>Z&>)NGt2f&2$*AmXUM7%`ELbGcR1&;2aQ#lQLE`Na,0i<Ajs_b=">X[\-'"a:F:KuL(d:a$D$o-c=BY3Wo>1R8_[d/kqM6igTr?>d1GAVkgRKYd:mg)jq=0d4ofBg]IU6/ER<RW.>K=/0T>+="g;^:@QLM:Hk)XiF-*,qe*6n!>&hKu6%[7-CFEcY897k58$)RW)?U'@W*UkAO%%O:B\(&?WW?CJuaI)NEjYUcP$Z;%1qM+>&@(]hoZjXqu_.c)"W6l$VO:WHo5c+]/R+)df]=K`sWcT[[Ik;-g!E:;4p9N8gS%nY&MW3Z]Z?7%K+TZ$_/O`<<faQ-nF!A-MndgC*1gI_8js8k0QJ-*2kBmN>j9pYrKS^`1^f]cD3ZQ9FVZ;jLWWf`tmEjPn.n(GDDNW[i!T9YE6BFp[Zqd<,SI-4.O^PX$D+k!+BKCU[#6p*\gi6+':2hjTrN@EF$FK#(G@K/5<p2OFC_4pK+D;T8eu0_ZSq[`l].AaHt4n\K#S,WY*YN>Wt^#n1]4<)`)c>V`ks!knlE((8rt57UAadt`-E:"j\[>It&_R6"]-M.bnJ:4PD^n]K>c-=/M%F7\WgW""-cR*j!QV8J*cS2^"Q.65e9(<mL0.jin`=in<fPqj?'dZ\(qHrc+a"E$s\%\(D//NQpJ"iM!5d3YGmrMlJZ;Z,f]4h#mj\UWqc=Al^Mh2QQZ3*";*CNUPS`tL[K'?SdnfNN2uBt"Q,/X+!c.,jRlB];7e*6-=(kLR1)ohe1XH#F&YNtB:C%GIq"9V)(0kgkO`aVDIL`]bB]d1d).EEX-heH4KG\F#cUXVAZcAeKc,`-'<KCL%>>et2/M25@Hir9!uldC;pZ6Nu9nf>C96qjubJDee$Q;d;;8]-q<]UbYH>]U822W=I1<B<tWD+]S7i*2S^-r!n?NF9cGUOJVegXbnX17(,F_C;!ND2X/$m6EaN8euUgp_,VE+L-f.LXUWCiT&r+L_d:p+$,\?2Pk<nfeeqmXgYT4oa`i9PnaY(l5e65Q%i[((1T#?Kf-@Z2FW/o8[C<4`ns>chmc",hoM`pH*#mmbS3H@d,lA(RE[fh(m1o5Y;n\'V+&0h6:mSGmLZ(]P`fOmhmGpqLG5_SNdQRg~>endstream
+endobj
+397 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1710
+>>
+stream
+Gb"/)gJZcs&:N^l\n\:SZJ!JV=)!CJDTS'Y/D/h(bJ"6dJ:]'Z=bcG?gEYCWPd5+6"=t%m\B*.amQ&b]3JT<kMD(:o*/"<=IG"P?J8sd[!0]f;rtl7C>MllFE#n0u+As'%*$C+oj"O"V\*t_&oqN@t>W<_5-:0cAJUWCrq<o$)F_QYA4ha#Am6X%O#mMKc"CiO6U=;tV"9/kBYr<*))u,at#+rS5ml0H[L&QFg6m[j\[,K<132bW0%o16e),@#I+pl`PBQ.6KPY_u9YVTjR0c+INPbT7M1NobGqM1J:&4GVW"\*(Y?6Npe\1,]O![`(uGBiFB"+LTs6$/[r)Q/jZ(?X[;P0bO97J8pF0YCA>E/($5?o[/``Hu]B?W/KB<fQHWDFP%\jXq*#?"B_,?ugFc9,HJdnZMYUhF5\+(%84^GFB\A02>Q[1g:2k<,M^g(l!6GGS\"D/'@&@R8oAlAJ[-/iZq(`CDY6(`%g&Oo`N.q,<r:&0+9.aiM*L>s*,W7JaKQ<l3e-XBs!X$S\&K%c^uqY\G9(#1B3oe3/*!02*S>XKGrT.Y`*F!.j0lNEZZ!;G;t9T>mr*EnD$gZX2/R-3$QM35cL:,3^"XRo,qnoW9`=bMLN*-_9pYF<85Y!EAbpi($<VHSV:_^e2S?Bamta)5hTa["Hl?]"A-ni0@?Qa-;IGlWh34@juc<VZeCIYmdnl>$dpQhHI4DViA;#qIom/!]?+02KjFiNgAUXEppSi(3duZkko+jbHeJK=FOc\HlCsI?N8J!OL_bje#t3sJOoK-QO%f9]E`9IunXshr'_41Pd*%/XH&,MXVA7RC;6@0`9pJ2Sle.q8\^?tgb#hPU.(c&[MTV$J&$R-bZ$@ne^Nh-XLrDeC<M<F,<7[eRQs6*2;G_IJ,dL*KiPc"!'.KcW2o%go#2cG7+Di!8Af%%89+S:>Y^i[QOlTDF>0@Fhj>nfTh"]^iQ&"+Yaq[5ro`j#t^tHYuq!]eUi[@R^-lCl-1)ZmO`31iQ,"lK8.EbcV^YHq0>b-Oi<3mjUHJi6YgW'J(MiQDiKSoXf9sDK]]h55JYL<V)]XOUJ(c>)='%Za5:a<()^6qACO!"mk$(,FLQi>#E"[b9B&jK!lr:,r!YWud-[B%^"O^4M#>1(ci8oQM]2G8'2hKkrRQhiDb?Dm<A(gk*NS9el\7kZ"!Qs*Ojl`72o0\SEbd"*!lm\0*)2h'a<B*1r+_H^M-9nf/5hc'<7pfP*6*9*iKXVDcPX.XV2-&o5ko'=pqq1X6qlOP]Cji@\n[""eUM_>aI_7nfEZdnVd64=08=g-ap1D*Y)ek!$.,>3!VlKjdLZXOD%b%s+FX37<eW!fu2Q!I;/_OtI+UNS+2X-'b$>S,^:S[YAQ\"enSnL.o'%CKc!]mMniK`l`CqU[d)?;:K-fn%0&8o7D)/[K1\2stMBZ2CeJG.it=^/B"-RtM>[5]:]2-&HgVSKJ9V8bhZ8)htqB#9<c5!tN-eik!@9-.:T<_OtHamHdMB/[f*V@h8:GEA2'F<l$U?]LbS2>l'FQs,:2$pQm<\aWI_$a$Fg8/(GI2N0)\r:C5:nbn-G?Rj%_Cgm[hG7folR>A#$gZSVh7TS7XJ)i^Hh+4`nt*4>4SBklu+Y69])P<s,W9,k3/A9npu/Y$1"BGfVma89bbo^dQ3BT]HHUXCe_V4"CR03-2kR=jHTA%;VVr<KdmAOQ~>endstream
+endobj
+398 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1957
+>>
+stream
+Gb"/iD/\/e&BE\k;]IK!BY/sE.8lo:Y%a1GD;)P*Yl[;M-k72sNMK76P@gG97k(mB_KrFRa)I=]E?^UX,QE/&hoQ9T^0(@uNW9PYnFDA9j"U<:9Fq6"'DQ(EpWjn#4BHb9Li@ae>Tf1bhdqmUm,:\*cAlFgEl[:W'lemW>SonCOoIm:)3[7(NQ#Oc_q-S7Y/9`.kA[H[36lVl*U4S'9nMsb\:QAu13aU?#L?iN%7W!E,AM[4U3uBPq&';O)SCre:Y:qd&ODd^^&lXRM0,OY$*^r!L4V+63A\Y\<A+"k&F;@K'G-&rM@*;_4ZhkqH,au(q:T-g@)q&s,H#iM9;c22_ln"jN5'!S^4l)GX^TDB-=ireKF,X\']5%UEZH,.O%Q6t)?^BWObFp'ZadQ_iLEQ(U"D*.p/TeKmY867pM3<YpYgTgqLgXETm_Y;C\[`-D49'^'ouCrGhBs/'(K6P1D'S(^A1A\9[%E2X]U$^c+;A#WPa$gF6SZ@f;$\Q?Qh7mPV:V.680Cb6DHu%C.#n^J]VQ)0k<a"%?iWmDArhtA]48PcdjtGS6bEYdCS@:+rO>F=[.06^VEK%$01L!'+(ImC?EO:@[>"O;<9;$Lf^ZfR="]_Rq?W,FK8>$+k/G4'M_@Y;fUL%k/U]Jm88+o`5-[<_T,f$VUKG]m.s4\-1tJ!Fo74L3d5#-5D/%ZbHi;*6i?%k\!/ckk<cW@aOp[>c-hH./tM9CS`15k<h2Fp5LZ]<;nGah<B52+A/4EFH5p3:BbnY3?!=0Vm.KQ?IPuc9D02(K65[Vp1l.m!a.g&q"I.F-QEBq+q"noh-qA;b!)\Ga%"]24Kl[#*"#RNU+21TtLuHl1%.aO(rLDG&VIdG5NTFcb>(K`nb0T3B;1:Y]FD=6>=ca`2Q(n2f.)aB;(h;TGENs27UL^(5.:-97'n9s,A2'_j!c-b^/['\_A7!)maJE4F)#ai@qR%VN;Kdh$9WT%S1#=SQ@W]<)9/T1Fs-'CDM9Ud7le:eF2m-f-?f6a?5/?DfnR>uQ+3r0/3h,h>cE:MqJ>b@\l/k@QKb#+CHBUa0@2rfKWI<:'krM%f>I=#E,&6bPL26s_7^K2"RWa+SS>%T=oH#2]oIL2^Q)P)-fa;h<8PQ)l%I\r(/*L[bGdWBmTXs8/q$I-2-:t;J8)^Od)d"3!=4#VI%DUGu:4l6X+@pXF:%VEZfF0>&39M7?n^lsU5s3`]%h7TlPOoiL3_7;T/V*UoBY69ZpXdjQcLu8XdnK'kkEF`h<3gjj\&#6ta3("7>uk3jhGloIhl9,>1fb/k[?+JcgONG7OHr?#-N[@Ujh>T\IbFV[\3DWbjF&0hEEpd.H!^hPPZ1D!"i_;mlolK]MT8)Z<9pN/1c-1pVZ[tZT!C4SdhD_]]IEUkR+u.ig"dR,i]2EjF#SI3UqAfYd@=t8!qE/K6d:($WhI=X;t?Vo]fFWi@D+,c:tN]ZWhC]`9dLb0p<YbSYbm&E$&;erj9#gVe(\@%%T8:;#R8]4X*A.(b_14GfN]0d3*o`plQ#<$l+9,LpK#lmaOV\V1<ij#f.p>^+WhY(=!^&XfD6-Z>ZG>3857h=E9EVb6gu=ZAe?$JX))6c()>(9S?3ZGgE5hcf.3e8(NG3rUjIu5SZNcHqsM7;_=_f,.m@0SG1tbZ3FA'T?@fG(MPsHm"[1UC]2H%f[VNl(.o]S2fmqV2)NA.L*D*br<85@9*4^?$_(M^-H:Ouj7md^J%uuBm^;*9%O1Fh<<1c_SM,^rQWeVahj5ps"WY(D27$YW7A;D./k0_+^Z<AVS`nFmu*CEafD^J\6ZHH>h*:5k@Sq\&F%#3`OL;-''ZOQd'2tOHB/^``QEhdW&]LehGM;^>[""'(,4?D@HLiTE\$QhG:U=FPeGBiXrE3X:QAHSIVG,FXBVcIB#k>qFta-LpZ^+>iG7'+!iXATX38Lb'VKt[KdES312~>endstream
+endobj
+399 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1715
+>>
+stream
+Gb"/ihc&8h&BE](.sC&]mWsMc?acfF'kfUVok9Q"HasqM&`=;Ve8\mkmr)bbNnqU0P:Gt8*":%>P'0o6XlTFg(f:-BjmQ%JE%lssmhmeh_^f,X8/Rr9]A_Vu4X-Us7LY(eR^3Pr5a`*"jO\`<M9YDjN)2,n%U9Sh6Q*`p6&YYb$Hedd,]jfO4W:te@<NHJpA^/N(/E;pk4c-/J5;RN-ftp<Tp3Bm\Mq:>n-]Y3\KG()6D?:IfD2s6f+q?'`^a9+D+##6PZA>aOoutj."PSOPDhr?64nl#'Y*.Y#"j<M;@8!YPuiNC)0[[^CuMk='rA_!)`WXPP<Zq"RXB2Z_q`sH4ASE\L6BnI&Z'@d%FDWo1uSihfk8rIiT_/HFl2df.V]K7c"\*CBU)(QoR)S)P(Lfp`/$T?X^sZR>?Vg`dot=*BC*!)Y1f="F(r/m][#88>0m[jQ$V#i>PlO/]349X1Zc&#O0^r$*]l;4A0fZ0ZgAcDT-lP]ZnF6^!Q.Xfdf0%cquX(\4AKh,'+^g_Xu-AgRV"r>:KU#ZlAPnCrJT@9J>6qo4pr0[C3Ol0)S<'\J;!>@g;rOV1rUo29b(:-V9`7?i/#erg'6MFj*%BhdYX#BrFI>GfG&KZEW(WDnnPR!?(lJFmD=R<jd[&E0M'Du@aY!54SUfdk'9'+Y1M6;.&\[5WtLc*m1]4>\]aQ\Ur@Y*QYsI;.XQ-_*bJ!,V=6A`@4TME]BUoOkAZs4_$Z=6^3DS5f]-gmA1&/]Kb)khDNM;UY?Ml,Q*mObo4<t2&TB=QW6-sJM2L;lq/hQQ/3Ga=VIWh-<$+eA:j1<"(N"Ro>=0?^3fTDI=/36@005lZ`+\D9XJZtBAUDfR>$YUj_7oHYQG2i`Y#<)]X;fD\KaOinE[0khEl?#D@MR.%M=i97n^@T9,#V%h4TGRi$ueet$:[]!bS1sE/:/g`U&7]La@>u2AdE$L6$6\!.9+7tIorM'f<D45i8`&,H5,:g(<qY_+p!2Rcj.iM.Mpn:=C`9@Mks)J0%Q`smcdc[H8e0tb]a**)XH2bdB_U4$u;qk5mTsQ:'kB6q`Osh47iFG6%;D(d(9e:?D#HE&j&&Jos]Vl((GP,]!pu3+S/S]YZ6Co1IJP7P'`hUY;<*C>iFoXB/:^+Qc3QLE&bt:/o*,H(_q`KK0Su&3_k//RRL[5CplWLlP#-3a6=Enlo<!hi%!%c3&62=6'5C#j+?q5B6r*Nn1<Pb_W#tO[kL)AG)QrsBqH>Q#=S9+J8AnrW9<BaNb9#ps(E)S3VtuS_g8^^/D0<E@J.DG#\t8tokp8FSdCt<CZo04H%.30aZq!r.+&?-8/4MrElA$Ul2eW?9NPbJS6J)CY-R=(KU0joI%m!QdlRns8r5`/PWLI2O#JhQDu7tY'B&k>j3tk&?<95#!k,3ooL62?*V=um)@1OhqpmrY4E(d8eN8^'lY>:/fd"Af(^>/8[pY>XDW0Ye!t+bo"N4gJZFK[OQJB<]8UA&6nP6m9$Nf6ia'NKER<msE+hn8.2^i_F_WJ+ki[HfTSG`lAAO=*VcM`j$qq8[--g'hL:9Wj\JR^#i@*CFfb*=X#SgEH(R_4G^T#/&6D#7o2*H7cm-\VA?HuIGq*WJsO4iE,'O2&^2]g(26Bt48rQ3bj5^%-f)Ctff\6+8FU'hG^i[gAkV(4R9]li>si6mi%WaU&KQW0;22&-PePr9Yfsr<n(R`u4~>endstream
+endobj
+400 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1877
+>>
+stream
+Gb"/)hfIL2&:Vr4Yqu,pf:/f:A]`5%$V<"b[[.29no?An(f6.Xe<o=fhquR/@!^Hb6qN+A@?P"Dn#eig=5RZ,JDuJ%Ig7^D]0<kfA\^:t8&-C4d/OA!rM/gO6tdl("!U1LR0)AF(+9C?p]teI5O<WR:bEFemLpb/<7$]R,6+3cDbUF(=c:%<HZ,UM?CSds9/DLa/BO[R`^I:TObUb5]S:naAagkU$%IU,=6RE)6*0lZ`"0B3k3"iH7hAX9I)2L-NC^p65O^t>J9\qp#_=!FobH("&0)eB4qL!^T?<cq8jSb,"o;c`3p!I83=0[rN0[u;hBcTH#&p01j"-.!PDn,1fc6+GWW=irQq#/NVgKe0$8hF's*k%Ui`/>)p'N0e!CVqZ-c"guYjQC+.7sn`'3/N1P8"+\?9gKfH$[`>-%aMp1i$HV?C\4ndWepg,D!/l!$q?En,cr(-C8r)Ret\&qg(d(R^THgm2EWN'0E7SSJF"[:4JD/[$YRA9\/=TiJ.bY.jf(HHu7:#eWM@:a4dib,r97Io"3UUTbpW-&(gtHUfZ"nY&tig>X/^ac)qO?G2O0]"!:8.XaY+skFf1f"a+CG&V!ea1solSnHoMnk-H&=Ba]_44pVU6e\k^tWIlKdfcPVqYFVYLY:s=WQ\QoW[D:+bG6Cpp"ul^nR&``qF61?ZO?T'83[qYS2mR>]Yg?"mJ?>,uNi\Q7`q)\]a*mG$]t0*,m9$slN(C7iDa;`L]<BYhpc?[j0Zgf!\T6^K:H1Gj%]N\,#V'J]!E?=F+h\,V_I5%^7Y>e"_.@lC,1g*]7OSAiJ0]V0&\SF8ghHSq9X>nTbG)4i[p=UMf!A(p&N&FVF5;4*]Escf1u++fbNb?>is=uD=Y`6!B>oT^^R@UKk7P_>*F-(-<7"@or<N9!H:3/>nN[0G9@G<2I#<c$nK-d9gfAM^]HXZC#?0h$c*Z1mf06'I>q;I\NKn7Qg0B$0Co6NXFOa@SKM#Hg]kGo20(g\dmjE<ceXKZV&sY/"o#4YDY[WsBaa.2u<!Ok"YFK1Y@sP?EnYK!nGl]:D7"'fJ@rhn:00;/ESDGu>e=>^C`ntE@M!qd1:!!R$D8J;hc%FY2Ls8F&Rsudi[iN7XSihYR<;a]a9bYk5!`%P">:`;-$<,'5,;9p%WKY>ARbWrL\X&^Y2G'[We=.gQK6(d>H.WI$kA!pSAcLVDbt`!q1JL2@Z;3)2"`K!50@f31R,oYRR._obkM`dArk)N6FfmnSCO0g+?g=s>B&g<b\uhY]fX*RXPif\/:!<ec'^)kr;c6>;cPNu0KN?8+cH]p&GoliH$a1MZlm`3m\.XEe3NS7a.,`oq%lH`K['r1<NgPY]i>gqJ5n5!tn0?'6;j.X+N(O+pnh5%D)'H%3ZMEbH0ai*P.Dd,5jNmGM*c@f!31EX[AG@-WY^GI5mlcrWVpdIC_PrquT3N"En_t7&B::/EgMD):LKPjpHRFV&dQG!O>CU3b'0jA@lpeOjf:od=c829-]tks4cDN7c1H8IQ85ilS&j?g2An2,82TMpJa#B>.noqm4HMcdOQu.HJ+H?+i)C)^6>ba?^;nfb4Q5psG:46rnELfkRYo21!AltdhU%]o/h`aH;P]jYIon<iNH*(U*^>#MNl_NAQ%9G4^eu[Ip]l!>kL%nlVWCKj84.:(:qf]:%:@gW%ppI!GNbRDI[ea7d]k`cW]<f9'R(B)#T;2<Bc+ZJ&RYH%52t>@hM<Mq]]8+bJeqc@6J!2:n[[$c4C;uHb#+$[/Qj!DA?CkK4i7H8rT_9I]%,QVC4(X'?Ujs-pVt_X7&]X@j<0/Q6l(Ln"/r7,[Q"0XW=Q$LBAdVWpo@u`N)9QQWp7o0aU*0PI^.2a+dGX4QgAf%(~>endstream
+endobj
+401 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1964
+>>
+stream
+Gb!SnD/\/e&H88.EPR*um80)_8P..8[b6BL8[l\l$4Qa)g.\NlQ<[QfepkH0'MEI^=c>[-F^r@G_UI?2iQFB.,QioG<d[^*!3aE3iXZ7;KCK[15m3.mi:lchQQs?L?N^dni6#On&4r;\)._>hp_(3f,8m0rpHA"4_M'Xj(sc'SpD\h5W)U\o)P<OY?G\[-`09@+ih_CY,hL^DXDd&ANMc;\!LK$+GSAn$:LX/=`m9SW)g3&)W>B[0q)c1=^h?*W47#V:71^5h.YJoU6uj^f"4L6s(^mR+>l(/?Z-*05@JEPu.<$J(ZQ.4FcTE@aCVr/U.7*uoi?V`Y:?*UTOj;p6&uQ%@+p.3dT5OG3eMCP]6>\hXn@a@H%mhc*1!bX<$l_$.4[Z@6F!i6H9q_P/9/3/;.:Pp!h,(.KE$j-hns7lcZkrc".Ro?!Po(9XN#$AXeI8MT%arD,M@N_!2h:X;fSe-8WXS#mS7Zd?[1u]6&RTg@of%t]SEY="I]dVi(rG-.s4M2_"^\uISG_,*1XJan\d<&P)V7Ek('5,5X$INtcWA:0:==$-eg:Z&AsMC=1Xf)#n]ajK0;EGeo8bqboEl/DRlHi"AN,,l*C*T##^-45Z1Vc>#\e.o7@u4)FHoNEgf%OW8YRRmDCXJ@](H)Dog>td="u\5_Hh(d:+#3Tad6tLZYSBVV*i];ADj^E-K!bMk9CU[kpZWY/6*@B$PXDu`Le!3iO7V=kOli!4O7D71t#tDh=rpG8iC56<#*6Ed9&N7)u2r:Y8`?IctFo#b=:89bFpaNX+uF(*m,+7,>^O&!q4hF-R25kCrBc9/eE%IKM_%;fX\D?)/'[&EI`&9Bb4_ZVDo"D]7C_,8l1JPa3*').70b]iN?QHYMpPIUEj0IB$no3>C1urVr<V.MP?,j5IZB'rO(!TiDBCm?$R\E[I^>a!Zpf@-B.XC-=JFffME[:?J=00dY@HRG1<5A$"%.@%8)u`lF1:srRBSa-+/fdY+3M^;4Ln;1mGYP)a1[M&QQjL*In@38+jZ+CouB'Z0>Fg:RBWARVH&;s$"mL&C9'dMa"g41^U(Y-(Jk4,G:Q^K-Wsbo0o,08?)?Q*aRtKSRLTe6dp$]`"X4?0=hCWDR5MtGe#Z;drtV1SeHDKY5-atpUga(%QCW>C2WajnSMIZkcSp*mQ3;c_8B.q_`XF!#<l<;7^_1J]VqgN0\9nMX`L-(S(oBmF.\&IDIcrJcEle"CeqCgmB'NW:`KdkaBOiV&IK.CYsUeI9&RmY<2rWag9[t'\J?i>Xg5GVc'IiLk$30Is4<gr#Z!=jEg^caH<bgHm0MmhSKl*Y$TiF2T/R'[o<s3jTUtF#;kRINm4t=:UmORWc=3%I7l'2/'^3=>n>FB+B6a[Drep50=mc0)RQOB.[*PJc_D'5]bZ!\8;fMPBONeiAVfe+k?DQh5$)a\?q.,WPH+]T\LaEeK>f&W"$6M,pJhO/ae'f>XV;G1sqg2h/]AsJHRM^IB4>4(:R?cQNQJ#++fOV7-ANNu+CMou+*%=nG#=0jRjA].]N]@n;[Ust^8`JEJEQ@r.:>FUidiH*"NN=/SH%'%n*/L-X2IK,&HKqsaBEqR824%Ff`<?5)/@@L_G?e#T[dDNK9Qs!b3/_BS44JdkGLn#;JW\cH1ll\$*TiL/+hhH`.s=ql%^MNadSVpu";,l+f(7?NaUJHbAF_\`eIQ@PKbDqLh_@t=X.pG8B=#`pHc`'4g/:Z$;"eB89cL7DPYEZb<]5oop_RGBCmYB`+:\"t"[lH!34kb+b*)#4ktRC9oG$^1Zpg[OH(sP`9D7co_`3S/\+BHVN,Ms/G2-AH?V#IdE[Dn%8k2\MQ@-60G!!-[J-@0V1l.SqnmWNT-/tl,O?S^]X_iq6mZ/d\+@hZWEG`#o:Z:qfh]W^Npk*%Ugc1aeQ7%l:pVCB-NOti2G97OANcROo,8HKLN+R&$5IcHcNW~>endstream
+endobj
+402 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1125
+>>
+stream
+Gb"/&>>O!G&:Vs/(o]1%W6=&LgG^6lFXiI[jG4UY[e;Vh-ap!aF8>PNgVe)lil3+iMZaWS2Db6TbW!0*faK9X=T'6e!!b=4qnR`%R!f,bM1jOo]Uqp4:P^].)?rS:bF&R/.'o@.5+ga[G)rC8Tj27@4<Qt*WF;)8,(Ds'W$!\>(#mF$ffmWcX#PKR*\T\SP86?sNr9EWAhH^2'jOSXi01crY@.&5B!86\2W?D':i:Hqq<[5b)!c^B?nEsf,V04;!6.R(KTaDB<@X2k)(\W5*GC!M)leMJJ#-$S6oABVL1S#$+_e!m"dYC)&F\O:9=#g8it+sX?[C@WW@JsY'mUZ4AaX!lQgm2o89/L7g0-guUm^4+6STa`/E)P'Gg"IliTk8IXZlJSMJkNn>W-K<+t+'tm![c.+9dt0NM:(?#($7F<]=3Kedu",3*LCDgZ-l9%SGca]&4?NUC2J*K=^^j<7QL]cLSKTlXa'PU+Nk@nH#pK$_R(N$]>I%8GaY%Nt1+P*gNK[rNH63@$Cl,9B[940?O'"(h/r7TkaMcE`p17gWe%o"JN98np&H[A#Fk@lH_R@kh./?icG[nE>iCIE9qK&U`@2/QoQ:o>hGZfb1We':WVf^a=&p:rX4K6]_&h8*'*L3b(Ta#RI\IfPTs6#@5*[N7QgmRl'@F'nGh6r"@@)YJHQE=5q/IO+\k7r.)X;UfI,uf>H\i^<Z>c)68s@j?-eO,+&o?Y*Flch)9%>%X:=j\n!NB_A&R?YFKp_V/ik^UTGkZtLN_'+SFgSC,?CNY@[jefB[]#$XSME-lpoY[%=J@$F*Dc;*2)]K%SN^;K@m0iI0.)Lf11tie[0cL_1![-5e2=XqCo2R$\d\)b9Jue;<7?++YDLI$.AD6#lBP4V_F+J,0j)Qhnd:TX5#(BRI%I<oZJO+mLHsU]Na::3;:h>X20tjn8,*P*kgrtB=Pb8`9E;10hbhU^[9ItJJh6F>0uZZEGt9s%Eae<c?j\$R@n[>=Z9;M2l<3kCPLhj==VXcnZ3VC:,>ZD]NhrdhV[>:>:smsieq+T?K-n#n'I/5:Y($WgW;aLA'b=e=CbRgs%)rRY:,"mB*B0I+GpJ7N7.Y365AI6RDo7S56-qfR@j~>endstream
+endobj
+403 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1989
+>>
+stream
+Gau`V?$"^Z'Rf.Ggp^"i7+IX=o!6`Obr4D':)_dL94i>e&A\fX<&P<erEdUuQu#;11)1rDM^.,#,TY"L>VVoH@d\:k"ZYtg]*eh%6[o54&deN?n>Y=@fc_OHA]0*iO`2';#q/G5#3N(@2mILqJ.]pmaFVB"aA@W<T414f4,)=A9LrhASp]n<LVB?kK@B9lU#7[ZQ!%X4$.h3Y:=C*9:s.]h\k(^Drs/2R=qOt$N5UrN0C`;DG7%R'$M"Y\dR94N`GlMX'IG(:J]'aV9r2jNUAtQXO@Cr96'I\Y7nog&.oLqo/@)@I3RZ6"$)NA,P7G`OT\ra0(h6.p:=OAYajXF(>K[eUY_719^:LKr.U"blET?/B'1UoPI&K_9VYT]i5!@+:BpM+H<flFLH.`?a0AYN:cAU*n=;G2Xb+NeZl62_D-FPP.o\=t'k-3?I=HG\Q$hcXKSA;\'QO649%+H0eb1)Z[bf[3>?Y!2@;5/)@e=_J:2DZ8`[gQrEEl^_3Q&l_W9_<?I]l^/Y(@3>L&@`^[]Z`hqVf7rfB]].#hA>pj*%Us4<'W>?:sACrYQY2p9+<\J=m';`O4.R.j`b!0Sdk2kgRJfIZ4"-ESsi[8P`nG1`\nV<GAuGnNu,KRk8-:o\ADZ33/H9CY%?tI"^rrg2e8)e#<d0XZ1IVs0'sKMYts/bU"=7jAh.[2J\RG<_'1a>ML>MN3`Q>W<LP-lRSTFWa7t4Q)WJ[UUkROCG$u6#XpkD_O(JQ-NW[nRBrg#_aL.G5';o:q4)/&?]5h*LOXHpUaU;r%gKo<Lb*AG13((i)>00D"&(r3qPFNCE.t,cDFg,&qs5eL5O&l8&eL)P[X\K6e=lArN0[\NODW^6+]ZbKc,aI$6l(&PH_3UJ.-Y'b$m3@e&a."d)=G0Hq&VP-Pn-KiW+HHK2>bfVL$T>I?<*_X7Y14^HX?8T@pF,:g`0qI<j'knI\)N8Jb-'euV=&g`l3UbO]\+_nU*L49-:(bFI0A_X+3."lTNWcIS8s#F+Sf4MC0u+S:q#ZI];e5]cp#$k,jU5.&kg&OF-g91h6duc-1M"u=W"dk=muM;-cq9t_si2d=RV*9C1DJQN=aoJgMMT.Tp<DJVAmfMbEgoX`bTH^@O'P8aU?i'-3Fke/e/<I_^-%Pl"XjY:-"G!i!7:%><S4s`t&g"=Nh86s1>M_Mk/f1$V8JONZPkF4i1o*7<2f29AF[7<,T/IJ*c5]j%)paGNn+rrRT\LOEe+(NC[%9BELcqn"ZL<S0[*,aVYV:Yr-liB5':/o1Rj5c7<bl8&)-b:]4B%4\HI'Su'bsr@6.iV/8?\Q+$4a?e36'I]OgbJ+CseB3E06iE=L6[:fHdet2QY>'nhaQ-cj8q"60rmMMPg9A=^B.rF<L^T<E-rE'@hbG\doddSZVoh4%aegkUt=hh%tBDkq(654^QCa>&"=MLrF@D/ttIe??;gXV@C,Y71MXcaaCXaXDg[sDVfh<L?6G,l]$g&6HY[Ikq@lVU^6@k=_%f`q@X#CXG_Nt.!Zc@Q<m/==3X#`5T=bk7SK+p(k)adD<>;dbLskW+I-!P7q]D,kCPfb):PF4q0@)b@1b#`CQN'/_A_()nY1[NI+ZOPj=S(2G<ig'F!Z+:R!)Q>-Cm/HC8NJ4Wd9:#"[)Y\>gaX_*^5lbWkh5u8HUi_<j6$[_Z$<H*BB6Gp<ROb;sdNIT]J;\W1DMQXFsHa3\`BiEu'LEt*@Q%1,8U"gu_GT`2"\TAbEhZ28c3/Ks-Jou+ugZ+5B:TBX)'@s_+O.E@n%EUYB.B74%FJ_d#k2dKQD3iVO:X7mp4]INtChl)"XPhYR">4e=&7LfkU',I'.@2ZR=`e)J#P/"=%e#BK=%0TdYPk;PX6,M\kPC:WPu4=C!IF?O(ODpomh"lg:G.$%T3SUghK*me!IF1`6Bg(cq4R='/$);.RW[cc<i'A9o>D"U,_\g)mM+aRl)c_67np]4AId5M,VaE?!s7bN$N~>endstream
+endobj
+xref
+0 404
+0000000000 65535 f 
+0000000061 00000 n 
+0000000120 00000 n 
+0000000227 00000 n 
+0000000434 00000 n 
+0000000641 00000 n 
+0000000859 00000 n 
+0000001077 00000 n 
+0000001274 00000 n 
+0000001471 00000 n 
+0000001665 00000 n 
+0000001860 00000 n 
+0000002058 00000 n 
+0000002256 00000 n 
+0000002479 00000 n 
+0000002703 00000 n 
+0000002919 00000 n 
+0000003135 00000 n 
+0000003354 00000 n 
+0000003573 00000 n 
+0000003795 00000 n 
+0000004017 00000 n 
+0000004212 00000 n 
+0000004407 00000 n 
+0000004615 00000 n 
+0000004824 00000 n 
+0000005012 00000 n 
+0000005200 00000 n 
+0000005395 00000 n 
+0000005590 00000 n 
+0000005793 00000 n 
+0000005996 00000 n 
+0000006196 00000 n 
+0000006396 00000 n 
+0000006604 00000 n 
+0000006812 00000 n 
+0000007027 00000 n 
+0000007242 00000 n 
+0000007455 00000 n 
+0000007668 00000 n 
+0000007875 00000 n 
+0000008082 00000 n 
+0000008282 00000 n 
+0000008482 00000 n 
+0000008689 00000 n 
+0000008898 00000 n 
+0000009102 00000 n 
+0000009307 00000 n 
+0000009507 00000 n 
+0000009707 00000 n 
+0000009919 00000 n 
+0000010131 00000 n 
+0000010680 00000 n 
+0000010871 00000 n 
+0000011062 00000 n 
+0000011264 00000 n 
+0000011466 00000 n 
+0000011663 00000 n 
+0000011860 00000 n 
+0000012058 00000 n 
+0000012256 00000 n 
+0000012463 00000 n 
+0000012670 00000 n 
+0000012882 00000 n 
+0000013094 00000 n 
+0000013298 00000 n 
+0000013503 00000 n 
+0000013701 00000 n 
+0000013899 00000 n 
+0000014099 00000 n 
+0000014299 00000 n 
+0000014508 00000 n 
+0000014717 00000 n 
+0000014922 00000 n 
+0000015127 00000 n 
+0000015361 00000 n 
+0000015595 00000 n 
+0000015797 00000 n 
+0000015999 00000 n 
+0000016209 00000 n 
+0000016419 00000 n 
+0000016658 00000 n 
+0000016897 00000 n 
+0000017127 00000 n 
+0000017357 00000 n 
+0000017580 00000 n 
+0000017803 00000 n 
+0000018008 00000 n 
+0000018213 00000 n 
+0000018421 00000 n 
+0000018629 00000 n 
+0000018842 00000 n 
+0000019055 00000 n 
+0000019261 00000 n 
+0000019467 00000 n 
+0000019677 00000 n 
+0000019887 00000 n 
+0000020427 00000 n 
+0000020624 00000 n 
+0000020821 00000 n 
+0000021027 00000 n 
+0000021234 00000 n 
+0000021436 00000 n 
+0000021638 00000 n 
+0000021878 00000 n 
+0000022118 00000 n 
+0000022333 00000 n 
+0000022548 00000 n 
+0000022769 00000 n 
+0000022990 00000 n 
+0000023192 00000 n 
+0000023394 00000 n 
+0000023583 00000 n 
+0000023773 00000 n 
+0000023977 00000 n 
+0000024181 00000 n 
+0000024405 00000 n 
+0000024629 00000 n 
+0000024837 00000 n 
+0000025045 00000 n 
+0000025256 00000 n 
+0000025468 00000 n 
+0000025672 00000 n 
+0000025876 00000 n 
+0000026086 00000 n 
+0000026296 00000 n 
+0000026498 00000 n 
+0000026700 00000 n 
+0000026907 00000 n 
+0000027114 00000 n 
+0000027331 00000 n 
+0000027548 00000 n 
+0000027755 00000 n 
+0000027962 00000 n 
+0000028179 00000 n 
+0000028396 00000 n 
+0000028598 00000 n 
+0000028800 00000 n 
+0000029005 00000 n 
+0000029210 00000 n 
+0000029420 00000 n 
+0000029630 00000 n 
+0000029827 00000 n 
+0000030024 00000 n 
+0000030622 00000 n 
+0000030822 00000 n 
+0000031022 00000 n 
+0000031229 00000 n 
+0000031436 00000 n 
+0000031633 00000 n 
+0000031830 00000 n 
+0000032044 00000 n 
+0000032258 00000 n 
+0000032463 00000 n 
+0000032668 00000 n 
+0000032869 00000 n 
+0000033071 00000 n 
+0000033265 00000 n 
+0000033459 00000 n 
+0000033676 00000 n 
+0000033893 00000 n 
+0000034096 00000 n 
+0000034299 00000 n 
+0000034506 00000 n 
+0000034713 00000 n 
+0000034928 00000 n 
+0000035143 00000 n 
+0000035350 00000 n 
+0000035557 00000 n 
+0000035760 00000 n 
+0000035963 00000 n 
+0000036171 00000 n 
+0000036379 00000 n 
+0000036594 00000 n 
+0000036809 00000 n 
+0000037018 00000 n 
+0000037227 00000 n 
+0000037440 00000 n 
+0000037653 00000 n 
+0000037866 00000 n 
+0000038079 00000 n 
+0000038286 00000 n 
+0000038493 00000 n 
+0000038693 00000 n 
+0000038893 00000 n 
+0000039100 00000 n 
+0000039307 00000 n 
+0000039876 00000 n 
+0000040077 00000 n 
+0000040278 00000 n 
+0000040470 00000 n 
+0000040662 00000 n 
+0000040866 00000 n 
+0000041070 00000 n 
+0000041277 00000 n 
+0000041484 00000 n 
+0000041676 00000 n 
+0000041868 00000 n 
+0000042064 00000 n 
+0000042261 00000 n 
+0000042457 00000 n 
+0000042654 00000 n 
+0000042854 00000 n 
+0000043054 00000 n 
+0000043276 00000 n 
+0000043498 00000 n 
+0000043703 00000 n 
+0000043908 00000 n 
+0000044104 00000 n 
+0000044300 00000 n 
+0000044493 00000 n 
+0000044686 00000 n 
+0000044901 00000 n 
+0000045116 00000 n 
+0000045330 00000 n 
+0000045544 00000 n 
+0000045760 00000 n 
+0000045976 00000 n 
+0000046193 00000 n 
+0000046411 00000 n 
+0000046624 00000 n 
+0000046837 00000 n 
+0000047031 00000 n 
+0000047225 00000 n 
+0000047427 00000 n 
+0000047630 00000 n 
+0000047838 00000 n 
+0000048046 00000 n 
+0000048251 00000 n 
+0000048456 00000 n 
+0000048649 00000 n 
+0000048842 00000 n 
+0000049054 00000 n 
+0000049266 00000 n 
+0000049490 00000 n 
+0000049714 00000 n 
+0000049939 00000 n 
+0000050164 00000 n 
+0000050377 00000 n 
+0000050590 00000 n 
+0000051242 00000 n 
+0000051457 00000 n 
+0000051672 00000 n 
+0000051884 00000 n 
+0000052096 00000 n 
+0000052310 00000 n 
+0000052524 00000 n 
+0000052740 00000 n 
+0000052956 00000 n 
+0000053161 00000 n 
+0000053366 00000 n 
+0000053582 00000 n 
+0000053798 00000 n 
+0000054006 00000 n 
+0000054214 00000 n 
+0000054425 00000 n 
+0000054636 00000 n 
+0000054849 00000 n 
+0000055062 00000 n 
+0000055267 00000 n 
+0000055472 00000 n 
+0000055671 00000 n 
+0000055870 00000 n 
+0000056089 00000 n 
+0000056308 00000 n 
+0000056502 00000 n 
+0000056696 00000 n 
+0000056893 00000 n 
+0000057090 00000 n 
+0000057286 00000 n 
+0000057482 00000 n 
+0000057692 00000 n 
+0000057902 00000 n 
+0000058103 00000 n 
+0000058304 00000 n 
+0000058494 00000 n 
+0000058684 00000 n 
+0000059202 00000 n 
+0000059402 00000 n 
+0000059602 00000 n 
+0000059811 00000 n 
+0000060020 00000 n 
+0000060217 00000 n 
+0000060414 00000 n 
+0000060614 00000 n 
+0000060814 00000 n 
+0000061009 00000 n 
+0000061205 00000 n 
+0000061400 00000 n 
+0000061595 00000 n 
+0000061810 00000 n 
+0000062025 00000 n 
+0000062222 00000 n 
+0000062419 00000 n 
+0000062620 00000 n 
+0000062821 00000 n 
+0000063032 00000 n 
+0000063243 00000 n 
+0000063441 00000 n 
+0000063639 00000 n 
+0000063835 00000 n 
+0000064031 00000 n 
+0000064242 00000 n 
+0000064453 00000 n 
+0000064648 00000 n 
+0000064843 00000 n 
+0000065056 00000 n 
+0000065269 00000 n 
+0000065471 00000 n 
+0000065673 00000 n 
+0000065868 00000 n 
+0000066063 00000 n 
+0000066259 00000 n 
+0000066455 00000 n 
+0000066655 00000 n 
+0000066855 00000 n 
+0000067054 00000 n 
+0000067254 00000 n 
+0000067466 00000 n 
+0000067678 00000 n 
+0000067881 00000 n 
+0000068084 00000 n 
+0000068287 00000 n 
+0000068490 00000 n 
+0000068706 00000 n 
+0000068922 00000 n 
+0000069131 00000 n 
+0000069340 00000 n 
+0000069973 00000 n 
+0000070177 00000 n 
+0000070381 00000 n 
+0000070586 00000 n 
+0000070791 00000 n 
+0000070990 00000 n 
+0000071189 00000 n 
+0000071387 00000 n 
+0000071585 00000 n 
+0000071786 00000 n 
+0000071987 00000 n 
+0000072185 00000 n 
+0000072383 00000 n 
+0000072580 00000 n 
+0000072777 00000 n 
+0000072976 00000 n 
+0000073175 00000 n 
+0000073378 00000 n 
+0000073582 00000 n 
+0000073782 00000 n 
+0000073982 00000 n 
+0000074182 00000 n 
+0000074382 00000 n 
+0000074592 00000 n 
+0000074802 00000 n 
+0000075004 00000 n 
+0000075206 00000 n 
+0000075404 00000 n 
+0000075602 00000 n 
+0000075799 00000 n 
+0000075996 00000 n 
+0000076199 00000 n 
+0000076402 00000 n 
+0000076598 00000 n 
+0000076794 00000 n 
+0000077005 00000 n 
+0000077216 00000 n 
+0000077415 00000 n 
+0000077614 00000 n 
+0000078148 00000 n 
+0000078355 00000 n 
+0000078562 00000 n 
+0000078756 00000 n 
+0000078950 00000 n 
+0000079144 00000 n 
+0000079338 00000 n 
+0000079534 00000 n 
+0000079730 00000 n 
+0000079942 00000 n 
+0000080154 00000 n 
+0000080352 00000 n 
+0000080551 00000 n 
+0000080871 00000 n 
+0000081080 00000 n 
+0000081838 00000 n 
+0000100631 00000 n 
+0000100892 00000 n 
+0000102230 00000 n 
+0000102992 00000 n 
+0000121315 00000 n 
+0000121587 00000 n 
+0000122935 00000 n 
+0000123007 00000 n 
+0000123360 00000 n 
+0000123509 00000 n 
+0000125048 00000 n 
+0000126710 00000 n 
+0000128762 00000 n 
+0000130734 00000 n 
+0000132708 00000 n 
+0000134511 00000 n 
+0000136561 00000 n 
+0000138369 00000 n 
+0000140339 00000 n 
+0000142396 00000 n 
+0000143614 00000 n 
+trailer
+<<
+/ID 
+[<fff8106aecd72295f46eed76dc5a5c09><fff8106aecd72295f46eed76dc5a5c09>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 390 0 R
+/Root 389 0 R
+/Size 404
+>>
+startxref
+145696
+%%EOF
+389 1 obj
+<<
+/PageMode /UseNone /Pages 391 0 R /Type /Catalog
+ /AF [405 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 405 0 R] >> >> >>
+endobj
+404 0 obj
+<< /Length 24278 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^Öjumb   jumdc2pa  €  ª 8›qc2pa   ^°jumb   Gjumdc2ma  €  ª 8›qurn:c2pa:8976eb1d-7cf4-4b42-b74e-8fa978aa829f    jumb   )jumdc2as  €  ª 8›qc2pa.assertions   	¹jumb   #jumd@Ë2»ŠH§*ÖôCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  €  ª 8›qc2pa.actions.v2    ßcbor¢gactions¤factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-10-12T16:48:48.813948ZrallActionsIncludedô   ¦jumb   (jumdcbor  €  ª 8›qc2pa.hash.data    vcbor¥jexclusions¢estart Zƒflength^Ödnamenjumbf manifestcalgfsha256dhashX dñz¹İJÏ#bé†>vØw-CZb7Ôip[²ªÏĞcpad@  ‰jumb   'jumdc2cl  €  ª 8›qc2pa.claim.v2   Zcbor¦jinstanceIDx,xmp:iid:12faabcf-93f6-495a-8625-add73823b293tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>ğ=W1’³¨NëLûÁŒt·'wÖĞ6Çe6ãñkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:8976eb1d-7cf4-4b42-b74e-8fa978aa829f/c2pa.signaturercreated_assertionsƒ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>ğ=W1’³¨NëLûÁŒt·'wÖĞ6Çe6ãñ¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX  È°QÉTŠiÃHô@ºêwp™³,¥Ø×ûj›#9¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX ’sÿ°™û¸˜ÈB:]^OWxUÚ!HvßV©hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  €  ª 8›qc2pa.signature   PcborÒ„Yè¢8$!‚Yˆ0‚„0‚l ¥üépŒò€1îDds0	*†H†÷ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0‚"0	*†H†÷ ‚ 0‚
+‚ ºjLM—ê‰¶Ñ¾^XNr¡™ßiq|å!#Ó¢5œL£J<ïn+¿æd®×„Ki$ZcÏêv
+²eÛ|<áşÁ3w¯'Ş; :´c‡˜ÍMœ¿´3DªT07F¸ıšyDsWU£c|İ¬X/æz®Ş¥˜Ã“NHğZøà|¤’KÕlºÊÂ*È’¾uÔ”gµWªjšm00,×UaŒjÒS¶ x^ECN’£€ñ¯[Ñ²ëş‹ïº×7	•«d-™É‡šø¿.Ğçc€–šy 7“6£5ÉHÉ,˜céD›5¬¹§SlœhsÈ
+9ÌIó £‚g0‚c0Uÿ0 0U#0€9=GÜ—¯ˆ{MsÍåî¤¥*0o+c0a09+0†-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0†http://ocsp-c2pa.ssl.com0U 00
++ƒè^0)U%"0 ++$
++ƒè^0UóMÔËrøF
+vG¥hOt0UÿÀ0	+ƒè^
++ƒè^
+03	+ƒè^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*†H†÷ ‚ ‚8—le¡7 ñùítºÕ¦[5õglÏ+fi@ÍõüÒrVßÊ•(êøfŞBC=øx h(‰­µîüõ2ÒŒ¸_çl€në[|—[0ç.B¸Æpšşş 	¬5FÕ ŒIE€Ãº’UÇZoÒëØy›–:¼D44}ôA¥3—/.lQR
+m=I°ËÇ†XÌÜî.éÆ9¸3\ Úî W3T.p(J%)O’|.Òúİg.zèPx9Qºƒ:Úˆ~#’õbXšåÂ¨s†ÅØqéï\d{‘î7/v˜xVdçoBÑ}’¼…jomd…Øÿ"–í¹ï²Ğ\„}h]5[K±ÅiHyæh Äa˜:LøÀ$yå¦hàïıÖÖ.-AduV_“”¶¡œŠ<¶ÀèmóÅCçv,h¤òæË‹ˆ•è{*r$=!Æcm/%€£™[ª)¥ıGêá÷kåû[P&m+¡‚]1õİb¨|2ÜLÇ¥,r0P€W“‚âè®³§¯Y4®rï*®x¬â3ìSµÉ™Ò(¨*7¡N«üÌ~X›'mEá´*œ½0W¡1. .ÉâÈTÛ¡’O¾$5˜ş/iÜ¸MãŞ/èlõÁŠâÓşrwÓ¨+ÔW—®‡Ø ¾“¶‰YS0‚O0‚7 '+cÈÌM-›„Qrlôœ^2Q®Ş0	*†H†÷ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0‚"0	*†H†÷ ‚ 0‚
+‚ Ë:´Í¸œË)V¸y§øköùØrÃ¦˜­*AÚa.GR½tQ¾]ìz‚¶Àûúè'¥‹èşbó`ñ_HÊss•äNnÌNz5ŞXá×‚ÜÒGCw›ßHˆyŸ£9¤YN^àNG—òuB×v=¶¤"ÜíÆoÔrFŒÖQÇµ·zò“ù#'Õ€PuŠp héç¼„(|œ*ê)©À/şÉvFU°/cê}ô°D¤@Ş@6\DŠTkWHÿ»o¤ÕêÂ×|Ø¼Îi¿  M“E;™.yÒÏŸ)»FÙxc0–3Qœ^“múå4JXx³)l]|¸u•<™w!{Ø´JëÚÍÇ
+ÖÉ¢Ş®—³¶Q–Ú’›Ã²»PÄş¶¤L•]-’jObåà*÷i œÕ¹“ ÚÑ»^OÆ¯ù)LĞÉìëó²qP{v'h‘ùPˆ¸w5ØÍ¡á×Ó)çJÆ‡TY$Âg²m	5ÛºÎ¸F¥à‹Úá§ŸjÎ`ÒÄ÷ÁŞsyUàp´ïêÌÇşv‰Nf
+iˆ-íÃF¢*äŒÔœWF-XbÕÊ¨ú~øÂÙajË5] “£²e¨/íï˜çü~ºHôª¡qü“¯ê§NsˆiÕBÀù„’…OËT³=:øİ)eyÊC–¸‡X–!ïÑ‘{ £‚&0‚"0Uÿ0ÿ 0Uÿ0)U%"0 ++$
++ƒè^0U9=GÜ—¯ˆ{MsÍåî¤¥*0U 00
++ƒè^0U#0€ü*Ju:€ú™c“ğsWì¾“°}Ã{0x+l0j0$+0†http://ocsp-c2pa.ssl.com0B+0†6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*†H†÷ ‚ Î6ú>ï–6-¯Ufÿ{+ kVõË­½*­¥¦ĞM£>“ä“iÕäŒ¨næ7Tâ%œìef(<3=¢š¢»ÍgdJç¾t!¡nÃ«&Ä;,ÚU¹ıGNàx›7ƒÄt;ÅGaïmAr¤Û]CSÉ–Nåà:ß¨İ.Ñ¯X—Öçô_r#<kÏ½9«Œ“¨§vY>á’õ÷ÙûFb«nnÔˆF ³/*j_¥NÚøÔüÌÙ£<©wE
+Áù˜¹9ËÌ¡qÀ*‚qÓäö%âQ!mÖßäSoJ}^ÀºÕwy!zÎí÷›¶²ŠBVkA*şkœ‹î£(Ï_óéĞdÖîÂ‰Kë’Ïõ¯Â'M¸‘¡7%™æı€Üô¼Ç7{¾´-gXğ/çÃ³‹qåDz0¶¥²u>[#~;ÓT¦:¹ÇÌ3Õj5zv/şWÚiø>?ïT‹{FÃcúíÄ/p„+öV‚ô§Ë$×l^${:½©X;i³œÒptÿ‹n&»Ã«EÇS–œGµÆF«^õüˆ‹h£5å|j•eµ«ë¹ÿº¸à›JG²Îì/‰}î¯œMÄÉÎõ2=÷&4ş"‹zíù^^g_Q[Û$VûÑY¡·Şšf	¶Ñ†.ú}~•y›Df|6…öõ£gsigTst2¡itstTokens¡cvalY‹0‚‡	*†H†÷ ‚x0‚t10	`†He 0‡*†H†÷	 xv0t
++ƒ¿0010	`†He  M÷L%hÌŠqÇrE ŠŞ=ïCw à‚NÇô	 ıPkgEÌñ20261012164856.616336Z0€soi®bX„ ‚f0‚ö0‚^ aÛF(2ŠŒJ·¿ş`ãl?q·0	*†H†÷ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0‚¢0	*†H†÷ ‚ 0‚Š‚ êÊÅ­”ığı'ŸÇx§aÊÿ)a*û¡ˆÍ_¨¢—‰/‹‘È¼°–=U‚Á–6j­‰ièÛ,D2ƒ¨
+Íwå5èî¨d[ş¸àç ¡(Ã5İ§7é"÷	M—š´„sÀ.|©PG( ´ğiğ°‡)zYş5BùÙiRJ 7òhÌñ-·‚– KF\=¤†¸KEf8¢NM'Ê•ºuÌN‡jŸtÃ $_Ä~\®şó•í ‘ß<õ†›*^ÖĞİÉúÈMÃÉ„ZI,ä8s`R¸LîÆó·¶Øİj©Î º]ÖÄ\5dò#S?be]p+ÔÉk	ERèWíZF]Ú]vœ%yhƒQ¤˜„u‘r˜UÿØãCb±íig'A¼Åòj+ƒIèá-4»9¯g½´•È²½EgÍrˆ”_UK,­¯í¥ô$¯w>ƒŠdQ‘Œ9–K°=®ú™¡>Œ=ğ¾6¡.õcµ £x0v0Uÿ0 0UÿÀ0U%ÿ0
++0U¤'T‚¢Š€{=Å†Í?pÙÂƒ™Qx0U#0€òğ°ÇT=#C…ÜÊsĞr€=¸¨0	*†H†÷ ‚  û$OAÀÀ¼˜²2  ™H5OÄFV~§>?¶¥#ù*H>àQE@xÁ»ƒN“PÉ›'–hßMÎòöÒy«ïêÁÚ?õ˜YæpÍ‰ôîG‹ªËìÿŒ~áFØ‘æœ¸ä4FÿaÒxø}89ãRí_fèsÀ r;ä¨«†*£7!ù;ß{\TØLÇj*KÏCt`€s£ÉÑw¯‡©ıµ±„jn¿ˆ*Îš¡š«¢‚H7ÅcQ—ÛR|ogÉiBÕÏõû­^‹âày<.ƒj¥è%A…íäÁ :şRPï‡ŞádÍUù! ß¶)ïŸ'nÑº4F«J"OçbwİE#İa-Â1)Ä¹~y«´WÔÁìÏá\{eI°ëM«¤Ç'@N¦´µÏ|Ã´C§vÓ^0cî¨®5(td«Z5ã[/:>N
+aÖ0MC›ÿN.Æ!¹>:, W0ujdK¢Ğ	Ñ× g&Amgøpv¸%&Vù‘&'ÃKI0‚~0‚f ÊÆÅÅÚ°¼ñN•¥ê¼0	*†H†÷ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0‚¢0	*†H†÷ ‚ 0‚Š‚ ‰¼Ô¹âÈ¡¾a»Ş<df~§¾œmÓ©0&<ôàk 9ß•4í©¢eHÛ7†2ƒÌ
+J Àó4l À˜Í+Ÿ¥ôË|Ù&Ş~ÉM¢ïc[‘æöY¨ÒúNùÙ8+ZÍ`Z˜˜¨×SÆãÖ.H¬CW	é”òGùlEŠ`·÷®/^¢5N…8…iŸ4ĞMØC=Í4müc“üÓp»JèvèjNfI íüø¾ïš·¨w¬ï·8Ì¹Ô*3ÄvÖ@wËşÇ]-@ÓŞ‹<ÀÖ@A™Ë”?,} kRüÊP·	GEá#Uú±OoT˜•ô}ºøhá"zÜŠ‘C‹¶.C±b ¾Ê$.ï¿¤ÑMè¸?1Ï&=Å PêòÙ$ díÕs.pxªŞV<ùÔ€¢è­¯öû¨£\Ëh«DÛ0wòÄ4tkUmÆ‡ûò2<qE÷ìPûşÖ1&»ĞÄMaâBÛ¯Ã+n_+æâ°ï\DÍÀs}¢é½m‚¼%e„0ií £{0y0Uÿ0ÿ 0Uÿ0U%0
++0Uòğ°ÇT=#C…ÜÊsĞr€=¸¨0U#0€XÂ@ <Gv+¨æn¨‘––È·Ùä0	*†H†÷ ‚ ’ì7\ŞlëdÚ®¡	0r®Ürõ;¼z=ÖÆá/öƒ3}èW@NL™ªkÔ™Ù‹ÛkÖLøÊĞY3Ó¡ 8\#ˆD$û‡áö“'¼¡íL_g]ÿ5«1Òì{Ô@C7OÂ„œºdÈ°¢~š6øáĞ‚³PC²àU½€”ÈYRNJtŞ]ÇEX›·ú0ª;ÜG¼Õ.,¹8c,yZ·İU­=BßˆÏñhşs ÔZ·Ş$—‘ÀçgşÜ¦
+ó¥F³QÏ¯_ãÈ¸@Æ½ãùÖKqĞd]ådÂKÀ^wÑ=Ç[Ï{ı””çKQÚûdô«ğ5”ñö¾~+İ²š=PİPÃ–dm«sŸ(;wĞ—íoEO±3._Fëƒ¶©a¼×‚®ø€oÂãi0æm|:D’+˜-¯Ü4Á¾¥*Hç‡ÈŞ8µ3Êã„Ppñ²KŞOö‘Ü_…úñæÑ×Ê§î´Ÿö!x)ğãpXw†¤:K—ƒFèÚÂjvÉ©Ë!E¾e± †.€¼YKM›Cm´×„àüğÕÈaCjÃñ!<„]ş;ÖØ#9E_qú2ı €•DµO åÃtıâN‡r†ôğQ‡½Ôµ+5l’¤;kjºıÀ;œvÂÕ9IÚã”>Pj×Lâ‰aïëÏÅÃ@npz80‚æ0‚Î P;l‰Œğ$3,÷Oû}‚ì0	*†H†÷ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0‚"0	*†H†÷ ‚ 0‚
+‚ ö’éÒº­á¬u¨VØª±³j’_–yõ’·-$ø¿À¯`¾ÁšÍyšÜlšş6šÁ˜¤?ä,º¥¥Ps³
+ÂùóÄI/x½Òì¼ç?ô›Ñò a¢,‰%ÊQù%œÒÆ/ô‰ÄAş&Óm5Íì»5`@¨…Q¾öî˜ñ*ØzkjÙ.Ùcóå\)Å†"ÁŠhÍë8©P–[#Cû8ÿB|;:¡Q/%ÉHÜ1ÿPrîğ|¡wÍoaó?¿nèÒ±¦6äk2ûşw¨^›\İİ1LeÿËAÎ(1SÊCÎHn}Öd³)ä´.:·TZrVWó¨j}ïæaİeÈH	I™2tğ
+¢Ìİ“ S¬#½‚… ±ï¾í¡w î:F3¢ì¯é1f´fo²‰“ ~•!ÎAø^ğéÍ¹ÀÕ3]xĞĞ'1ÏP0rsÚjÂÀ“Ï­Üd‡öûNˆvõ>ïÿ’,™w.öÜ˜¶	:ıô	Ç_Zé~H	+µŠƒò[<,¯‘¢A·RhÑ¿°ÀÚO`½î)ªí‡q\(Œˆ£%cEØü{alFT;\É°‚¯ƒÈ±#?Ÿ[î¢×Tµ*S®»…Û¦ú—ì„‰róz@É¶…XG[ñ$a9¢LŞØÆ¨"ò¿[L,Ë £f0d0Uÿ0ÿ0Uÿ0UXÂ@ <Gv+¨æn¨‘––È·Ùä0U#0€XÂ@ <Gv+¨æn¨‘––È·Ùä0	*†H†÷ ‚ Xø‘˜òlaşÈ†Ö[„¦Ö¾¸¦]]IË¸¡)Í-¸Xùğ„‰=<øoÕj´*¢U’ğg™^µTûšF€ãQ SÀÁˆWŞï‚U~ãô}ë&üƒÿ!¨Á¬ŞÛ“«ÍĞ0v:“Îªg9.€tßmğ~v/éêPA‹8=låà>î/ÛdT6^¾bE¶Ñ!´€<ŒëÚœÖJ©ÕTe[kÑX~ÀI‡ëëK_’;”×š†ö¡YÎGğ8¬Ã°tdÑÀR;¡±{(kái—ø(;'ÿ®¤÷eË ôê¹½”ÎDâ˜±
+HhîU©!¥`şÊÖ}Ñ{† œó¨xĞÆÚ@.È\b¨*ÁûVçy¯ìåÛÓpşFÌc¨dñ<é¯¥d¼^¿…-°Îã¹Ó¤×R»p‹†û.¿
+öÒU+#B+C\ì¡‚a?Ïqí°÷—éäËÂ<ü¬w·¶Ü ÁLé‰²²/Ã~’dœµ„ŞÌ–ı‰°KµC}Òé­†ıÙ-Ÿ½ îÀ´GV#|H‘Ng‰ {bÁÉ^UñöÆQ#Woï‡¾ Fy¾”±È (•Šˆ&UfRïÙKº¨ZéÂ,­ŸÃ\Bó¡õ'dyqŒ
+Zı¹ùEypájµ7–XıE¿T%Œƒ=Ù&3#ĞXw¦¸1‚h0‚d0“0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAaÛF(2ŠŒJ·¿ş`ãl?q·0	`†He  ‚%0	*†H†÷	1*†H†÷	0/	*†H†÷	1" šwxà)øÎ7‹5qâ‰d™¢2Z©¼Tq|mÙÕ-0Õ*†H†÷	/1Å0Â0¿0¼ ½O¹²L6gˆnïAámşÙ"¿[’JĞ¢Ä`F"z0—0¤}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAaÛF(2ŠŒJ·¿ş`ãl?q·0	*†H†÷ ‚€wß!>Ğ-­ÚaÉœ…Gè/ûIŸ?(^z0R­¾BZ°Ê´¤pJ"²ü”uóèÄÁë_¹	íÚñ4ln–”ª5n¥V}¿DÑı4B$™[ÏÃÀ?µ5ÇÉ`æô¡å¸gç/\Ò5fğßa_|–¾N"‰'7b°â_X=_‹ÏG­ow15Cšslè¡œ!B¿>‰Q  R…dÈÊİ*˜Ø/—İÖÏp™&$ÓòıV(YbİyÂÜŒƒTµrÕËÖ°º ¹O{ãáŞ‡t
+NÈ, 4áK/ÓZÛÒä°üÀyÊôÍ …0º/ŒÚÅõêÌ“m%ÃaĞÙg¤5Ÿ^Jgu.L€¹b%ú7P“ó¤PGæ\oœ´ X%B.­Ozí–Æ šÓñA×~Ü¨3º nM6Î
+ş¢n6 $Ş§Otó»/€4lÖİTIùÇ³!´Î&ËÆ[ñ›,¥@´¿…LYJ/h¶NZ´1¯p‹erVals¡hocspValsY×0‚Ó
+  ‚Ì0‚È	+0‚¹0‚µ0é¢ûW¢ÀKÆ·‹Uuz=T~dC]20261011220742Z0˜0•0I0	+ ß‚7S^SØ3±à=$5ñuæá
+9=GÜ—¯ˆ{MsÍåî¤¥*¥üépŒò€1îDds€ 20261011220742Z 20261018220741Z¡"0 0	+020161013220742Z¡#0!0	+0©›@9ÎO…evyMïşÃ0	*†H†÷ ‚ Hc|—ŒeDdá›3:®~@²éìN¥YµI×ì¤#Àe×óğÂFE¼b”“x.ÀDD”> Ãt{ŞÄ u@ô¼˜?²rı›o÷ìåãœ£³RV{#,š3M"ª
+À}ê¹QöpV5-ŞH8Pš¡ÍX?ö±ğâ­`(Á5(>Ğt°tˆJ#AÙud9$Œ¯+RŒê¢ıÍ'¼E>„¶}|ÂâöZÃ|Aê•ã6ö£‹K5Ép& ¿ŞŞÄ!}EÇú";‡'§î§'¼\ùùrÁÖdšúªÖº-İ­Pj¡çE¨FórˆYZ Wú'eíK}kx.v¶NgWfZ¬kƒÇ²Šƒµk¶´HßÑ,Ü6lÁu	êÉ{O÷ÙùwØòğ‰1D^Ó¬pğŒìå»_Êóñ9ÁdnJ`i9[œãc²5Xí;#ß¶«GódâÄ…¹‹m–RGOv³ŞÓŠòÚ™<RƒË|ù’§òRP ‚10‚-0‚)0‚ crê÷\M±'¥_wİŸv0	*†H†÷ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102211155Z270102211154Z0M10	UUS10U
+SSl Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0‚¢0	*†H†÷ ‚ 0‚Š‚ Ï‚o‹#mÙªdMö^ÿàªq²¬²Ü¥¥Èxd*Ÿš5¬W«(vÃÚ\&²ÂáhAtQ ‘IàÈğÅÕÛtôÁÔs~x=gè!;h:&'¤äéˆ§ÛYcG¿'7ê>N!ü²Âï²"„a÷÷*ã­é	 &Wadój€¬~e:®sİLİ¨i;ÅwXéÔ­ÈõŸ4’Oİ”~Mˆ OO”÷Ôv'¦¦ØÓ£*íë`ãyV	I”¥`sËÂlAóÏzy”­ôÿ‘xçÓ³[pÛòÜŠÌGâ¢J¼º¥RUeY=§‡ƒõzÃRüÎuôèyÄ‘Zôs”Ëtş}ƒŸ !õGşC[Ï^-®zú]ÔYÍ«ç©KØÕ—,Ñc½ê:ÛøW_)ZÒÍ®dPÃô€"ÓŠ­¢»‹qá¸%´^Ruåúœ,'µÂL\;PÍ¬­ Bx’İd;->¶Z:”‡pš3+×î
+P3,Åãn°
+(kq]ÇÖyàæ' £‡0„0Uÿ0 0U#0€9=GÜ—¯ˆ{MsÍåî¤¥*0	+0 0U%0
++	0UûW¢ÀKÆ·‹Uuz=T~dC]0Uÿ€0	*†H†÷ ‚ 1åµkv×ÂÛ*}é®Ü›/ïŞæxç5¦¡R[nk\‹ti* €Í–ˆá†m¹×V “©o"ÔVT)”Ú¿2,ÂŒê$T_4*×SfÂ¿Göÿì‡Q4AËdAx~1¬6‡LuÆ“Æ´Mí‡ñ€5ûPÇOZûq	¾šcşË‡~†!–?
+ÌW‡ğT&vİ¨¥ìq­—:7™èÑ¥Ò!À“£ûoŞIdıÙµZ°,:¿?¾R¢)Ôí°.Š,J#1ú§°†¶ˆ•°Ú<{ÒfA,®jKÊ÷S>˜½|²Äµé4¿+–I+©B1ßÂÉ-•½eºù{2{XÁñ«V&)Px;7
+„*B‡ánóß|» R_ƒ}DØÅ²JµåĞ€ÃñÙÇ˜ ešÿ‘Gò­ËyO_IAeÂ¼O«Wt[ÇØ‰‹¦à¾9’fÏ³øœÛr›Ü¨à|ÿ Í‚EãKñAØş©ƒÒ‚œ’i}.Vpi‹É¸ôríøıë;ÌÈêµRO©#“e.[Ş“ÅØW@Ç"Pã9z‡úÄÁü!K†ü~¿’ÜO†cŠ½^CD„W2àîˆß¸BS§z×äøÙZi•Ÿ/ÄÌÇqNØ­W]m›ì|Ñï@®ğBè³ÓÉ2ÄSi9Ç6îòœDü=ÂçùçÚydÇcpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     öY 9M"øªKÏ…©ÏFÓæÌøNYà!_	¼‚‹RÀã0L—‘qûŞNqò9´·^z §<Vîcşñ4É]Ú½‘P­ÃU-Ÿâ@ÔLŸú
+`ôcã@}oôj{ƒÑ Ìí÷0&~d§;™€±v@€¾
+ÎgÍîÓğ@Wbîhÿ…muĞ/‘aUğiDM[²¥ZŞº:ò–;€fc‡//_ì|fÜo¼§MzßÏ"%4¶Şº"Ì¾ŠhF¤æI©\¡z‚RÿÁ­‚pÜ¥È]üÀ“Ã€³,ŒòF–+Òš€»Â$OèĞ ¼İà3
+endstream
+endobj
+405 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 404 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+389 1
+0000153997 00001 n 
+404 2
+0000154157 00000 n 
+0000178539 00000 n 
+trailer
+<< /Size 406 /Root 389 1 R /Prev 145696 /ID [<fff8106aecd72295f46eed76dc5a5c09><fff8106aecd72295f46eed76dc5a5c09>] >>
+startxref
+178737
+%%EOF
