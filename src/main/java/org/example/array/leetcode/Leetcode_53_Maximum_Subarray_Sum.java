@@ -1,6 +1,6 @@
 package org.example.array.leetcode;
 
-public class Leetcod_53_Maximum_Subarray_Sum {
+public class Leetcode_53_Maximum_Subarray_Sum {
     public static void main(String[] args) {
         int nums[] = {3,-4,5,4,-1,7,-8};
         System.out.println(maximumSubarray(nums));

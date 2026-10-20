@@ -1,6 +1,6 @@
 package org.example.array.leetcode;
 
-public class Leetocde_88_MergeSortedArray {
+public class Leetcode_88_MergeSortedArray {
     public static void main(String[] args) {
         int nums1[] = {1,2,3,0,0,0};
         int m = 3;
