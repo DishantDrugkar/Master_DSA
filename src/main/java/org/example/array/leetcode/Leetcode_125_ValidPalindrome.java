@@ -1,0 +1,22 @@
+package org.example.array.leetcode;
+
+public class Leetcode_125_ValidPalindrome {
+    public static void main(String[] args) {
+        String str = "A man, a plan, a canal: panama";
+        System.out.println(validPalindrome(str));
+    }
+    public static boolean validPalindrome(String str){
+
+        str = str.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+        int start = 0;
+        int end = str.length()-1;
+        while(start <= end){
+            if(str.charAt(start) != str.charAt(end)){
+                return false;
+            }
+            start++;
+            end--;
+        }
+        return true;
+    }
+}
